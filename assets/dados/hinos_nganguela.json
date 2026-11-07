@@ -1,0 +1,682 @@
+[
+  {
+    "id": 1,
+    "numero": 1,
+    "titulo_pt": "Njambi Tata sangalenu,",
+    "texto_pt": "1. Njambi Tata sangalenu,\nEnu vose va ha mavu;\nNenu tungelo va muilo,\nIse, Muana, na S'pilitu!",
+    "coro": null,
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 2,
+    "numero": 2,
+    "titulo_pt": "Tu lemesa Njambi yetu,",
+    "texto_pt": "1. Tu lemesa Njambi yetu,\nCizemo Cendi ca kama;\nTu mu zema Ikeye cili,\nTu ka Mu kava.\n\n2. Yesu Muene ua tu niunga,\nA hasa ku tu kolela;\nA hasa ku zimangana\nMilonga yetu.\n\n3. Tu ka kulahela lika\nKuli Yesu miaka yose;\nNa umo uahi a hasa\nKu tu fumisa.\n\n4. U tu kuase Njambi yetu,\nTu ku kave na vimbunge;\nTata Utu tuale kuilu,\nTu kale Nove.\n\n5. Hano hantsi tu zolela,\nTu kale vantu va cili;\nVufuko vuetu vua muilu\nTu ka vu mona.",
+    "coro": null,
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 3,
+    "numero": 3,
+    "titulo_pt": "Tuaya Muangana uetu,",
+    "texto_pt": "1. Tuaya Muangana uetu,\nTu kuase ku lemesa\nMuaso Uove;\nTata ua vumpahu,\nU hiana ku viose,\nTuaya na ku suana, Tata yetu.\n\n2. Tuaya Muanendi Yesu,\nZala na ntelo yove, u tu kuase;\nU tu vezikise, u hianese lizi\nLiove, mu mitima u ka suana.\n\n3. Tuaya S'pilitu Sandu,\nU tu leke vimpande ntsimbu ino;\nMukua-ngolo yose, suana mu mitima,\nKati U tu seze, mukua-ngozi.\n\n4. Kuli Njambi ua lilu\nYetu tu ka lemesa ntsimbu yose;\nMuangana ua kama tu ka mona vene,\nKu miaka na miaka tu lemesa.",
+    "coro": null,
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 4,
+    "numero": 4,
+    "titulo_pt": "Lemesa Njambi,",
+    "texto_pt": "1. Lemesa Njambi,\nNa tu hana Yesu;\nNa tu tsila ku vuvi,\nNa londa kuilu.\n\n2. Lemesa Njambi,\nNa tu hana S'pilitu;\nNa tu muesa vusunga\nMu mitima yetu.\n\n3. Lemesa Njambi,\nLemesa S'pilitu;\nSantsela co lemesa\nKuli Yesu Kilistu.",
+    "coro": "Haleluya, vumpahu vuendi,\nHaleluya, ame;\nHaleluya, vumpahu Vuendi,\nLemesa Njambi.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 5,
+    "numero": 5,
+    "titulo_pt": "Nji sangala vene,",
+    "texto_pt": "1. Nji sangala vene,\nVa nji tambeka nguavo,\nIza ku ndzivo ya Tata;\nTu zive luhande\nLua Njambi Kalunga;\nVa tava va ka hetako.\n\n2. Siono limbo Liendi,\nVa li tungile vuino,\nKu tsimana ku vifuti;\nNjambi va mu lemesa\nKu cituamo ca kama;\nVa tava va ka vezika.\n\n3. Li kala lia livua,\nLimbo lia Yehova,\nNa ndzivo ya ku vundila;\nNoho tu ka uana\nVusoko vua cili;\nMutima uange u hiangako.",
+    "coro": null,
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 6,
+    "numero": 6,
+    "titulo_pt": "Njambi Tata, nji na komoka viose",
+    "texto_pt": "1. Njambi Tata, nji na komoka viose\nViminie Viove via tanga hantsi,\nZintongonosi, na muhiato muilu;\nNdzili Yove U na i solola.\n\n2. Omo nji hita ku musenge kuose,\nNjivua tuzila vemba mua cili;\nCipue cana, ni mucinda ua kama,\nViose, Njambi, vi Ku sangaziala.\n\n3. Nji vuluka ngue Njambi Tata vene\nKa vianene ku tuma Muanendi\nMu ku tsila etu vantu va vapi;\nNji komoka cikuama ngecize.\n\n4. Litangua omo Kilistu A keza\nKu nji tuala mu mbala ya muilu,\nNtsimbu ize nji ka sangala ngambu\nUze Ua nji lingilile viose.",
+    "coro": "Co nji imba ku Tata Kalunga,\nU ua kama, U ua kama.\n\nCo nji kemba ku Tata Kalunga,\nU ua kama, U ua kama.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 7,
+    "numero": 7,
+    "titulo_pt": "Litangua lia cili lize",
+    "texto_pt": "1. Litangua lia cili lize\nOmo nja tambuile Yesu;\nMutima uange u viuka\nMuomu nja Mu tsilielele.\n\n2. Maninga Eni a hasa\nKu tu ecela ku vivi;\nNgoco vene nji ka viukilila,\nNji ka sangala Kilistu.\n\n3. Kaha vene Na nji ecela,\nNji na pu muana ua Njambi;\nUa nji kokele, njekile,\nNji na tava kuli Yesu.\n\n4. Vuovuno mutima, huima,\nU na u alula muono;\nViuma nji uana via viuka\nVi li mu Yesu Kilistu.",
+    "coro": "Nji viuka, nji viuka,\nYesu Ua nji ecelele;\nA longesa ku vundila,\nNa ku zolela kua kama;\nNji viuka, nji viuka,\nYesu Ua nji ecelele.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 8,
+    "numero": 8,
+    "titulo_pt": "Mutima uange, hinduka!",
+    "texto_pt": "1. Mutima uange, hinduka!\nSantsela Njambi Yehova;\nUa njohielele ku lamba,\nNa nji hie muono ua vuana.\n\n2. Laza nja kele ku laako\nNa Muyoyesi Kilistu;\nVunoni nji li ku ovoka,\nNa nji hie muono ua vuana.\n\n3. Enu vakuetu, tuayenu,\nYesu na mi tsililile;\nNa ngozi Yeni ka i hu,\nMuono ua Yesu ua vuana.",
+    "coro": "Muono ka u hu na nji hie\nKu-ohiela Ceni na ngozi:\nNji ka Mu lemesa lelo,\nNa nji hie muono ua vuana.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 9,
+    "numero": 9,
+    "titulo_pt": "Na mitima i vuka,",
+    "texto_pt": "1. Na mitima i vuka,\nTu lemesa Yehova;\nMukua-ngozi ya ya-ye,\nKe Ku aluluka cahi.\n\n2. U na tungu vifuti,\nU na haka litangua;\nMukua-ngozi ya ya-ye,\nKe Ku aluluka cahi.\n\n3. Vintongonosi Viove,\nUa vi tanga na ngonde;\nMukua-ngozi ya ya-ye,\nKe Ku aluluka cahi.\n\n4. U na lingi vilingo,\nKu neneha via kama;\nMukua-ngozi ya ya-ye,\nKe ku aluluka cahi.\n\n5. Na mitima i vuka,\nTu lemesa Yehova;\nMukua-ngozi ya ya-ye,\nKe Ku aluluka cahi.",
+    "coro": "Mukua-ngozi ya ya-ye,\nKe Ku aluluka cahi.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 10,
+    "numero": 10,
+    "titulo_pt": "Yesu K'listu, Muyoyesi,",
+    "texto_pt": "1. Yesu K'listu, Muyoyesi,\nMuana Njambi Kalunga;\nUezile mu ku vovola\nVantu vakua ku vihia.\n\n2. Vumpahu Vuendi ua sile,\nUezile hano hantsi;\nMu ku setela va-vavi\nMuomu Ua lema vantu.\n\n3. Kaha vantu va Mu tsiha,\nUa tsile ha kulusu;\nVuvi vuetu vua Mu tuala\nKu ku-tsa Kuendi kuze.\n\n4. Vakuetu tuayenu lelo,\nTavenu kuli Yesu;\nA ka mi tambula vene\nNga mu Mu kulahela.",
+    "coro": "Tu Mu lema, tu Mu lema,\nOu Ua tu tsililile;\nUa tu hele muono Uendi,\nUa tu sambuesele kuvivi.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 11,
+    "numero": 11,
+    "titulo_pt": "Cizemo ca Yesu K'listu,",
+    "texto_pt": "1. Cizemo ca Yesu K'listu,\nNji kala na cikeco;\nEci ca cili manene,\nKa li kovela liova.\nNgoco nji vezika vene,\nA ka nji niunga cili;\nA nji kuata na kavumbi,\nNji ci vuahela.\n\n2. Nga cuma ca ku pihisa\nCi li ku hiehi nange;\nIkeye a limonesa,\nCo nji Mukulahela.\nCikeco cizemo Cendi,\nKa u ci tantekeya;\nKakeko kavumbi Kendi,\nKa u ka seteka.\n\n3. U tonda ku Mu zivuka,\nCa cili u Mu tava;\nTala! Lelo ku Ali kuno,\nU ka Mu kava vuasi.\nMu cizemo ca Kilistu,\nU hasa ku kovela;\nYange nji ka Mu tambula,\nNji Mu zema vene.",
+    "coro": null,
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 12,
+    "numero": 12,
+    "titulo_pt": "Na nji ohiela, Yesu Na tsi,",
+    "texto_pt": "1. Na nji ohiela, Yesu Na tsi,\nUa tsililile ku vivi viange;\nNa nji kulile ku vundungo,\nNji na semuka ku S'pilitu.\n\n2. Nji viukila ngozi yendi,\nVumpahu Vuendi Anji soluela;\nUezile ku nehela vantu\nCikeketima ca ku hiana.\n\n3. Nji litavela vivi viange,\nNji na vezika muli Kilistu,\nNji tavela ku-iza Cendi,\nKaha nji ka ya kuli Njambi.",
+    "coro": "Olu luhande, ou muaso.\nSangala Yesu ntsimbu yose.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 13,
+    "numero": 13,
+    "titulo_pt": "Tuenu ngunda muilu, zolelenuko,",
+    "texto_pt": "1. Tuenu ngunda muilu, zolelenuko,\nMukua-vuvi a ci hiluka;\nTale Ise Njambi A mu sesako,\nNa cizemo A mu tambula.\n\n2. Tuenu ngunda muilu, zolelenuko,\nMukua-ku-zimbala novoka;\nVivi viendi viose na vi sezako,\nNa semuka naua ku muono.\n\n3. Tuenu ngunda muilu, zolelenuko,\nNa tungelo va ku lisamba;\nZimbulenu kuose cipue ku laako,\nMuntu na sanguka ku vatsi.",
+    "coro": "Yesu, Yesu, Muovole uetu,\nYesu, Yesu lizina Liendi;\nVose va na tava va li na ku imba,\nNa ku sangala muana Njambi.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 14,
+    "numero": 14,
+    "titulo_pt": "Mukuetu ua cili, Yesu,",
+    "texto_pt": "1. Mukuetu ua cili, Yesu,\nVupi vuetu Na ambata;\nViose tu lomba A tu hia,\nMuomu tu Mu tsiliela.\nTua kele na vieseko,\nViteli vi na leme,\nMuomu ka tua vi tualele\nKuli Njambi, Mukuasi.\n\n2. Tu li na vieseko vietu,\nLipakeso ku li li;\nKa tu fuila ku katala,\nTu vundila ku Tata.\nMukuetu ueka uahiko,\nA ka tu lembezieka;\nYesu A tu tantekeya.\nTu suena kuli Ikeye.\n\n3. Tu katala na viteli,\nTu na hono mu njila;\nMuyoyesi U tu kuase,\nTu vundila ku Tata.\nVakuenu va ku mbuengula,\nU suena kuli Yesu;\nMu mavoko A ku sueka,\nA ka tu lembezieka.",
+    "coro": null,
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 15,
+    "numero": 15,
+    "titulo_pt": "A ci suene Muene Yesu,",
+    "texto_pt": "1. A ci suene Muene Yesu,\nTu Ku kengekekako,\nNgozi yove i na hiana,\nTu ku zumbangeyako;\nTu longese miaso yove\nMu ve ku imba muilu,\nMuene Yesu, Muyoyesi,\nTu ku zumbangeyako.\n\n2. Muene Yesu, Muyoyesi,\nUa tu tsililileko,\nVivi viose Ua kulile\nHali maninga Ove;\nTua sevukile ku laako,\nYove Ua tu ovueleko\nMuene Yesu, Muyoyesi,\nTu Ku zumbangeyako.\n\n3. Muene Yesu, Muyoyesi,\nUa tu koka na ngozi,\nKuli Yove tu suenene,\nTu lihita mitima;\nMu tu zeya, tu kolese;\nMu vieseko tu kuase,\nMuene Yesu, Muyoyesi,\nTu ku zumbangeyako.",
+    "coro": null,
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 16,
+    "numero": 16,
+    "titulo_pt": "Yesu U nji tuamene,",
+    "texto_pt": "1. Yesu U nji tuamene,\nNji li na vuoma lika;\nLika liange nja hono,\nNji kuate ku livoko;\nNji tuamene mu njila\nNoho muilu nji heta.\n\n2. Ngue naye a holuesa\nMuana omo a lila,\nNji lembezieke Tata,\nNji lomba kuli Ove;\nMuomu nja zela ndzili,\nNji tuamene mua cili.\n\n3. Amba tangua nji ku imba\nKuli Muene Yehova,\nKu vungendzi vua hano\nUa tuamene vuino;\nViuma viose vi na hu,\nNji ku santsela Yesu.",
+    "coro": null,
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 17,
+    "numero": 17,
+    "titulo_pt": "Keti U nji seze Yesu,",
+    "texto_pt": "1. Keti U nji seze Yesu,\nNji zive yange;\nOmo U va sana veka,\nKeti U nji seze.\n\n2. U tave nji uane oku\nKu ngozi Yove,\nKu-sambuesa kua maninga,\nNji kuase Yesu.\n\n3. Nji ka kulahela Yove,\nNji ku setela;\nNji kanguise mu mutima\nNa ngozi Yove.\n\n4. U nji hane vuana Vuove,\nMuono ua uvua;\nYove Muyoyesi uavo,\nVose va tava.",
+    "coro": "Yesu, Yesu\nNji zive Muene,\nOmo U va sana veka,\nKeti U nji seze.",
+    "categoria": "KU LEMESA"
+  },
+  {
+    "id": 18,
+    "numero": 18,
+    "titulo_pt": "Vose va na zivi, ambululenu",
+    "texto_pt": "1. Vose va na zivi, ambululenu\nMajui a ku ovoka kuose mu ka ya;\nKuli vantu vose mu ka va leka,\nUose a tava, iza.\n\n2. Uose a ka iza, keti u tate,\nLipito lia muilu na sokolola;\nMuafua ku-tsa Kuendi u ka kovela,\nUose a tava, iza.\n\n3. Uose a tava, cizango ca kama,\nUose a tava, muono a tambula;\nUose a tava, muilu a ka heta,\nUose a tava, iza.",
+    "coro": "Uose a tava, uose a tava,\nIza kuli Yesu A ka ku ovola;\nTata na cizemo vose A lania,\nUose a tava, iza.",
+    "categoria": "KU LANIA"
+  },
+  {
+    "id": 19,
+    "numero": 19,
+    "titulo_pt": "Iza kuli Yesu, tolilila!",
+    "texto_pt": "1. Iza kuli Yesu, tolilila!\nMu lijui Liendi A ku lania;\nHa kati ketu A imana,\nA ku sana, iza.\n\n2. Vantu va-vavi A va sana,\nVa pande lelo ku Mu kava;\nNa ngue tungelo va ka kala\nHamo Nendi muilu.\n\n3. Nga tu Mu kava tu ka uana\nNgozi ia kama ku tu niunga;\nHa ku holoka na ku huima\nKu vimbunge vietu.\n\n4. U ka vindama nga u hita,\nKesi na Yesu na ku-ovoka;\nS'pilitu Santu A ku kuasa\nU tave ololo.",
+    "coro": "Cili, cili, tu ka zolela,\nOmo na Yesu tu liuana;\nNa vivi viahi tu ka kala\nKu ndzivo ya Njambi.",
+    "categoria": "KU LANIA"
+  },
+  {
+    "id": 20,
+    "numero": 20,
+    "titulo_pt": "Nji hanga ku suena kuli Ove.",
+    "texto_pt": "1. Nji hanga ku suena kuli Ove.\nNga cilindakano ci nji zundula,\nKasi nji ka lomba,\nNji suenese ngambu,\nNji suene kuli Ove,\nKalunga kange.\n\n2. Mua nji enda lika na vusiua,\nMavoko Ove a nji kolesako.\nNange nji ka lomba,\nNji suenese ngambu,\nNji suene kuli Ove,\nKalunga kange.\n\n3. Nji kemba kuli kalamba kange.\nKu Betel nji haka cimoeso ca ngozi.\nNji ka lomba kasi,\nNji suenese ngambu,\nNji suene kuli Ove\nKalamba kange.",
+    "coro": null,
+    "categoria": "KU LANIA"
+  },
+  {
+    "id": 21,
+    "numero": 21,
+    "titulo_pt": "Ka zive lijui lia kaniungi",
+    "texto_pt": "1. Ka zive lijui lia kaniungi\nYove muanike ua Yesu;\nU tave lelo, u kovele,\nMu limba Liendi lia ngozi.\n\n2. Ikeye ku-lia A tu lisa,\nIkeye vuzalo vuetu;\nA hana viose tua jena,\nKaniungi ketu ka ngozi.\n\n3. Kaniungi ketu Atu amena,\nNambe tu yoya, ni tu tsa;\nTu kovela na ku vuaha\nMu limba Liendi lia muilu.",
+    "coro": "Kovela, kovela,\nMu limba Liendi lia ngozi;\nKovela, kovela,\nMu limba Liendi lia ngozi.",
+    "categoria": "KU LANIA"
+  },
+  {
+    "id": 22,
+    "numero": 22,
+    "titulo_pt": "Nja tulile muono,",
+    "texto_pt": "1. Nja tulile muono,\nNjecele maninga,\nMu ku kula yove\nNa ku ku hia muono.\n\n2. Vumpahu vua Tata\nNa ceke ca muilu,\nNja vi tolakanene\nNa vupi vua mavu.\n\n3. Nja ku yandelele\nNa lamba ya kama,\nMu ku ku patulako\nKu ngolo ya ku-tsa.\n\n4. Nji na ku nehela\nVuovole vua Tata,\nMulonga va ku ecela nga u ka tsiliela.",
+    "coro": "Nja ku tulilile muono,\nVika ua Nji hanako?\n\nUa nji tulilile muono,\nVika nji Ku hanako?",
+    "categoria": "KU LANIA"
+  },
+  {
+    "id": 23,
+    "numero": 23,
+    "titulo_pt": "Nji na u tambula muono,",
+    "texto_pt": "1. Nji na u tambula muono,\nUa uvua ua Njambi yange;\nUkeuo vene nja suana,\nVufuko vua kama vene.\n\n2. Muovole Ua enda nange,\nNgozi Yendi nja zivi;\nUa nji kuata ku livoko,\nMu ku nji tuamena vuino.\n\n3. S'pilitu A simutuila,\nMajui a ku vuahelesa;\nMu mbunge a tovalamo,\nMu ku nji hana ciyulo.",
+    "coro": "Tuayenu vose vakuetu,\nTu ye mumo tu va vose;\nTu kovele mu cifuti,\nCize ca civua ca Yesu;\nMu ka kala vantu Veni,\nVakua-ku-lela va Njambi.",
+    "categoria": "KU LANIA"
+  },
+  {
+    "id": 24,
+    "numero": 24,
+    "titulo_pt": "Tu vangendzi kuno,",
+    "texto_pt": "1. Tu vangendzi kuno,\nMu cifuti cino,\nLimbo lietu li li\nMusinia ku laako;\nNa tu tumu Nguendi,\nMu ka va zimbuile\nLizi lia ngozi ya Njambi.\n\n2. Na mi sika Nguendi,\nZangamenu vuino,\nCitozi a liko mu ku tangulako;\nIvuenu luhande lua ngozi ya Yesu;\nTu mi lania, lihambienu.\n\n3. Kuimbo lietu muilu\nTu zanga ku moma,\nLia hiana ku viuka, lia lela ndzualala;\nCitozi uahimo, vakua-vivi vahi;\nTu mi lania, tu ye mumo.",
+    "coro": "Ivuenu luhande Luendi\nLua ngozi ya Tata Njambi;\nLihambienu Nendi,\nMu ka uane muono;\nTu mi lania, lihambienu.",
+    "categoria": "Kuli Hamba"
+  },
+  {
+    "id": 25,
+    "numero": 25,
+    "titulo_pt": "Yove lika, Yesu, tuamena,",
+    "texto_pt": "1. Yove lika, Yesu, tuamena,\nU nji eseke mu mutima;\nU nji vukise mu maninga,\nKaha mutima u ka lela.\n\n2. Yove lika, Yesu, tuamena,\nNji na zuzuka, nja katala;\nNji neza, Yesu, nji tambule,\nNji pue Muanove ntsimbu yose.\n\n3. Yove lika, Yesu, tuamena\nTuaya U suane mu mutima;\nU nji sulise na S'pilitu,\nMuli yange va mone Yesu.\n\n4. Yove lika, Yesu, tuamena;\nYove U zange, nji ononoke;\nU ka nji tume, nji pangese,\nNa ndzili yove, Yesu, nji hie.",
+    "coro": null,
+    "categoria": "Ku Li - Hita"
+  },
+  {
+    "id": 26,
+    "numero": 26,
+    "titulo_pt": "Viose viange Viove Yesu,",
+    "texto_pt": "1. Viose viange Viove Yesu,\nViose nji na lihiti;\nNji ku zema ntsimbu yose,\nYove lika U Muene.\n\n2. Viose viange Viose Yesu,\nNji tsikama, nji tava;\nViose via mavu nji seza,\nNji tambuleko lelo.\n\n3. Viose viange Viose Yesu,\nNji kala Nove lika;\nNji linga cizango Cove,\nNgue tunganda va muilu.\n\n4. Viose viange Viove Yesu,\nNji vuahelela Muene;\nCiyulo ca cili cose,\nVumpahu vua Muovole.",
+    "coro": "Nji na lihiti! Nji na lihiti!\nViose viange Viove Yesu,\nNji na lihiti",
+    "categoria": "Ku Li - Hita"
+  },
+  {
+    "id": 27,
+    "numero": 27,
+    "titulo_pt": "Lizi Liove nji ivua,",
+    "texto_pt": "1. Lizi Liove nji ivua,\nLia ku nji sanako;\nNji tave U nji vukise\nMu maninga Ove,\n\n2. Nji na tantekeyako,\nNji mukua-milonga;\nCitele ca vupi vuange,\nHanga nja ambata.\n\n3. Ku matangua a engi\nNja lisambuesele;\nLelo nji iza kuli Yove,\nNji mukua-ku-paya.\n\n4. Cipue ange nji ua mupi,\nCipue ngolo yahi;\nKuli Yove nji na uana,\nViose nji na zela.",
+    "coro": "Nji li na ku iza\nLelo kuli Ove.\nYesu U nji vukise,\nMu maninga Ove.",
+    "categoria": "Ku Li - Hita"
+  },
+  {
+    "id": 28,
+    "numero": 28,
+    "titulo_pt": "Vakuetu halakanenu,",
+    "texto_pt": "1. Vakuetu halakanenu,\nOmo nji na tava;\nNji vuahelela mu mbunge,\nOmo nji na tava.\n\n2. Ka nji lemesa mahamba,\nOmo nji na tava;\nNji halesa Nkuli yange,\nOmo nji na tava.\n\n3. Vimbundi nja vi tsimika,\nOmo nji na tava;\nNji lemesa Yesu lika,\nOmo nji na tava.\n\n4. Ngombo, mutungu,\nNjambila, omo nji na tava;\nNji lombela kuli Njambi,\nOmo nji na tava.\n\n5. Vumbanda vuose nja viana,\nOmo nji na tava;\nNjambi lika nja tsiliela,\nOmo nji na tava.\n6. Vulozi, vuanga, vuahiko,\nOmo nji na tava;\nCilemo lika ci ivua,\nOmo nji na tava.\n\n7. Vuoma vua vandumba vuahi,\nOmo nji na tava;\nNjambi Tata nji Mu lema,\nOmo nji na tava.\n\n8. Cinguvu ka nje ku cina,\nOmo nji na tava;\nMiaso ya Njambi nji ku imba,\nOmo nji na tava.\n\n9. Makuli ose nja seza,\nOmo nji na tava;\nVusunga Vueni nji kava,\nOmo nji na tava.\n\n10. Muilu mu li ndzivo yange,\nOmo nji na tava;\nNoko nji ka kala Neni,\nOmo nji na tava.",
+    "coro": "Omo nji na tava,\nOmo nji na tava kuli Yesu Kilistu;\nOmo nji na tava, omo nja tava kuli Yesu.",
+    "categoria": "Mbatizimu"
+  },
+  {
+    "id": 29,
+    "numero": 29,
+    "titulo_pt": "Nji hasa ku tana, ni?",
+    "texto_pt": "1. Nji hasa ku tana, ni?\nManinga a Yesu lika;\nNji hasa ku ovoka, ni?\nManinga a Yesu lika.\n\n2. Oku ku-ecela kuange,\nManinga a Yesu lika;\nNa ku-tambuka kuange,\nManinga a Yesu lika.\n\n3. Oku ku-huima kuange,\nManinga a Yesu lika;\nNa ku-sungama kuange,\nManinga a Yesu lika.\n\n4. Nji hasa ku tana, ni?\nManinga a Yesu lika;\nNji hasa ku ovoka, ni?\nManinga a Yesu lika.",
+    "coro": "A kama kuli ange,\nA tanesa nji toke;\nLisima lika liange,\nManinga a Yesu lika.",
+    "categoria": "Mesa Yamwangana"
+  },
+  {
+    "id": 30,
+    "numero": 30,
+    "titulo_pt": "Via-ku-lia via muono",
+    "texto_pt": "1. Via-ku-lia via muono\nNji hie Muene,\nNgue omo Ua va lisile laza;\nMu mitima yetu tu ivua ndzala,\nTu ku hianga Yesu, Yove lika.\n\n2. Tu hianga vimpande\nViove Muene,\nVi pue ku-lia kua mitima yetu;\nVimpande via vantu ka vi viuka,\nCenu vi linga, ka vi kutisa.\n\n3. Fukula mukanda\nUove Muene,\nNji longesemo vusunga Vuove;\nCipue ku vupange, ni ku huima,\nNji ka yongolavio via Kilistu.\n\n4. Omo tu tumbama\nNove Muene,\nVakua-ku-tava ku mesa Yove\nKu-tsa Kuove Yesu tu vuluka,\nLizombololeko kuli etu.",
+    "coro": null,
+    "categoria": "Mesa Yamwangana"
+  },
+  {
+    "id": 31,
+    "numero": 31,
+    "titulo_pt": "Yesu ua tsile ku kulusu,",
+    "texto_pt": "1. Yesu ua tsile ku kulusu,\nMu ku nji eca ku milonga;\nKuze nja tana mu maninga,\nNji na vuka to.\n\n2. Ua nji tambuile na cilemo,\nMuntu ua mupi ua mazilo;\nNja lela lelo mu mutima,\nNji na vuka to.\n\n3. A lania vose ku izako,\nCipue u na pihia cikuma;\nYesu A ohiela, A niunga,\nU ka vuka to.\n\n4. Tuaya u tane mu lisima,\nTavako lelo kuli Yesu;\nU ka kanguka, u kovoka,\nU ka vuka to.",
+    "coro": "Nji na vuka to, nji na vuka tó,\nKuze nja tana mu maninga,\nNji na vuka to.",
+    "categoria": "Mesa Yamwangana"
+  },
+  {
+    "id": 32,
+    "numero": 32,
+    "titulo_pt": "Lelo mu cifuti",
+    "texto_pt": "1. Lelo mu cifuti\nVa kala na ndzala,\nNji ka i tuala mbolo ya cili ya\nmuono;\nNa ndzala ya mitima\nNa mbolo ya muilu,\nVa na li va tambula\nMuono ku hua cahi.\n\n2. Lelo mu cifuti\nVa li na lihuila;\nNji va tualela mema\nA toka a kama:\nLihuila lia mutima\nLi lingisa vuvi;\nMema a hano eka,\nKa li hu lihuila.\n\n3. Va tava va ka liako\nKu mbolo ya Njambi,\nNa ndzala co i na hu,\nLuhande lua Yesu;\nLihuila ci li na hu\nMu ku nua ku mema\nAze a li na muono\nKa kama ku hua cahi.",
+    "coro": null,
+    "categoria": "Mesa Yamwangana"
+  },
+  {
+    "id": 33,
+    "numero": 33,
+    "titulo_pt": "Katukenu vakua-Njambi,",
+    "texto_pt": "1. Katukenu vakua-Njambi,\nYesu Aku iza;\nTakamenu, vundilenu,\nYesu A ku iza.\n\n2. Ivuenu, vakua-Satana,\nYesu A ku iza;\nMu na pande ku aluluka,\nYesu A ku iza.\n\n3. Tambekenu kuli vantu,\nYesu A ku iza;\nVa ka tave kuli Njambi,\nYesu A ku iza.\n\n4. Va ku tava, va ku ovoka,\nYesu A ku iza;\nVakua-Njambi, zolelenu,\nYesu A ku iza.",
+    "coro": "Takamenu, A li ku iza,\nNdzita i ka hua;\nLitangua li li na ku ca,\nA li ku hiehi.",
+    "categoria": "NDZITA YA CILI"
+  },
+  {
+    "id": 34,
+    "numero": 34,
+    "titulo_pt": "Katukenu na ndzili",
+    "texto_pt": "1. Katukenu na ndzili\nMasualale va Yesu,\nTuamekenu pandelo,\nI fuila ku endela;\nKu lutue na ku lutue\nI ka tuamena vuino,\nMasualale va ziva,\nVa hiana ntsimbu yose.\n\n2. Katukenu na ndzili,\nMu ndzili Yendi lika,\nNdzili yenu ya ngoco,\nKa mu hasa vene;\nZalenu ntelo Yendi,\nMu tale mu lombele,\nOmo A ka mi sana,\nTavenu mu lingile.\n\n3. Katukenu na ndzili,\nNdzita A ka manesa;\nTu lua na ndzita lelo,\nImene tu hiana;\nA va hana cilongo;\nVa nononoka cili,\nVa ka tumbama hamo\nNa muene ya vimiene.",
+    "coro": null,
+    "categoria": "NDZITA YA CILI"
+  },
+  {
+    "id": 35,
+    "numero": 35,
+    "titulo_pt": "Nga tu enda vuino na mezi a Njambi,",
+    "texto_pt": "1. Nga tu enda vuino na mezi a Njambi,\nA tu vezikisa mu njila;\nNga tu tamunuka A ka kala netu,\nNava vose va Mu tsiliela.\n\n2. Na cimo ci hasa ku iza kuli etu,\nA ka vi sekuila ku laako;\nVuoma na zimpata cipue ku zuzuka,\nKa vi kala nga tu zangama.\n\n3. Tu tuala citeli na vusiua hano,\nVunoni A tu fueta vuino;\nKu linienga cahi cipue ku katala,\nTu vezika nga tu zangama.\n\n4. Ka tu hasa vene ku Mu tantekeya,\nNga ka tua lihitile viose;\nMuomu vuana Vueni na ku viukilila,\nVi li viavo va Mu tsiliela.\n\n5. Kaha tu tumame ku viliato Vieni,\nCipue tu enda mumo Neni;\nViuma A tu leka cipue A tu tuma,\nTu ka linga na ku zangama.",
+    "coro": "Mu tsiliele, u Mu tamunuke,\nKaha u hasa ku Mu viukilila Yesu.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 36,
+    "numero": 36,
+    "titulo_pt": "Kuose A tuamena, nji tava ku ya,",
+    "texto_pt": "1. Kuose A tuamena, nji tava ku ya,\nIkeye Muovole na Muene yange;\nCipue na vitozi ndzita nji ka lua,\nNji ku mehia Eni, mbuto ku kuva.\n\n2. Kuose A tuamena, Muovole uange,\nMu u handeka mutima ua cilemo;\nHamo lika Neni, vuoma vuahiko,\nKuose A tuamena nji zolelako.\n\n3. Kuose A nji tuma, ni A nji tuala,\nHamo Neni nji ka uana ku kala;\nKuose A tuamena, nji ka Mu imbila,\n\"Kuku, U li nange, ka nji zuzuka\".",
+    "coro": "Muangana, tuamena,\nNji ka ku kava,\nHamo Nove, Yesu,\nNji hianga ku enda.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 37,
+    "numero": 37,
+    "titulo_pt": "Kala nange, litangula lia toko,",
+    "texto_pt": "1. Kala nange, litangula lia toko,\nKu iza vutsiki, Muene kalako,\nOse mikuasi yeka i teua,\nYove Mukuasi kalako nange.\n\n2. Vungendzi vuange vu ka hua lusi,\nViuma via hantsi via ku zolesa,\nVi ka vola, vi ka hita vuasi,\nYove mukua-ku-kala, kalako.\n\n3. Nji ci xaka Yove ntsimbu Yose,\nVika vi hasa ku xeka Satana?\nYove lika U hasa ku kuasa,\nNtsimbu ya ku eseka kala nange.\n\n4. Nji ka simpa nga U kala nange,\nVia-vivi vi ka kala via ngoco;\nKuli, kuli ku-suma kua ku-tsa,\nNji ka hiana nga U kala nange.\n\n5. Omo nji ka tsa, Yove kalako,\nNji tuamene kuilu kuli Njambi;\nCimenemene ca lilu ci iza,\nMu muono, mu ku-tsa kala nange.",
+    "coro": null,
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 38,
+    "numero": 38,
+    "titulo_pt": "Nja vezika muli Yesu,",
+    "texto_pt": "1. Nja vezika muli Yesu,\nLizi Lieni nja tava;\nNji na Mu tsiliela vene,\nMuomu Ikeye Muovole.\n\n2. Nja tsiliela muli Yesu,\nMu maninga nja tane;\nNji na sambue ku milonga;\nNa njecela ku vipi.\n\n3. Nji pangela Muene Yesu,\nViose viange nja seza;\nNji tambula ngolo Yeni,\nMuono, ngozi, ciyulo.\n\n4. Nji zolela muli Yesu\nKavusamba ua cili;\nA ka kala hamo nange,\nNoho nji heta muilu.",
+    "coro": "Yesu, Yesu, nja tsiliela,\nA huimisa mutima;\nYesu, Yesu, nji Mu lema,\nNja vezika cikuma.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 39,
+    "numero": 39,
+    "titulo_pt": "Kaniungi kange Yehova,",
+    "texto_pt": "1. Kaniungi kange Yehova,\nA vi suisa vi nja jena;\nMisenge ya ivua, A nji tuamena\nKu mema a jela.\n\n2. A nji vuahesa mu mbunge,\nMu vusunga A nji endesa;\nNa mu vinjila via ku oloka,\nNa lizina lia livua.\n\n3. Nambe mu cimbongo ca ku-tsa,\nKa nji zuzuka vuvi;\nMulamu Uendi na mpango,\nVi nji zembeleka.\n\n4. Mesa yange A i jala,\nNambe va nji zinda;\nNa mazi ku mutue A nji vuavesa,\nNa ngandza i sumpoka.\n\n5. Ngozi na vuvua vi nji kava,\nNoko muono u hua;\nKuilu ku ndzivo ya Njambi,\nNji ka tumbamako.",
+    "coro": null,
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 40,
+    "numero": 40,
+    "titulo_pt": "A nji tuamena, nji ivua",
+    "texto_pt": "1. A nji tuamena, nji ivua\nMezi a ku lembezieka;\nViuma viose nji ka linga,\nViose Njambi A tuamena.\n\n2. Mpano ntsimbu ya vusiua,\nMpano ntsimbu ya ku viuka;\nHavandonga, ha visali,\nViose Njambi A tuamena.\n\n3. Nji kuata livoko Lieni,\nNa ku linienieta cahi;\nKu viose nji ka zolela,\nMuomu Njambi A tuamena.\n\n4. Viose vipange vi na hu,\nU na nji hianesa, Yesu:\nKu-tsa vene ka nji tina,\nMuomu Yove U tuamena.",
+    "coro": "A tuamena, A tuamena,\nNa livoko Lieni vene;\nNji ka Mu kava ku hiehi\nMuomu A tuamena cili.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 41,
+    "numero": 41,
+    "titulo_pt": "Omo viuma via hasi vi ku eseka,",
+    "texto_pt": "1. Omo viuma via hasi vi ku eseka,\nNambe vi ku vindamesa manene;\nTandako vivezikiso via Njambi,\nTanda cimo na cimo u komoke.\n\n2. U lisangumuina navio ololo,\nCitele cove ci lema manene?\nTandako vivezikiso via Njambi,\nCo u ka zolela muafua via vingi.\n\n3. Nga u tala kuli vakua-ku-fuka,\nLianukise vizango via Kilistu;\nA ku hana yove limbo na muono,\nFumbelo ka hasa ku vi landako.\n\n4. Ngoco vene keti u vindameko,\nNambe ku vieseko na ku vusonde;\nMuafua Njambi A ci lela ha mavu,\nA ka ku kuasa u Mu kulahela.",
+    "coro": "Tanda vivezikiso viove,\nU mone Njambi na lingile;\nU vi mone, cimo na cimo;\nVi ku komouesa muafua via vingi.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 42,
+    "numero": 42,
+    "titulo_pt": "Lizina lia Yesu Muene,",
+    "texto_pt": "1. Lizina lia Yesu Muene,\nTuala nove ololo;\nLi hasa ku zembeleka,\nVantu vose ha mavu.\n\n2. Ntsimbu yose u li tuala,\nKu ku niunga mu njila;\nLi pua ntelo ya ava Vendi,\nKu vusonde li fuila.\n\n3. Lizina lia ku tovala,\nKuli vantu va Yesu;\nLi va hana ku zolela,\nMu mbunge yavo vene.\n\n4. Mu lizina lia Mue Yesu\nMavuli a tsikama;\nMuene ya vimiene viose,\nMuilu naua ha mavu.",
+    "coro": "Lizina lia Yesu,\nNtsimbu yose u tuala.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 43,
+    "numero": 43,
+    "titulo_pt": "Keti u zaze mukuetu,",
+    "texto_pt": "1. Keti u zaze mukuetu,\nNjambi A ku niunga;\nKuli Ikeye ka kuesi liova,\nNjambi A ku niunga.\n\n2. Nambe ua juka manene,\nNjambi A ku niunga;\nNa ku tambuile citele,\nNjambi A ku niunga.\n\n3. Viose Njambi A ku muesa,\nNjambi A ku niunga;\nNga ua Mu lombo kaku umina,\nNjambi A ku niunga.\n\n4. Hamo u uana vieseko,\nNjambi A ku niunga;\nA ku kuata na mavoko,\nNjambi A ku niunga.",
+    "coro": "Njambi A ku niunga,\nKu matangua, Ku vinjila;\nIkeye A ku niunga,\nNjambi A ku niunga.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 44,
+    "numero": 44,
+    "titulo_pt": "Njambi a kale nenu vose,",
+    "texto_pt": "1. Njambi a kale nenu vose,\nA mi niunge na kavumbi;\nA mi hake ku vampanga,\nNjambi A kale nenu vose.\n\n2. Njambi A kale nenu vose,\nA mi fuike na vimbava;\nA mi hane ku-lia kuenu,\nNjambi a kale nenu vose.\n\n3. Njambi A kale nenu vose,\nOmo vusonde vu heta,\nA mi vumbatele yenu,\nNjambi A kale nenu vose.\n\n4. Njambi A kale nenu vose,\nA ka mi sueke na ngozi;\nA payese ku-tsa kuenu,\nNjambi A kale nenu vose.",
+    "coro": "Ku litangua, ku litangua\nLia ku liuana na Yesu;\nKu litangua lia Yesu,\nNjambi A kale nenu vose.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 45,
+    "numero": 45,
+    "titulo_pt": "Vusamba vua Yesu",
+    "texto_pt": "1. Vusamba vua Yesu\nVu hiana ku viuka;\nKu mitima tu likata,\nNaua ku lilema.\n\n2. Tu na yande hamo\nKu masiua etu;\nKaha tu na viukilila\nKu lilembezieka.\n\n3. Tu vundila Tata\nA tu niunge kuose;\nA takamese mitima\nMu ku Mu tsiliela.\n\n4. Mu tu lisalesa\nMitima i lava;\nVunoni tu ka limona\nHa mavu, ni muilu.",
+    "coro": null,
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 46,
+    "numero": 46,
+    "titulo_pt": "Ku ka kala maualala,",
+    "texto_pt": "1. Ku ka kala maualala,\nYesu na likumininia;\nA ku vezika kua kama\nKu huma kuli Endi.\n\n2. Ku ka kala maualala,\nMaualala a muono;\nHa mincinda, mu vimbongo,\nMema a engi muamo.\n\n3. Ku ka kala maualala.\nKalamba A tu tume.\nTu mone muono ua uha,\nNgue ku zinkanda Zove.\n\n4. Ku ka kala maualala,\nNga lelo vene a eze.\nOmo tu litava vupi\nKuli kalamba Yesu.",
+    "coro": "A ku vezika, maualala a muilu,\nTu mona mambake a ngozi;\nMaualala tu lomba.",
+    "categoria": "KUENDA KUA MUKUA YESU"
+  },
+  {
+    "id": 47,
+    "numero": 47,
+    "titulo_pt": "Tu nevu luhande olu,",
+    "texto_pt": "1. Tu nevu luhande olu,\nYesu A ohiela,\nAmbululenu kuose,\nYesu A ohiela,\nTualenu muzimbu ou\nNoku kua lenga mavu,\nHamenu mu va leke,\nYesu A ohiela.\n\n2. Tambekenu ku membo,\nYesu A ohiela,\nNa mu vindzango viavo,\nYesu A ohiela:\nMu va leke na ngozi\nNa kavumbi ka Yesu,\nVakuetu vevue vuino,\nYesu A ohiela.\n\n3. Ku ndzita ya Satana,\nYesu A ohiela,\nNdzili yeni ya kama,\nYesu A ohiela:\nSimpenu vakua ku lua,\nNdzita vuovuno i hua,\nTuamekenu pandelo,\nYesu A ohiela.\n\n4. Amba vose tu imbienu,\nYesu A ohiela,\nMiyati yose A lema,\nYesu A ohiela:\nYesu A li na ngozi,\nUezile ku tu kula,\nKu nkole ya Satana\nNa vuno A ohiela.",
+    "coro": null,
+    "categoria": "KUTWALA ZIMPANDE ZIA CILI"
+  },
+  {
+    "id": 48,
+    "numero": 48,
+    "titulo_pt": "Nji zolela mu ku pangela Yesu,",
+    "texto_pt": "1. Nji zolela mu ku pangela Yesu,\nNji zolela nji zolela;\nNji na uana ku huima ku mutima,\nMu ku pangela Yesu.\n\n2. Nji zolela mu ku pangela Yesu,\nNji zolela, nji zolela;\nNji na uana Kavusamba ua cili,\nMu ku pangela Yesu.\n\n3. Nji zolela mu ku pangela Yesu\nNji zolela, nji zolela;\nNa nji hana muono Ueni ua ya-ye,\nMu ku pangela Yesu.\n\n4. Nji zolela mu ku pangela Yesu,\nNji zolela, nji zolela;\nMu mutima nja vezika cikuma;\nMu ku pangela Yesu.",
+    "coro": "Mu ku pangela Yesu,\nNji linga na zindzili;\nNji zolela na ku vezika,\nMu ku pangela Yesu.",
+    "categoria": "KUTWALA ZIMPANDE ZIA CILI"
+  },
+  {
+    "id": 49,
+    "numero": 49,
+    "titulo_pt": "Ngozi na cikeketima,",
+    "texto_pt": "1. Ngozi na cikeketima,\nKuli Yesu nji uana;\nMutima u viukilila,\nOmo nji Mu yoyela.\n\n2. Litangua li na ce laza,\nNa vutsiki vu keza;\nNa umo uahi a hasa,\nKu pangela Muangana.\n\n3. Yesu Nguendi, Yenu kuose.\nNa ku va ambuluila;\nNja va tsililile vose,\nMuono Nja va nehela.\n\n4. Tambeka na ndzili yose,\nKu vantu hano hose;\nUze eza kuli Yange,\nKa Nji ka mu sekula.",
+    "coro": "Nji na pande ku tua ceke,\nKuli vakua milima;\nLinga na vakevo vevue,\nKu-viuka ca mutima.",
+    "categoria": "KUTWALA ZIMPANDE ZIA CILI"
+  },
+  {
+    "id": 50,
+    "numero": 50,
+    "titulo_pt": "Leka vantu ha mavu",
+    "texto_pt": "1. Leka vantu ha mavu\nNgozi ya Muene Yesu;\nVaze va na zimbala,\nYesu a va tambula.\n\n2. Iza A ku huimisa,\nTava ku lijui Liendi;\nNga na vuvi u hiana,\nA tambula va-vavi.\n\n3. Mbunge yange i sambua,\nUze Ua nji hingile;\nUa fuetele mulonga,\nVa-vavi A tambula.\n\n4. A tambula va-vavi,\nNambe yange na vuvi;\nCili A nji tanesa,\nMuilu A ka nji tuala.",
+    "coro": "Vose ambululenu,\nVakua-vivi ha mavu;\nVose va tenguluka,\nYesu A ka tambula.",
+    "categoria": "KUTWALA ZIMPANDE ZIA CILI"
+  },
+  {
+    "id": 51,
+    "numero": 51,
+    "titulo_pt": "Lelo iza na maselua,",
+    "texto_pt": "1. Lelo iza na maselua,\nYesu, vantu va Mu tsiha;\nNa mbunga ya yingi,\nVakua-vusunga va Mu kava;\n\n2. Vose va ka Mu monako,\nA va lingisa liova;\nVa-Mu-tsiha va ka zaza,\nKa va Mu hianga va vindama;\nNa ku lila va ka mona Mesiya.\n\n3. Lilu na mavu na kalunga,\nVi zimbala na vantu;\nKuze ku ka sala lika,\nVa na luile na Kilistu;\nNji tatela, ka ize vuasi, Yesu.",
+    "coro": "Haleluya, Yesu, iza na ku suana.",
+    "categoria": "KU IZA KUA MWANGANA"
+  },
+  {
+    "id": 52,
+    "numero": 52,
+    "titulo_pt": "A ci keza ha maselua,",
+    "texto_pt": "1. A ci keza ha maselua,\nYesu, Ua tsila vipi;\nZimbunga zia vana Veni,\nVa sangala Ikeye;\n\n2. Vantu vose va ka mona,\nA zala ngue Muangana;\nVose va na Mu yengula,\nVa Mu tsiha ku muti,\nVa ka lila, va ka lila,\nVa ka mona Mesiya.\n\n3. Eua, ame, tu lemesa\nYove, Yesu Kilistu,\nTambula vuangana Vuove,\nSuana ku miaka Yose;\nTuaya vuasi; tuaya vuasi,\nHaleluya, tuayanie.",
+    "coro": "Haleluya, Haleluya\nNjambi tuaya U suane",
+    "categoria": "KU IZA KUA MWANGANA"
+  },
+  {
+    "id": 53,
+    "numero": 53,
+    "titulo_pt": "A ka iza, A ka iza,",
+    "texto_pt": "1. A ka iza, A ka iza,\nKu tambula Vendi;\nVa-ku-tava, va-ku-jela,\nVantu va Yesu.\n\n2. A hindula, A hindula\nVaze va ci kala;\nA sangula, A sangula,\nVaze va na tsi.\n\n3. A ka hana, A ka hana\nKu-fueta kua kama;\nKuli ava, nava lika,\nVa Mu pangela.\n\n4. Tu ka kala, tu ka kala\nNa vumpahu lika;\nVivi viahi, na ku-tsa kuahi,\nMiaka na miaka.",
+    "coro": "Tu ka kala hamo Nendi,\nNa muvila ngue Uendi,\nTu ka suana na ku viazima\nOmo A kesa.",
+    "categoria": "KU IZA KUA MWANGANA"
+  },
+  {
+    "id": 54,
+    "numero": 54,
+    "titulo_pt": "Njambi Tata A ka sana",
+    "texto_pt": "1. Njambi Tata A ka sana\nKaha ntsimbu i ka hua,\nNa cimenemene muilu ci ka ca;\nVantu vose va novoka\nVa ka kungulukako,\nVa ka sana mazina etu muilu.\n\n2. Ku cimenemene cize\nOmo tu ka sanguka,\nNa vumpahu vua Yesu tu ka zala;\nVose vakua-Yesu va ka kala\nKu ndzivo Yendi,\nVa ka sana mazina etu muilu.\n\n3. Yesu tu Mu pangelienu\nLitangua lietu liose,\nTu zimbulienu ngozi kuli vantu;\nKaha omo muono\nNa vipange viose vi na hu,\nVa ka sana mazina etu muilu.",
+    "coro": "Va ka sana vakua-Yesu,\nVa ka sana vakua-Yesu,\nVa ka sana vakua-Yesu,\nNange naua Njambi A ka nji sana.",
+    "categoria": "KU IZA KUA MWANGANA"
+  },
+  {
+    "id": 55,
+    "numero": 55,
+    "titulo_pt": "Tu mona na ku kulahela,",
+    "texto_pt": "1. Tu mona na ku kulahela,\nCifuti ca Njambi ca muilu;\nKuze Yesu Ua ile laza,\nKu linga kua ku-kala kuetu.\n\n2. Tu kemba mu cifuti cize,\nMiaso ya ku tu zolesa;\nTu ka seza vusiua vuose,\nNa cimo tu ka ci jeneka.\n\n3. Kuli Tata a kala kuze,\nNtsimbu yose tu Mu santsela;\nMuafua vuana vua ngozi Yendi,\nNa ku-ovoka na ku-holoka.",
+    "coro": "Ku lutue, ku lutue,\nTu ka kunguluka kuze.",
+    "categoria": "VUANGANA VUA MUILU"
+  },
+  {
+    "id": 56,
+    "numero": 56,
+    "titulo_pt": "Tu tanda ku Mezi a Njambi,",
+    "texto_pt": "1. Tu tanda ku Mezi a Njambi,\nNa i tungu nganda muilu;\nMuze vose va na tava,\nVa ka tumbama hamo na Yesu.\n\n2. Vusiua tu ka vu seza,\nNa umo a ka vavala,\nNa umo a ka tse muze;\nNjambi a ka sikumuna masozi.\n\n3. Cisingo cahimo muze,\nVantu va ka Mu pangela;\nVa ka mona Yesu vene,\nA ka va luka lizina lia liha.\n\n4. Vutsiki vuahimo muze,\nNgonde, ndeya, na litangua;\nNjambi A hana mutana,\nHamo Nendi viuma viose va suana.\n\n5. Vaze va kala na vivi,\nKa va hasa ku kokela;\nVaze va Mu viana Yesu,\nNa ku-ovoka kuavo muafua maninga.",
+    "coro": "Tu ka kunguluka kuze,\nTu ka mona Yesu Uze;\nNa ambata vivi vietu viose,\nNa ku zolela hamo Nendi.",
+    "categoria": "VUANGANA VUA MUILU"
+  },
+  {
+    "id": 57,
+    "numero": 57,
+    "titulo_pt": "Yesu na tu sika tu suameko,",
+    "texto_pt": "1. Yesu na tu sika tu suameko,\nHasi ha milima tu sukumeko;\nTu pue miminiko mu ku minika,\nOve kuimbo liove, nange kuange.\n\n2. Yesu A tu kuasa tu minike,\nYou vene Ua kala ceke ca muilu;\nOmo A suameka ka tu ka zima,\nOve kuimbo liove, nange kuange.\n\n3. Ambululenu kuose ku mu ye,\nNgeci vantu vevue luhande Luendi;\nYesu Avovola nga tu va leka,\nOve kuimbo liove, nange kuange.",
+    "coro": null,
+    "categoria": "VANIKE"
+  },
+  {
+    "id": 58,
+    "numero": 58,
+    "titulo_pt": "Halakana luhande luetu!",
+    "texto_pt": "1. Halakana luhande luetu!\nYesu Ua tu tsilako;\nUa tu hele muono ua muiulu,\nMuono ua ku hua cahi.\n\n2. Ikeye uezile ha mavu,\nMuomu Ua tu lemene;\nUa fuetele milonga yetu,\nKu tu nehela muono.\n\n3. Tuaya, u ka Mu kulahela,\nA ka ku hana vuana;\nVuana vua kama vua muono,\nMuono ua ku hua cahi.\n\n4. Litavele lizina Liendi,\nU ka tambula muono;\nA ka ku kula ku mulonga,\nMuomu Ua ku tsilako.",
+    "coro": "— Iya ua tu tsililile?\nYesu K'listu, Muana Njambi\n— Vika Ua tsa?\nKu tu ohiela.\n— Halakana!\nHalakana!\nVantu va vavi ha mavu.",
+    "categoria": "MIASO YA KU PASCUA"
+  },
+  {
+    "id": 59,
+    "numero": 59,
+    "titulo_pt": "Ku kulusu nji mona",
+    "texto_pt": "1. Ku kulusu nji mona\nLisima lia muono,\nNdonga ya ku kanguisa\nFume ku Siono.\n\n2. Ku kulusu lia Yesu,\nNgozi nja uanene;\nVivi viange via vingi,\nUa vi sambuesele.\n\n3. Ku kulusu, Kilistu,\nNji ka Ku anuka,\nNa ku kayando Kove\nKa nji ka ivala.\n\n4. Ku kulusu nji kala\nNa tu kengezieka,\nNoho A ka nji tuala\nKu jela mu sinia.",
+    "coro": "Kulusu, kulusu,\nNji ka ku halesa,\nNoho nji ka zolela\nKu huima mu sinia.",
+    "categoria": "MIASO YA KU PASCUA"
+  },
+  {
+    "id": 60,
+    "numero": 60,
+    "titulo_pt": "Kalamba ketu uezile",
+    "texto_pt": "1. Kalamba ketu uezile\nMu ku tu ovola,\nTe yetu tu li mu vupi\nUa tu tsililile.\n\n2. Hano uendele ngue ngendzi,\nKa va Mu tambuile,\nManinga Endi Ua muania\nMu ku pua inkombelo.\n\n3. Iya, ngue Muene, a tava\nKu tsila va vapi?\nIya, ngue Muene, a tava\nKu tambula lamba?\n\n4. Ngozi ya Tata Kalunga\nI na tu ovola;\nTua zimbalele ku lahe,\nLelo tu novoka.",
+    "coro": "Kati nji suve kayando\nUa muene mu ku nji tsila,\nKati nji suve ngozi ya Nkuli ya\nvantu.",
+    "categoria": "MIASO YA KU PASCUA"
+  },
+  {
+    "id": 61,
+    "numero": 61,
+    "titulo_pt": "Muilu Ua humine Muana Kalunga,",
+    "texto_pt": "1. Muilu Ua humine Muana Kalunga,\nNa vulamba Vuendi vua vu sezele;\nUezile ha mavu ngue ua ku hutua,\nVumoni vua muilu tu ka vu huke.\n\n2. Muene uetu Yesu Ua muene lamba,\nNguendi na tuzila va li na masua,\nNa vambulu luhua va li na vina,\nMuene indzivo yahi A ci kosemo.\n\n3. Ua hitile hitile hano hantsi,\nUa va tetelele vaze va hutua,\nNa tupuputua Yendi Ua vemuine,\nNa vaka misongo Ua va hinduile.\n\n4. Vaka vupi vose Ua va lemene,\nHa cilindakano Ua va tsilaho;\nVa ka Mu lemesa vose vatava,\nMomu Ua tu ovola ngambu ku lamba",
+    "coro": null,
+    "categoria": "MIASO YA KU PASCUA"
+  },
+  {
+    "id": 62,
+    "numero": 62,
+    "titulo_pt": "Mu mbumbo va haka",
+    "texto_pt": "1. Mu mbumbo va haka\nYesu, Muovole;\nKu-tsa na ci mono,\nNkuli yange.\n\n2. Va na ziki livue,\nNguavo a kale;\nNkuma na sanguka,\nNkuli yange.\n\n3. Ku-tsa ka ci hasa\nKu Mu pandeka;\nMalenge a vatua,\nNkuli yange.",
+    "coro": "Yesu na sanguka ngo,\nVitozi Veni na va hiana,\nNa vu vulu vuangana vua Satana,\nA ku yoya, netu tu suana neni,\nImbenu muaso ou,\nMuovole na sanguka.",
+    "categoria": "MIASO YA KU PASCUA"
+  },
+  {
+    "id": 63,
+    "numero": 63,
+    "titulo_pt": "Ngozi ya kama ya Yesu,",
+    "texto_pt": "1. Ngozi ya kama ya Yesu,\nUa nji tsila ha kulusu,\nKu nji ovola ku ku nonga,\nIya asa ku i tanda?\n\n2. Nganja ya lamba Ua nuine,\nCihiso ca Ua yandele\nHa kulusu mu ku nji ovola,\nIya asa ku li tanda?\n\n3. Ku tsopa kua vakua vupi,\nCilindakano ca lamba,\nUa nji yandela linga njovoke,\nIya asa ku i tanda?\n\n4. Muovole uaye uahiko,\nCilemo cove ca hiana.\nKu lova kuaco ka tu ka heta!\nYa kama, ya kama.",
+    "coro": "Iya ása ku tanda ngozi?\nIya ása ku tanda ngozi?\nNgozi ya kama ya Muovole\nIya asa ku i tanda?",
+    "categoria": "MIASO YA KU PASCUA"
+  },
+  {
+    "id": 64,
+    "numero": 64,
+    "titulo_pt": "Zoleleni Yesu neza,",
+    "texto_pt": "1. Zoleleni Yesu neza,\nTu Mu tambuleni,\nMu aveleni zimbunge,\nMu vialekeni kalamba,\nMuilu na hantsi, vose tsikameni,\nMuilu na hantsi tsikameni.\n\n2. Ku viuma viose via tema,\nVi Mu avela vulamba.\nKu viuma viose via tema,\nKu viuma viose via tema\nVi Mu avela vulamba,\nVi Mu avela vulamba,\nVi Mu avela vulamba.\n\n3. Vulamba vua Yesu vuavuo,\nVua muilu na hantsi.\nVa Mu tsiliela, va Mu tsiliela,\nVa ka kala kasi, va ka kala kasi,\nVa ka kala kasi Nendi muilu.",
+    "coro": null,
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 65,
+    "numero": 65,
+    "titulo_pt": "Ha Tungelo va ku imba,",
+    "texto_pt": "1. Ha Tungelo va ku imba,\nVa zimbula Muangana;\nNa semuua mu litanga,\nNeza ku tu hambesa:\nZolelenu vakua-mavu,\nMuaso uenu u hete muilu;\nHamo navo tu imba,\nNa semuua Muangana.\n\n2. K'listu va lemesa muilu,\nK'listu Muana Kalunga;\nNa tava ku iza hano,\nNa semuua ku mpuevo:\nNa ntsitu tu mona Njambi,\nNa cifua ca muanamuntu;\nNgue muntu na soloka,\nYesu, Muovole uetu.\n\n3. Na tu nehela ciyulo,\nNa tu ceke ha mavu;\nMuono na mutana A neha,\nA kanguisa mivezi:\nNa tava ku seza Vieni;\nMu ku ambata vipi vietu;\nKu tu hana S'pilitu,\nTu semuue luvali.\n\n4. Tuaya Yesu, tu Ku lania,\nKovela mu mitima;\nPalakana mutue uo uze,\nMukua ku tu vangela;\nZimangana vipi vietu,\nU tu himpuise ngue Yove:\nYove Muovole uetu,\nTu hiluise ku Njambi.",
+    "coro": "Ha Tungelo va ku imba,\nVa sangala Yehova.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 66,
+    "numero": 66,
+    "titulo_pt": "U neza vutsiki vumo,",
+    "texto_pt": "1. U neza vutsiki vumo,\nMuaso ua tumbala\nKuli tungelo va muilu,\nVa suena kuli vantu,\nCiyulo hantsi na ngozi\nKuli Kalunga vi huma.\nHantsi hose ha lendama\nMu ku ivua tungelo.\n\n2. Kasi na lelo ve ku iza\nNa zimbava za ciyulo.\nKuli vaze va na lemuua,\nMuaso u va huimisa.\nHelu uva huimisa\nHelu lia vakua vusiua\nVa va tengela na ngozi,\nHakati ka malimi a engi\n\n3. Taleni, litangua li keza\nLia vamba vakua cimona,\nMuilu na hantsi hose\nVi ka himpuka via viha.\nImba vantu vose valimo\nVa tava kuli Kalamba.\nHamo na tungelo va kemba\nMuaso uze ua muilu.",
+    "coro": null,
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 67,
+    "numero": 67,
+    "titulo_pt": "Kuli muaso muilu!",
+    "texto_pt": "1. Kuli muaso muilu!\nKuli ntongonosi!\nKuli naye a lomba,\nKakeke a lila!\nNtongonosi i tuila\nMua tunganda vemba\nMu cikasa ca Betlehem\nMuli Muene.\n\n2. Va zolela muamo\nMomu Muene neza.\nMuana ua muhumbe\nA hua Muanangana.\nNtongonosi i tuila\nMua tunganda vemba.\nMu cikasa ca Betlehem\nMuli Muene.\n\n3. Ceke ca tumbala\nCi na tu ku miaka.\nMuaso ua ku lahe\nUeza hose hantsi.\nVantu va li na ntuima\nMu vihuti viose\nMua va Mu tumbula\nYesu Muene uavo.\n\n4. Ceke ca njolela,\nMuaso ua tumbala\nUa tunda vutsiki\nKuli vaka muilu.\nEtu tu tambakana\nZinkanda za ngozi.\nTu Mu cesa mu cikasa\nMuene uetu.",
+    "coro": "Ntongonosi i tuila\nMua tunganda vemba\nMu cikasa ca Betlehem\nMuli Muene.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 68,
+    "numero": 68,
+    "titulo_pt": "Ku lahe kua tu na humu",
+    "texto_pt": "1. Ku lahe kua tu na humu\nTua kavele ntongonosi;\nMu ku uana Muene Yesu\nNa ku Mu lemesa.\n\n2. Mu Belem va Mu vembela\nOlu nji nehela Muene\nViala netu Muene uetu\nKu miaka ka i hu.\n\n3. Vihemba via ku tsimika\nNji Mu nehela Muangana\nVi lekesa Endi Muene\nNetu tu Mu lemesa.\n\n4. Vihemba via lemba viange\nVia ku sasa momu lamba\nUe vuile vusiua, kutsa\nMu mbumbo va Mu haka.\n\n5. Yendi cikasela cetu,\nMuene na Kalunga ketu\nHaleluya Ou na hiana\nA li ku tu lambela.",
+    "coro": "Ntongonosi ya ku komoka\nYa vulamba vua Muene\nTu tuamene tu ka hete\nMuilu ceke ci na tu.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 69,
+    "numero": 69,
+    "titulo_pt": "Tuayenu mu vose,",
+    "texto_pt": "1. Tuayenu mu vose,\nTu ka Mu lemese;\nTu yenu na ndzolela ku\nMbetelema:\nTenu mu tanga\nMuangana A kosa;\n\n2. Tungelo, imbenu\nMiaso ya ku viuka;\nI zumbe vumpahu\nVua Njambi Tatetu:\nTu santselienu\nNgozi Yeni yose;\n\n3. Tu ku sangaziala\nMuyoyesi uetu;\nLizina Liove\nTu ka li zumbangeya:\nLizi lia Tata,\nUa himpuka ntsitu;",
+    "coro": "Tuayenu Mu lemese,\nTuayenu Mu lemese,\nTuayenu Mu lemese,\nMuangana Yesu.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 70,
+    "numero": 70,
+    "titulo_pt": "Lekenuko vantu vose va ha mavu,",
+    "texto_pt": "1. Lekenuko vantu vose va ha mavu,\nKuose ku li lamba na vipi via lana;\nMalimi a vose a tambeke lizi,\nMukuasi nezako.\n\n2. Vutsiki vua piti, litangua li na ce,\nNa lamba ya holo na mavezi ose;\nTu suena ku ola, i ku heta vuasi,\nMukuasi nezako.\n\n3. Talenu Muangana neza ku ohiela,\nA patula vantu ku vundungo vuavo;\nVose va ku imba miaso ya ndzolela,\nMukuasi nezako.\n\n4. Cilemo ca Yesu ca nji komouesa,\nVati nji santsela ngozi ya ngecize;\nYange mukua vupi nji ka fua ngue Yesu,\nMukuasi nezako.",
+    "coro": "Mukuasi nezako, Mukuasi nezako,\nS'pilitu ua muilu, Ya tu sikileko;\nAmbululenuko kuli vantu vose,\nMukuasi nezako.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 71,
+    "numero": 71,
+    "titulo_pt": "Vakua-Yesu, zolelenu",
+    "texto_pt": "1. Vakua-Yesu, zolelenu\nNa mitima hamo netu!\nVi ivuenu vi tu amba,\nYesu Kilistu Na semuka.\nA li mu tanga kuze\nVose va Mu tsikamena:\n\n2. Vakua-Yesu, zolelenu,\nNa mitima hamo netu!\nYesu ha mi yoyesa,\nEvi vi a Na semukila,\nNa sokolola mbelo,\nMuntu a kovela muilu:\n\n3. Vakua-Yesu, zolelenu\nNa mitima hamo netu!\nKati mu ivue vuoma,\nYesu a mi ovola vene.\nA sana yenu vose\nVa ka hete kuimbo Lieni.",
+    "coro": null,
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 72,
+    "numero": 72,
+    "titulo_pt": "Halakana! Nji ku leka",
+    "texto_pt": "1. Halakana! Nji ku leka\nZinkanda za tumbala;\nMuana Kalunga Ua kele Muilu,\nUa vu sezele vulamba vuendi,\nUezile mu ku vovola\nVaze va zimbalele\n\n2. Tata Kalunga, Muka-ngozi,\nUa tumine tunganda\nKuli tuniungi vutsiki vuze,\nKu va'mbuluila ngozi Yendi,\nMu va selumuisa K'listu\nYendi Nkuli ya vantu.\n\n3. Ve'tavele ku tazela\nNdivo ya Muana uze;\nVa Mu uanene, Muana Kalunga\nNa semuuine ngue uaku-hutua\nMu ku tu tazela yetu,\nTu lisambuese nendi.\n\n4. Yove lelo, kati u viane\nLuhande lua tumbala;\nTazela Muene na mbunge yose,\nU ka vezika, u ka Mu uana,\nA ka kovela, ku viala,\nMu mbunge yove lelo.",
+    "coro": null,
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 73,
+    "numero": 73,
+    "titulo_pt": "Omo vipange viose vi na hu,",
+    "texto_pt": "1. Omo vipange viose vi na hu,\nNange nji mana mu sinia oku;\nNji ka huima mu ku mona\nYesu,\nKaha viose vi ka pua vumpahu.\n\n2. Viose via mavu nji ka vi suva,\nVi ka pua ngue ndzozi ya ku\nlota;\nNtsimbu ize nji ka mona Yesu,\nKaha viose vi ka pua vumpahu.\n\n3. Vakua-cilemo nji ka va uana,\nTu ka viukilila mu ku hiana;\nVuno ku mona cihanga Ceni\nKaha viose vi ka pua vumpahu",
+    "coro": "Nji ka kala na vumpahu,\nNa vumpahu, na vumpahu;\nOmo nji mona cihanga Ceni,\nVumpahu Vueni, vukevuo vuange.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 74,
+    "numero": 74,
+    "titulo_pt": "Nji tuamene, A Yehova",
+    "texto_pt": "1. Nji tuamene, A Yehova\nYange ngendzi ha mavu;\nNji na zeye, Mukua Ngolo,\nNji kuate na livoko:\n\n2. Ndundzi Yove ivue luoke,\nMema a nji kanguise;\nCeke Cove ci minike\nNjila yose ya hano:\n\n3. Omo ku-tsa ci nji suena,\nNji holuese mutima;\nU nji tuale na mu sinia\nNoho nji novoloka:",
+    "coro": "Yove Mbolo, Yove Mbolo,\nNji lise miaka yose.\nNji lise miaka yose.\n\nNgami yange, Ngami yange,\nYove ndzili na ntelo.\nYove ndzili na ntelo.\n\nVisangala, visangala,\nNji kemba kuli Yove\nNji kemba kuli Yove",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 75,
+    "numero": 75,
+    "titulo_pt": "U ka hita ntsimbu ika,",
+    "texto_pt": "1. U ka hita ntsimbu ika,\nCo u ka kala kuli?\nU zivuka njila yove,\nU ci tambuka nayo?\n\n2. U ka hita lika liove,\nU ka hetela kuli?\nMuilu ka u hasa yove,\nKanda u tenguluke!\n\n3. U ka hungumuka yove,\nKu suenesa ku-tsa, ni?\nKa u livola vene,\nU ka lifuika kuli?\n\n4. U hita ntsimbu ya ihi,\nU ka seza vivi, ni?\nLelo litangua lia cili,\nKa u kovoka muze.",
+    "coro": "U ka hita, u ka hita,\nU ya muilu, yove ni?\n\nU ka hita, u ka hita,\nU tenguluka lika.\n\nU ka hita, u ka hita,\nka u linga lisalu.\n\nU ka hita, u ka hita,\nKu u kovoka muze.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 76,
+    "numero": 76,
+    "titulo_pt": "Iza u tolile ku lijui lia Yesu,",
+    "texto_pt": "1. Iza u tolile ku lijui lia Yesu,\nUze A hasa ku ku ovola;\nNa lingi Nguendi Yange Nji Yesu,\nYange Nji hasa ku ku ovola,\n\n2. Nambe ku mbunge kuasulu na vivi,\nYesu A hasa ku tokesa to;\nHa ku kulahela muaso ua Yesu,\nTu linonena muono ka hu\n\n3. Yesu A li na ngozi na vuana,\nNa tu lania ku cifuti Cendi;\nNga tu u hianga muono ua cili,\nTu ka tambula ku –ovola kuendi.",
+    "coro": "Kulahela Yesu,\nKulahela Yesu,\nIkeye A hasa ku ku ovola.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 77,
+    "numero": 77,
+    "titulo_pt": "Halakana! A ku sana,",
+    "texto_pt": "1. Halakana! A ku sana,\nHalakana! A ku sana,\nHalakana! A ku sana,\nNguendi u Nji kave mu yehi.\n\n2. Muene Yesu A li nange,\nKa nji seza lika liange,\nNji kevua ku lizi Liendi,\nA ka kala-kala mu yehi.\n\n3. Mu tuyando na vusiua,\nMu tuyando na vusiua,\nMu tuyando na vusiua,\nNji Mu kava-kava mu yehi.\n\n4. Ku mavezi na ku ku-tsa,\nKu mavezi na ku ku-tsa,\nKu mavezi na ku ku-tsa,\nNji Mu kava-kava mu yehi",
+    "coro": "Kuose A tuama nji kava,\nKuose A tuama nji kava,\nKuose A tuama nji kava,\nNji Mu kava-kava mu yehi.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 78,
+    "numero": 78,
+    "titulo_pt": "Yesu U nji tuamene,",
+    "texto_pt": "1. Yesu U nji tuamene,\nKa nji zimbala njila;\nNga nji mana ku hiehi\nNa cimo ci nji kuata.\n\n2. Yesu U ntelo yange,\nNga Satana a iza;\nNdzili Yove nji lomba,\nKa nji ende vavenia\n\n3. Yesu, U nji tuamene,\nCo nomo muono u hua;\nNji ka kovela muilu,\nMisozi yose yahi.",
+    "coro": "Tuama, tuama,\nYesu, U nji tuamene,\nTuama, na ngozi Yove,\nNtsimbu yove tuamena.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 79,
+    "numero": 79,
+    "titulo_pt": "Nji li na vivi via lana,",
+    "texto_pt": "1. Nji li na vivi via lana,\nVi ci nji hana kalua;\nNji Mu hianga Muyoyi,\nA njamena mu mbunge,\n\n2. Ua nji zemene Vavenia,\nUa tsililile vivi;\nYove U ci nji setela,\nKu vutulula yange.\n\n3. Vusunga vuange vuahiko,\nNji ci vi linga vivi;\nU iza Muyoyesi uange,\nU ecela mbunge yange,\n\n4. Nji sevuka ku tapalo,\nNga U nji seza Yove;\nLizi Liove nji na zivi,\nLi nji kolesa honi.",
+    "coro": "Yove Yesu Yove Yesu,\nYove U li Mukuasi,",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 80,
+    "numero": 80,
+    "titulo_pt": "Yesu nji ku lema,",
+    "texto_pt": "1. Yesu nji ku lema,\nNa U nji lema\nNa cilemo Cove\nU nji hianese.\nMuangana ua kama\nMuovole uange.\nNja kava ku laako\nYesu, nji suenese.\n\n2. Nji ku lema Yove\nMu muono uange,\nMuomu Ua fuetete\nMulonga uange.\nHa cilindakono\nVa na ku yandesele\nNja kava ku laako\nYesu, nji suenese.\n\n3. Mu vumpahu muilu\nNji ka zolela\nNa ku sangaziala\nLizina Liove.\nLelo naua nji hianga\nKu ku lemesa vuino.\nNja kava ku laako\nYesu, nji suenese.",
+    "coro": null,
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 81,
+    "numero": 81,
+    "titulo_pt": "Mu mutima nji ku zolela,",
+    "texto_pt": "1. Mu mutima nji ku zolela,\nYesu A ci nji zema;\nNa nji nehela muono Uendi\nMuono ka ue ku hua\n\n2. Mu mutima nji li ku imba,\nNa ku sangala Yesu,\nNa ku santsela vuana Vuendi,\nMuono ka ue ku hua.\n\n3. Mu mutima nji li na ngozi,\nOmo nji li na Yesu;\nNji zema ku leka vakuetu\nMuono ka ue ku hua.",
+    "coro": "Nji zolela, nji zolela\nOmo muono nji na tambula;\nMu ku mona cihanga Cendi,\nNji zolela manene",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 82,
+    "numero": 82,
+    "titulo_pt": "Hano hantsi mu vitanga",
+    "texto_pt": "1. Hano hantsi mu vitanga\nVia Satana, na lamba,\nMuene Yesu A tu lania\nKu Mu kava mu yehi\n\n2. Tu lisangala vavena\nNa vulamba vua hantsi;\nMuene Yesu A tu leka\nNguendi, Nji tsilieleni.\n\n3. Vumoni vua hano hantsi;\nTua vu kunguiya cili,\nMuene Yesu A tazela\nKu pua vumoni vuetu.\n\n4. Tu ka Mu tava, ndi vati?\nTu hanguleni lelo.\nVi hita via hano hantsi,\nA kala Muene Yesu.\n\n5. Hamo Nendi miaka yose\nNa ndzolela ya muilu,\nVose vaka ku lunguka\nVa ka viala na Muene.",
+    "coro": null,
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 83,
+    "numero": 83,
+    "titulo_pt": "A nji zema Yesu ou,",
+    "texto_pt": "1. A nji zema Yesu ou,\nNguendi mu mukanda ou,\nNji kambututu Kendi,\nKa nji hasa vavenia.\n\n2. A nji zema Yesu ou,\nNa sokolola mbelo,\nNa tundisile vivi,\nNji ka kovela muilu.\n\n3. A nji zema Yesu ou,\nA ka tumbama nange,\nAka nji kuasa vene,\nAka nji yisa muilu.",
+    "coro": "Eua, Yesu ou, Ua nji zemene,\nUa nji zemene, nji na zivi oco.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 84,
+    "numero": 84,
+    "titulo_pt": "K'Listu Ua hindukila;",
+    "texto_pt": "1. K'Listu Ua hindukila;\nAleluya!\nVantu na tungelo nguavo;\nAleluya!\nImbeni na nzolela;\nAleluya!\nKuanyeni melu na hantsi;\nAleluya!\n\n2. Lumo ha cilindakano;\nAleluya!\nLumo ua tsililile,\nAleluya!\nVuno A li na muono;\nAleluya!\nA ka viala ntsimbu yose;\nAleluya!\n\n3. Imbeni na ku sakuila;\nAleluya!\nKuli Yesu Muene uetu;\nAleluya!\nUa hianene ku ku-tsa;\nAleluya!\nLinga a tu ovole;\nAleluya!",
+    "coro": null,
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  },
+  {
+    "id": 85,
+    "numero": 85,
+    "titulo_pt": "U tsiliela Muene Yesu,",
+    "texto_pt": "1. U tsiliela Muene Yesu,\nA ka ku kuasa,\nA ka ku kuasa;\nImba u tsiliela vuino,\nU zolela ngambu.\n\n2. U tsiliela Muene Yesu,\nYendi u kava,\nYendi u kava;\nMuono uove, Yendi a uizi,\nA ka ku tuamene.\n\n3. U tsiliela Muene Yesu,\nNehia citeli,\nNehia citeli;\nU Muavele citeli cove,\nA ka ci tualeko.",
+    "coro": "Tsiliela, kuli Muene Yesu,\nTsiliela ku ngozi Yendi;\nTsiliela, tala meso muilu,\nMu tsiliele Endi.",
+    "categoria": "MIASO YA KU SEMUKA KUA YESU"
+  }
+]

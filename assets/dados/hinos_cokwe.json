@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "numero": 1,
+    "titulo_pt": "Uhi ño! Uhi ño! Tu fendeli ño",
+    "texto_pt": "1. Uhi ño! Uhi ño! Tu fendeli ño;\nUhiño loku yeva ondaka eyi.\nEnjui loku uhã, Yesu yu kulo.\nEnjui loku uhã, O tu pañinya.\n\n2. Uhi ño! Uhi ño! Komangu yefendelo;\nKonjo yikola, u yevi ondaka.\n\n3. Uhi ño! Uhi ño! Loku lomba lika;\nTu tambula ndopo omembua yokilu.\n\n4. Uhi ño! Uhi ño! Sokololi etaili;\nUhi ño! Uhi ño! Talameli kokua'e.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 2,
+    "numero": 2,
+    "titulo_pt": "Eswe twanyingika Yesu",
+    "texto_pt": "1. Eswe twanyingika Yesu,\nHamwe tumuhalisenu;\nChatutamba kumusela\nMbunge ni yeswe.\n\n2. Tuchimufumanyisenu,\nYeswe kakutuhashisa;\nKutuchi kahona, kachi\nTwamufuliela.\n\n3. Fulielenu miaka yeswe,\nIye keshi kwalumuka;\nKechi kulihandununa\nNo, wakwafwila.\n\n4. A Mwene, tukwase kama,\nHanga tukulalaminye,\nNdo yetu mutuliwana\nNi Yena mwilu.\n\n5. Yeswe twafupa musono,\nTwayivwila usona hano;\nNdo muyitusolokela,\nMba mutuhinga.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 3,
+    "numero": 3,
+    "titulo_pt": "Tuhalisenu Zambi Tata yetu",
+    "texto_pt": "1. Tuhalisenu Zambi Tata yetu,\nWechele ku kufwa\nMwanenyi Yesu.\nAleluya! Ufumane! Tuhuzulule.\n\n2. Tuhalisenu Spilitu ya pangu,\nYoze watunyingikishine\nMwe Kristu.\n\n3. Tuhalisenu Tata yetu Zambi,\nYoze watufupile\nNi vumbi lienyi.\n\n4. Tuhalisenu Mwana Zambi, yoze\nNi manyinga jenyi\nHatupenesa pe.\n\n5. Tuzalise to ni kuzanga, Mwene;\nMbunge jetu ni kahia\nMwilu jiwike.\n\n6. Muhalisenu, yenu kule jenyi;\nNgwenyi ngwo,\nKumungwizaho nikawashi.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 4,
+    "numero": 4,
+    "titulo_pt": "Zambi ya mbwika",
+    "texto_pt": "1. Zambi ya mbwika,\nSamatanga mwilu\nYinatukomwesa yitanga ye!\nYena wakwendesa matongonoshi,\nNi wakuhenyamisa tangwa pe.\nNi woma wunji tunakomoka\nZambi yetu, unene we!\nAkwa fufuta tunakomoka\nKunanga cha ulemu we.\n\n2. Twakwivwa liji Lie lia lundunjila\nWatuma njaji ni mihenyo ye,\nVula malundumuka munji munji\nMalelwa nawa mu tetela pwi.\n\n3. Ni ha lushiho wakufunga mwono\nWa yuma yeswe mu musenge we.\nHa vumbi wakusokolwesa mafwo,\nYitemo nawa, hashi homu chau.\n\n4. Chikomokeso chinahiana yeswe\nChize wahanyine Yesu Mwane\nAkatufwile, yetu akwa kole\nAkatupwise pundu ana je.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 5,
+    "numero": 5,
+    "titulo_pt": "Mba tangwa lia che chiseke",
+    "texto_pt": "1. Mba tangwa lia che chiseke,\nMuze natongwele Mwene;\nMbunge yami, yilikwize,\nKuwaha chami, chinene!\nTangwa lia chiseke!\nSe Yesu wangukosele!\nYafumba ngulembe, ngule,\nNguwahe matangwa eswe.\nTangwa lia chiseke!\nSe Yesu wangukosele.\n\n2. Hakolesa we usendo,\nNiwenyi, Iye niwami;\nHanangukoko, ngukaule\nLie Liji lia Zambi yami.\n\n3. Haliapwa nahwima mbunge\nKuli Yesu nafuliela;\nChichi kukatuka kevwe,\nYiwape yenyi nguzuke.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 6,
+    "numero": 6,
+    "titulo_pt": "Maliji makukatuka",
+    "texto_pt": "1. Maliji makukatuka,\nNi meso kanda ujika,\nMbunge kanda ukalisa,\nMusono mulilamwina?\nMusono nyi? Musono nyi?\nMusono mulilamwina?\nMusono nyi? Musono nyi?\nMusono mulilamwina?\n\n2. Mba tangwa lia hamene nyi?\nKuhetako kwiji yena!\nChikalu mu kuliecha nji?\nMusono mulilamwina?\n\n3. Hano hashi kwawaha nyi?\nChiseke chakuhi nawa;\nK'ristu Chilamwina Iye,\nMusono mulilamwina?\n\n4. K'ristu kechi kulituna,\nKachi unazange mwono,\nMusono nyi muputuka?\nMusono mulilamwina?",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 7,
+    "numero": 7,
+    "titulo_pt": "Spilitu, ni pangu lie",
+    "texto_pt": "1. Spilitu, ni pangu lie\nKu mbunge nguwahise;\nKwalajala chinyisa,\nNguzalise ni mwalwa.\n\n2. Spilitu, ni tachi je\nUkangutakamise;\nNgunalele, ngukwase,\nHanga ngukajikize.\n\n3. Spilitu, ni chiseke\nChinyengo unguchize;\nNgukwimbile musono,\nMumu wangwaha mwono.\n\n4. Spilitu, ngutomese\nKu shili ni uhenge;\nHanga ngukulingile,\nChipwe ku miaka yeswe.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 8,
+    "numero": 8,
+    "titulo_pt": "Yesu kakungusongwela",
+    "texto_pt": "1. Yesu kakungusongwela,\nChika munguchihona?\nChichi kumuyambashana,\nMumu kanashishika.\nSambukila muli Iye,\nYa kwilu kunazuka,\nMumu chipwe mu luyinda\nYesu kakungukwasa.\n\n2. Yesu kakungusongwela,\nKakungulembejeka;\nKakungwaha vumbi lienyi,\nMbolo ya mwono nawa.\nKachi pwila ya mu mbunge\nMungwivwa, mangunwisa,\nMeya aze kechi kahwa\nNdo ku miaka ni miaka\n\n3. Yesu kakungusongwela,\nZango lienyi linene;\nWashikile kungutwala\nMwilu hamwe ni Mwene.\nMuze munguheta kuze\nKu uhenya wenyi pe,\nMungwimbamba miaka yeswe,\n«Te wangusongwelele»",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 9,
+    "numero": 9,
+    "titulo_pt": "Mwe Mukwa kungukula kwali",
+    "texto_pt": "1. Mwe Mukwa kungukula kwali,\nKumeza cheka hashi, ngwo\nChinyingi nasa mwono kuuli,\nMu kwoko lienyi tachi, ngu.\nChinyingi nasa Yesu kwali,\nKumeza hashi cheka, ngwo\nChinyingi nasa mwono kuuli,\nMu kwoko lienyi tachi, ngu.\n\n2. Chinyingi nasa kanajame,\nLiakola, Liji lia Mwene;\nChipwe kufwa muchinguheta,\nMungukamumona meso.\n\n3. Chinyingi nasa ha chihela,\nMuze yami mungutwama;\nMumu Iye kananguzange,\nKulutwe makangwijila.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 10,
+    "numero": 10,
+    "titulo_pt": "A Mwene, tunakufupu",
+    "texto_pt": "1. A Mwene, tunakufupu,\nKumeso je tufukame;\nTumisa kama misayo,\nHaliapwa utuwahise,\n\n2. Mba tunakusakuilila\nManyinga, e alemu te;\nO hanatukundamisa,\nTusangalise Jina lie.\n\n3. Hanatunjisa mwe mwilu,\nYuma ya hashi yisale;\nTwafupa kwivwa yeswe ye.\nKuzanga che ni vumbi lie.\n\n4. Ha huma lie akusele\nJe mbimbo, ngwe chipangula,\nNi moko je, ni lumbu lie,\nTunafupu kukumona.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 11,
+    "numero": 11,
+    "titulo_pt": "Yesu K'litu wafwile",
+    "texto_pt": "1. Yesu K'litu wafwile,\nAleluya!\nHanga atulamwine,\nAleluya!\nMu fuka wapombele,\nAleluya!\nMwene wahindukile\nAleluya!\n\n2. Mwaso twakumwimbila,\nAleluya!\nYesu mwe Mwanangana,\nAleluya!\nHa kulusu wafwile,\nAleluya!\nShili ayichijile,\nAleluya!\n\n3. Lamba watuvwilile,\nAleluya!\nChocho katulanwina,\nAleluya!\nIye Swana ya Mwilu,\nAleluya!\nMukwa uhenya mweYesu\nAleluya!\n\n4. Zambi twakuhalisa\nAleluya!\nVumbi linji watwaha,\nAleluya!\nTusakwilenu helu,\nAleluya!\nTata, Mwana, Spiritu.\nAleluya!",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 12,
+    "numero": 12,
+    "titulo_pt": "Kasengo mupema Yesu",
+    "texto_pt": "1. Kasengo mupema Yesu,\nYe milonga yetu se,\nWalitwikileyo yeswe,\nHanga tuyishikise;\nKevwe twalilimbalimba,\nTwalitwika yilemu,\nMumu kutwatwalileyo\nKuli mwe Mwene wetu.\n\n2. Kachi chuma cha kuzeza,\nKachi luyinda mweka;\nYena, kanda ulinyenga,\nLweza Mwene we wika.\nWeka wakuhi ngwe Yesu,\nKutuchiza chinyengo;\nYeswe twakuyisa kenu,\nKuli Mwene twalayo.\n\n3. Kachi twalilimbalimba\nNi yilemu ya hashi,\nTwala ku Chiswamo chetu,\nYesu Iye Chikwashi,\nKachi akwenu makumbila,\nTwala kuli Mwene we;\nMoko jenyi makufunga,\nKumuwivwa chiseke,",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 13,
+    "numero": 13,
+    "titulo_pt": "Yesu, kanda unguhiana",
+    "texto_pt": "1. Yesu, kanda unguhiana,\nUngwivwe kama,\nSe akwo unatambula,\nKanda unguhiana.\nChilamwina,\nUngwivwe kama,\nSe akwo unatambula,\nKanda unguhiana.\n\n2. Ku chitwamo che cha vumbi,\nNgwambe, nguswame,\nNikulemba ungukwase,\nNgukufuliele.\n\n3. Ku ululi we natala,\nNgukundamise;\nHuzulula mbunge yami,\nUngulamwine.\n\n4. Yena, uhwimino wami,\nWe mwono pundu;\nNgwe Yena niumwe hashi,\nMba niumwe mwilu.",
+    "coro": null,
+    "categoria": "KUHALISA"
+  },
+  {
+    "id": 14,
+    "numero": 14,
+    "titulo_pt": "Mweswe mukwa kwivwa, ambulula",
+    "texto_pt": "1. Mweswe mukwa kwivwa, ambulula,\nMukuvwisa eswe Sango Lipema;\nKu yifuchi anji kanda alivwa,\nWeswe wa kuta, eze.\nMweswe wa kuta, mweswe wa kuta,\nTutwalenu liji lia kulakenya,\nZambi Tata yetu kanazange eswe,\nMweswe wa kuta, eze.\n\n2. Mweswe mukwa kwiza\nKanda ashimbula,\nPito lichili liawashi, anjile;\nMumu Yesu Jila ya mwono Iye,\nMweswe wa kuta, eze.\n\n3. Mweswe wa kuta,\nLie Liji lia Zambi,\nLia kusambilila mwe mukwashili;\nKu manyinga a Yesu, hanga asambe,\nMweswe wa kuta, eze.",
+    "coro": null,
+    "categoria": "KU LA KENHA"
+  },
+  {
+    "id": 15,
+    "numero": 15,
+    "titulo_pt": "Ezenu kuli Chilamwina",
+    "texto_pt": "1. Ezenu kuli Chilamwina.\nLiji lienyi liatulumbunwina;\nMukachi hetu kakumana,\nNikutulakenya.\nChisele ha kulifutula\nHamwe ni Mwene\nChilamwina;\nNi mbunge jetu mujitoma\nMu mahietu mwilu.\n\n2. Ezenu ana, kana nwambe,\nEzenu hanga numukaule;\nMutongolenu apwe Mwene,\nKanda nulaluka.\n\n3. Nyongenu nawa, kwali kuno,\nOnonokenu ku yiyulo;\nIvwa kuhiohia liji lino,\nItenu, anami.",
+    "coro": null,
+    "categoria": "KU LA KENHA"
+  },
+  {
+    "id": 16,
+    "numero": 16,
+    "titulo_pt": "Ola ya kulemba te, mubunge jifukame",
+    "texto_pt": "1. Ola ya kulemba te, mubunge\njifukame,\nKuli Yesu mwe\nMwene tukunguluke;\nKachi mutufuliela,\nKachi matufunga;\nOla ya kuhwimisa!\nKupwako chipema!\nOla yiwape! Ola yiwape!\nOla ya kuhwimisa;\nKupwako chipema!\n\n2. Ola ya kulemba te,\nChilamwina meza,\nNi kutuvwila keke matupanjika;\nYe yipikalo yeswe\nKuli Iye kwecha;\nOla ya kuhwimisa!\nKupwako chipema!\n\n3. Ola ya kulemba te,\nUnalungajala?\nAmbulula yinyengo\nYe kuli Mwata;\nVumbi linyi linene,\nYeswe kumachiza;\nOla ya kuhwimisa!\nKupwako chipema!\n\n4. Ola ya kulemba te,\nNikumufuliela,\nTwakutambula yize\ntwakuyihona;\nNikujamina pundu,\nChocho mutuhwima;\nOla ya kuhwimisa!\nKupwako chipema!",
+    "coro": null,
+    "categoria": "KU LA KENHA"
+  },
+  {
+    "id": 17,
+    "numero": 17,
+    "titulo_pt": "Kungunevu liji lienyi",
+    "texto_pt": "1. Kungunevu liji lienyi,\nKungunevu liji lienyi,\nKungunevu liji lienyi,\nUngukaule kweswe mu jila.\nNguye kweswe mangutwala,\nNguye kweswe mangutwala,\nNguye kweswe mangutwala,\nHamwe nenyi kweswe, woma ka.\n\n2. Chipwe lamba nguye nenyi,\nJila yeswe nenyi indo songo.\n\n3. Nyi mangweseka ni kahia,\nHindu kwenda nenyi ndo songo.\n\n4. Vumbi linji mangumwesa,\nNi kumaya hamwe ni yami.",
+    "coro": null,
+    "categoria": "KU LA KENHA"
+  },
+  {
+    "id": 18,
+    "numero": 18,
+    "titulo_pt": "Mwene Yesu, munguliecha",
+    "texto_pt": "1. Mwene Yesu, munguliecha\nKuli yena mulambu;\nTambula mujimba wami,\nNgwe chitapo chisandu.\n2. Ku chitwamo che cha vumbi\nKumungulilelesa,\nSe ngunahi, ngunaliumbu,\nMbunge kungutomesa.\n\n3. Ye ya hashi chazangile,\nYa kwilu ngunafupu,\nWe upite we wa vumbi,\nKashika ngunayuku.\n\n4. Zalisa Spilitu yami\nNi kuwaha cha Mwene;\nTachi je ungwehe kama,\nHanga ngukupemene.",
+    "coro": "Mungulihana! Mungulihana!\nMbunge yeswe ni mujimba\nmungulihana",
+    "categoria": "KULIECHA"
+  },
+  {
+    "id": 19,
+    "numero": 19,
+    "titulo_pt": "Wakonekenene milonga yami pwi",
+    "texto_pt": "1. Wakonekenene\nMilonga yami pwi,\nManyinga wangwechelele,\nYe fweto ya shili.\n2. Mwene, nanyingika,\nTe tachi je wika,\nJahasa kungwalumwisa,\nMba mwono kungwaha.\n\n3. Napwile ni mwongo\nWa mbongo ya lamba;\nNatetele kuli Yesu,\nMba yangulamwina.\n\n4. Ku upale wa Mwene,\nChiseke nakwivwa;\nManyinga jenyi atela,\nKufunga ku lamba.",
+    "coro": "Milonga yami\nYangulayisa,\nAngukukilileyo\nKuli Yesu wika.",
+    "categoria": "KULIECHA"
+  },
+  {
+    "id": 20,
+    "numero": 20,
+    "titulo_pt": "Kulili pito liawashi",
+    "texto_pt": "1. Kulili pito liawashi,\nKu kulusu ya Yesu;\nLienalio kuli a shili,\nUnjililo wa mwilu.\nLinene liapwa lie vumbi,\nLiasela pito liawashi,\nHali-yami\nLiawashi hali yami.\n\n2. Lia kwazulukila eswe,\nHanga afupe mwono;\nNi pichi ni chiswale te\nKechi kafweta ndando.\n\n3. Lishinjikenu kunjila,\nShimbu kanda aliajila;\nYa uhenya mwilu usona?\nKafwa kunushi kwivwa?\n\n4. Lie lamba lietu lia hashi,\nHa sali matutula,\nKuwaha chetu kuchili,\nNi Mwene mutukaula.",
+    "coro": null,
+    "categoria": "KULIECHA"
+  },
+  {
+    "id": 21,
+    "numero": 21,
+    "titulo_pt": "Chika muchipemesa?",
+    "texto_pt": "1. Chika muchipemesa?\nE manyinga a Yesu wika.\nChika muchinguwuka?\nE manyinga a Yesu wika.\nManyinga alemu!\nA kutomesa to;\nAkuhi eka ngwo,\nE manyinga a Yesu wika.\n\n2. Ni ha kungusambisa,\nE manyinga a Yesu wika,\nNi ha kunguwanyisa,\nE manyinga a Yesu wika.\n\n3. Ni ha kungukukila,\nE manyinga a Yesu wika.\nSambukila hatwaha,\nE manyinga a Yesu wika.\n\n4. Nakukumba no nawa,\nE manyinga a Yesu wika.\nMwilu mungukaheta,\nKu manyinga a Yesu wika.",
+    "coro": null,
+    "categoria": "MESA YA MWENE"
+  },
+  {
+    "id": 22,
+    "numero": 22,
+    "titulo_pt": "Ye mbolo ya mwono ngupalwile",
+    "texto_pt": "1. Ye mbolo ya mwono ngupalwile,\nNgwe ku Ngalileya wahanyine;\nMba nguye ni Yena nikuwaha;\nTe Liji lie mulinguyukisa.\n\n2. Ye mbolo ya mwono ngupalwile,\nNgulise ngwe waze ku chitende;\nManyonga jami eswe ungwolwele,\nNi molu jami ungufungiele.\n\n3. Lie Liji lia Yena ngufukwile,\nNgwe ku Ngalileya matangwa eswe;\nMba nikuliendela mutuyaya,\nNi mwono we kumungusolwela.\n\n4. Ni Liji lia Yena nguwahise,\nNgwe waawahishile ku chitende;\nUfunge wa mbunge mba kumuuhwa,\nNi keke ni yeswe munguwana.",
+    "coro": null,
+    "categoria": "MESA YA MWENE"
+  },
+  {
+    "id": 23,
+    "numero": 23,
+    "titulo_pt": "Ha kutala Yesu",
+    "texto_pt": "1. Ha kutala Yesu\nWafwile ha kulusu,\nMwono kuuli mukulichijila;\nMweswe mukwa shili\nTalako kuli Yesu,\nWafwile mukukulamwina.\nWa, wa, we mwono!\nHa kutala Yesu wafwile ha kulusu,\nMwono kuuli kulichijila.\n\n2. Kuchi te wafwile\nNikumbata ye shili,\nKachi kamutwikile shili ye?\nNi ku lumbu manyinga\nAhichile kuchi,\nKachi longo lie kafwetele?\n\n3. We uhiso kuchiza\nMasoji kahona,\nTe manyinga wika maukatwisa:\nHali Yoze wika\nWaamwangine kashika,\nShili ye yeswe langumuna.\n\n4. Kanda uhangulula,\nZambi mwene wambile,\nNgwo, Nichimwe chasala chakuhi;\nHa songo lia miaka\nK'Listu wasolokele,\nYe milimo wamanunwine.\n\n5. Zuka mba musono\nNi mukawahilila,\nWe mwono kakuhana chawana;\nUkanyingike pundu ngwo,\nkufwa hichahwa,\nSe Yesu ni mwono katwama.",
+    "coro": null,
+    "categoria": "MESA YA MWENE"
+  },
+  {
+    "id": 24,
+    "numero": 24,
+    "titulo_pt": "Tutakamenu, akwetu",
+    "texto_pt": "1. Tutakamenu, akwetu,\nTukaulenu Mwene;\nMwe Tetekeli yetu\nKumaya kulutwe.\nTulimike ni yipi,\nMu Jina lia Yesu,\nHando lietu munene,\nK'Listu Mwene wetu.\n\n2. Tutakamenu, akwetu,\nAkwa kole kwali,\nNi tunjiliji anji,\nTwendenu ni tachi.\nTukwatenu katana,\nTwandenu lukepwe,\nTupwenu ni utunu,\nHanga tukakumbe.\n\n3. Tutakamenu, akwetu,\nMwe Satana kwali;\nJita yino yikalu,\nMana jenyi anji.\nMba kanda twivwa woma,\nTunyongononenu,\nChipangula kuchili,\nMatwahacho mwilu.",
+    "coro": null,
+    "categoria": "JITA YA MWENE MWENE"
+  },
+  {
+    "id": 25,
+    "numero": 25,
+    "titulo_pt": "Ndotolo ku kuno kwali",
+    "texto_pt": "1. Ndotolo ku kuno kwali,\nMukwa kulembejeka;\nMaliji jenyi a vumbi,\nIvwako haliapwila.\nMwaso uno upema,\nMwaso uno wahiana,\nJina lino lipema,\nYesu, Mwene Yesu.\n\n2. Makonekena shili ye,\nIvwako liji lienyi;\nMu jila enda ni Mwene,\nMwilu mutwama nenyi.\n\n3. Mba Vulie! Jina lia Yesu,\nKuvuluka nafwila,\nUlemu weswe twechenu\nKuli mwe Mwana-panga.\n\n4. Lie Jina lienyi linate,\nKuchinyisa we woma;\nLiahiana majina eswe,\nLie Jina lia kuwaha.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU (Seguindo a Jesus)"
+  },
+  {
+    "id": 26,
+    "numero": 26,
+    "titulo_pt": "Se tunende nenyi",
+    "texto_pt": "1. Se tunende nenyi,\nLiji lienyi pangu,\nNi uhenya katutemwina;\nTwapemena Iye;\nKanatwama hamwe,\nTwafuliela, twakwononoka.\nFulielenu, ni ononokenu,\nHanga twivwe chiseke\nMuli Mwene Yesu.\n\n2. Nyi chizulie chipwe,\nHanji lelwa limwe,\nKakuhumbulayo chawana,\nSoji ni kuyamba,\nNi wakuhi woma,\nTwafuliela, twakwononoka.\n\n3. Nyi yilemu yinji,\nNyi yinyengo hashi,\nIye kevwe matwononona;\nNyi luyinda hano,\nMatuwahisaho,\nTwafuliela, twakwononoka.\n\n4. Twakulishimwinya\nNi kuwahilila,\nMba mutuya hamwe ni\nMwata,\nChize mamba tute,\nMatutuma tuye,\nTwafuliela, twakwononoka.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 27,
+    "numero": 27,
+    "titulo_pt": "Kweswe hamwe ni Yesu hi kawape",
+    "texto_pt": "1. Kweswe hamwe ni Yesu hi kawape,\nKweswe mangutetekela hashi te,\nKechi kanguhichika ndo ku songo\nHamwe nenyi kashika kenu mwongo.\nKweswe, kweswe,\nWoma kwivwa, ka\nKweswe hamwe ni\nYesu hikuwaha.\n\n2. Kweswe te ni Yesu ukawami, ka,\nNo akwetu machina, mba Yesu, ka;\nChipwe mangutwala mu jila yipi,\nHikuwaha wika Yesu ni yami.\n\n3. Kweswe hamwe ni Yesu kenu yipi,\nMu milima, mu ufuku, mu utoji,\nSe nanyingika mwilu mungunjila,\nMu mahiami ni Yesu mukutwama.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 28,
+    "numero": 28,
+    "titulo_pt": "Mwene wetu, tunejila kuno",
+    "texto_pt": "1. Mwene wetu, tunejila kuno,\nMukulimona meso ni Yena;\nHano ni kwoko lia ufulielo,\nKu vumbi lie twalijikijila.\n\n2. Hano twafupa kulia ye mbolo,\nChinyingi cha mujimba wa Mwene;\nHano twakwiwuluka ku vinyu,\nManyinga a kujimuna shili.\n\n3. Shili hi yetu, ululi hi we,\nUhiso wetu, Yena wasamba;\nKashika twakuhwima mbunge pe,\nNi ululi we ni manyinga je.\n\n4. Kuya tukwete; ha kukatuka,\nYizulie yino kumayichiza;\nAlioze yena hehi wasala.\nLie Tangwa lietu, ni mwe Kafunga.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 29,
+    "numero": 29,
+    "titulo_pt": "Chinapeme kufuliela",
+    "texto_pt": "1. Chinapeme kufuliela\nMwene Yesu mu jila;\nKuhwima ha liji lienyi,\nKechi katuhichika.\nMwene Yesu, nafuliela,\nYena Chikwashi chami\nMwene Yesu, weza kama\nKu ufulielo wami.\n\n2. Chinapeme kufuliela\nKu manyinga a Yesu,\nMumu kanatupemesa\nPundu ku shili yetu.\n\n3. Chinapeme kufuliela,\nKutambula chawana,\nKuli Iye, Yesu Mwene\nMwono ni sambukila.\n\n4. Nawaha kumufuliela,\nNgwe kasendo mupema;\nHaliapwa ni yami kwali\nNdo ku songo lia miaka.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 30,
+    "numero": 30,
+    "titulo_pt": "Yehova Kafunga kami",
+    "texto_pt": "1. Yehova Kafunga kami,\nMba chichi kahona;\nMu kelo kangupombesa,\nKu meya apema.\n\n2. Kakuhuzulula mbunge,\nNi kakungutwala\nMu majila a ululi,\nMumu Jina lienyi.\n\n3. Chipwe mu chikulo nawa\nCha kufwa mungwenda,\nHindu chichi kwivwa woma,\nMungulembejeka.\n\n4. Kumeso já akwa kole\nWalulika mesa;\nUnanguwayisa mutwe,\nMusenge unazala.\n\n5. Utu ni keke ndo miaka\nMuyikangukaula;\nNi mu zuwo lia Yehova\nMupwe muma mwami.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 31,
+    "numero": 31,
+    "titulo_pt": "E, kangutwala kweswe, ngwe",
+    "texto_pt": "1. E, kangutwala kweswe, ngwe\nMaliji jenyi apema pe;\nKweswako yami nakuya,\nNi kwoko lienyi katwala.\nKangutwala, kangutwala,\nNi kwoko lienyi katwala,\nNgupwe kambaji ka Mwene,\nNi kwoko lienyi atwale.\n\n2. Yinyengo yinji yipweho,\nChiseke chinji chipweko;\nHindu munguhwima kama,\nNi kwoko lienyi katwala.\n\n3. Ni kwoko lie ngukwateko,\nNi kanda ngulinyengaho;\nNyi chipi, chipwe chipema,\nNi kwoko lienyi katwala.\n\n4. Milimo muyikahwako,\nKu vumbi mungukumbaho,\nMba Mwene mwilu kumeza,\nNi kwoko lienyi matwala.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 32,
+    "numero": 32,
+    "titulo_pt": "Liwe lia miaka yeswe",
+    "texto_pt": "1. Liwe lia miaka yeswe,\nMuli Yena nguswame;\nMeya ni manyinga je\nAze a ku lumbu lie,\nAnguwuke mu mbunge,\nAngupemese mweswe.\n\n2. Hi yitanga yami ko\nMangusambisa nayo;\nHi kuzangazanga ko\nHi kulilalila ko.\nYamokomoko yeswe,\nMwene, ungulamwine.\n\n3. Ni milambu kwecha, ka,\nKu kulusu natala;\nUngujike uzalo we,\nUnguvwile vumbi lie.\nMupi ngukuchinyine,\nUngupemese, Mwene.\n\n4. Ngunatate kwiza che,\nChipwe kufwa chihete.\nMuze munguya mwilu\nMungukumona, K'Listu,\nLiwe lia miaka yeswe,\nMuli Yena nguswame.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 33,
+    "numero": 33,
+    "titulo_pt": "Jina lia Yesu lipema",
+    "texto_pt": "1. Jina lia Yesu lipema,\nNafwila kulivuluka,\nMumu ngunevu kuwaha,\nJina lia Mwene Yesu.\nYesu, Jina lipema,\nYesu, tangwa ha tangwa,\nYesu, twambujolenu\nJina lia Mwene Yesu.\n\n2. Lie Jina lienyi linene,\nMungulivuluka kweswe;\nLia kunguhwimisa wate,\nJina lia Mwene Yesu.\n\n3. Ngunafwila Jina lienyi,\nLiawahisa mbunge yami;\nLie Jina liahiana eswe,\nJina lia Mwene Yesu.\n\n4. Akwetu, tuhalisenu\nLie Jina lia Muene wetu;\nMba mutuhalisa mwilu\nJina lia Mwene Yesu.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 34,
+    "numero": 34,
+    "titulo_pt": "Zambi apwe hamwe ni yenu",
+    "texto_pt": "1. Zambi apwe hamwe ni yenu,\nNi mu jila anutwale,\nAnukwase yenu eswe;\nZambi apwe hamwe ni yenu.\nNdo mutuheta, eswe hamwe,\nNdo ku molu já Yesu mwilu;\nNdo mutuheta, eswe hamwe;\nZambi apwe hamwe ni yenu.\n\n2. Zambi apwe hamwe ni yenu.\nNi mapulwa jenyi Mwene,\nAnufunge, anulise;\nZambi apwe hamwe ni yenu.\n\n3. Zambi apwe hamwe ni yenu,\nChipwe lamba munumona,\nAnulembejeke kama;\nZambi apwe hamwe ni yenu.\n\n4. Zambi apwe hamwe ni yenu,\nAnutwamise ni vumbi,\nAnulamwine ku yipi;\nZambi apwe hamwe ni yenu.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 35,
+    "numero": 35,
+    "titulo_pt": "Cha kutuwahisa",
+    "texto_pt": "1. Cha kutuwahisa,\nKulikata chetu,\nChize cha kutuwanyisa,\nChili ngwe cha mwilu.\n\n2. Kumeso já Tata,\nTwakulemba wate;\nMba yipi hanji yipema\nTwakuyivwa hamwe.\n\n3. Mba twakulikwasa\nSe lamba twakwivwa;\nNyi kachi umwe malila\nEswe twakuchivwa.\n\n4. Muze mutushika\nNi akwetu hano,\nTunyongenu kuliwana\nMwilu kutwama no.",
+    "coro": null,
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 36,
+    "numero": 36,
+    "titulo_pt": "Vula muwape wa Zambi",
+    "texto_pt": "1. Vula muwape wa Zambi,\nLino lie liji pundu;\nKumakanoka he hashi\nWa kuli Mwene kwilu.\nVula muwape,\nVula muwape, ngwenyi,\nWatwaha kamwe kakepe,\nHindu munji twafupa.\n\n2. Vula muwape wa Zambi,\nAtutumine, Mwene!\nKuhuzuluka tunechi,\nKulita ni Liji lie.\n\n3. Vula muwape wa Zambi,\nTuma musono uno;\nTunakulembe, Yehova,\nNokesa vula mwilu.",
+    "coro": "Vula muwape,\nVula muwape, ngwenyi,\nWatwaha kamwe kakepe,\nHindu munji twafupa.",
+    "categoria": "KUENDA KWA MUKWA YESU"
+  },
+  {
+    "id": 37,
+    "numero": 37,
+    "titulo_pt": "Hitunevu liji, ngwo",
+    "texto_pt": "1. Hitunevu liji, ngwo,\nYesu kakulamwina!\nLifumanyisenuko,\nYesu kakulamwina!\nNutwalenu lie Sango,\nKu yifuchi, mba kweswe,\nAtu eswe akevwe,\nYesu kakulamwina!\n\n2. Sango lia kuwahisa,\nYesu kakulamwina!\nKuli akwa kutoka,\nYesu kakulamwina!\nZango lienyi linene,\nVumbi lienyi liahiana,\nSe wafwilile eswe,\nYesu kakulamwina!\n\n3. Helu heswe imbenu,\nYesu kakulamwina!\nKu kufwa hanakumbu,\nYesu kakulamwina!\nHa matangwa a lamba,\nNi masoji ku meso,\nHelu lia kulila ngwo,\nYesu kakulamwina!\n\n4. Fuji yitwale Liji,\nYesu kakulamwina!\nNdo kusuku lihete,\nYesu kakulamwina!\nHashi eswe akevwe,\nAkamuchichimieke,\nAmwimbile, awahe,\nYesu kakulamwina!",
+    "coro": null,
+    "categoria": "KUTUALA ZANGO LIPEMA"
+  },
+  {
+    "id": 38,
+    "numero": 38,
+    "titulo_pt": "Ambulwila akua shili",
+    "texto_pt": "1. Ambulwila akua shili,\nNgwo, Yesu maatambula;\nEswe akwa kutoka,\nIye maalamwina,\nLie liji – tulitwale,\nKazanga – akwa shili;\nTwambenu – liji lino,\nKazanga – akwa shili.\n\n2. Kundamenu, nuhwime,\nIvwenu Liji lienyi;\nKumatambula eswe,\nKanatoko mu shili.\n\n3. Kashika ni mbunge pe,\nNgunakwimi musono;\nYoze wangukulile\nKanguchiza uhiso.\n\n4. Kazanga akwa shili,\nKumaatomesa mbunge;\nChipwe yami, mwe mupi,\nMwilu akangunjise.",
+    "coro": null,
+    "categoria": "KUTUALA ZANGO LIPEMA"
+  },
+  {
+    "id": 39,
+    "numero": 39,
+    "titulo_pt": "Kuwenu ye mbuto",
+    "texto_pt": "1. Kuwenu ye mbuto,\nLiji lia mwe Tata,\nKuwenu chimene\nNdo ufuku, ngwo;\nTulikolezenu\nMwaka wa che kucha;\nMutwiza kuwaha ni mitonga tó.\nNikuzala tó, nikuzala tó,\nKumutwiza kucha ni mitonga tó.\nNikuzala tó, nikuzala tó,\nMutwiza kuwaha ni mitonga tó.\n\n2. Kuwenu há mwalwa,\nChipwe mu mufuka,\nKanda twivwa woma wa\nchishika, ngwo;\nTe kulutwe kucha,\nMutwiza kuhwima,\nMutwiza kuwaha ni mitonga tó.\n\n3. Yenu nikulila, kuwilenu Mwata,\nChipwe nwalifwita\nNgwe nunahono;\nMutusanguluka, matusambilila;\nMutwiza kuwaha ni mitonga tó.",
+    "coro": null,
+    "categoria": "KUTUALA ZANGO LIPEMA"
+  },
+  {
+    "id": 40,
+    "numero": 40,
+    "titulo_pt": "Muze meza Mwene Yesu",
+    "texto_pt": "1. Muze meza Mwene Yesu,\nMukutwala eswe,\nAna jenyi, ni manyinga\nWaalanjile\nNgwe e matongonoshi,\nMwilu mahenyahenya;\nMuze hamwe ni Mwene,\nMakatemuka.\n\n2. Anji makakunguluka.\nMu chifuchi chenyi;\nWaze a kutoma mbunge,\nNiumwe masala.\n\n3. Ana akepe ana akepe,\nA kwononokena;\nEno wa kwafwila Mwene,\nChamwenemwene.",
+    "coro": null,
+    "categoria": "KWIZA CHA MWENE"
+  },
+  {
+    "id": 41,
+    "numero": 41,
+    "titulo_pt": "Muze che chitavwi memba",
+    "texto_pt": "1. Muze che chitavwi memba,\nNi mwaka muusulako,\nNi mu kucha che chimene mwilu tó;\nMuze kule mwe musali malikungulako,\nHa kutambikako, mungukapwako.\nMuze maatambikako,\nNi mukanda mautanga,\nNi majina maatanga,\nHa kutambikako, mungukapwako.\n\n3. Kucha chize kwa kengulu\nAfu muli K'Listu no\nNi uhenya makahindukilako;\nWaze atongwele Mwene\nmakakungulukamo,\nHa kutambikako, mungukapwako.\n\n4. Tukalingilenu Mwene\nMwalwa ni ufuku pwi,\nSango lietu vumbi ni kuzanga ngwo,\nNdo we mwono muusula, ni\nmilimo hiyahwa,\nHa kutambikako, mungukapwako.",
+    "coro": null,
+    "categoria": "KWIZA CHA MWENE"
+  },
+  {
+    "id": 42,
+    "numero": 42,
+    "titulo_pt": "Meso ni meso ni Yesu",
+    "texto_pt": "1. Meso ni meso ni Yesu,\nChilamwina chami Iye;\nKumumona ngunafupu,\nMumu wangufwilile.\nMeso ni meso ni Mwene,\nMu chifuchi cha mwilu;\nMu uhenya wenyi weswe\nMungukamoma Yesu.\n\n2. Haliapwila chahashile\nKumumona kanawa;\nAlioze tangwa lize.\nMasoloka zwalala.\n\n3. Muze mwilu hamwe nenyi,\nMunguwahililamo,\nMumu yuma yeswe yipi\nChichi kayimonako.\n\n4. Meso ni meso kumona\nYoze wangukulile;\nMwilu mungumunyingika,\nYoze kananguzange.",
+    "coro": null,
+    "categoria": "KWIZA CHA MWENE"
+  },
+  {
+    "id": 43,
+    "numero": 43,
+    "titulo_pt": "Muze meza Mwene wetu",
+    "texto_pt": "1. Muze meza Mwene wetu,\nMutukakungamako,\nMu uhenya ni mwe K'Listu,\nMutukakungamako,\nMutukakungama mwilu,\nMu uhenya, mu uhenya mwilu;\nMutukakungama mwilu,\nKumeso já Mwene wetu.\n\n2. Mutupwa matangwa eswe\nHamwe ni Yesu Mwene;\nKechi kalihandunuma,\nNdo ku miaka yeswe.\n\n3. Ndo Mwene mutumumona,\nMutumbata yilemu;\nVumbi lienyi mulilita,\nMba mutuheta mwilu.\n\n4. Mba kulutwe lia kashimbu\nMwilu mutukapwamo,\nMwene wetu kumakeza,\nMeza kutuchizaho.",
+    "coro": null,
+    "categoria": "KWIZA CHA MWENE"
+  },
+  {
+    "id": 44,
+    "numero": 44,
+    "titulo_pt": "Yesu kanangufwila",
+    "texto_pt": "1. Yesu kanangufwila,\nChe chikuma chipema,\nAna eswe wafwila,\nNi akepe maakolesa.\nMba wangufwila!\nMba wangufwila!\nMba wangufwila!\nLie Liji lia Mwene.\n\n2. Wanguzanga, wafwile,\nLilu angwazulwile;\nKumanguchiza shili,\nHanga ngunjile nenyi.\n\n3. Yesu kumangukwasa\nMuze mungwivwa lamba,\nYesu kwilu, kakwiza,\nMukungulembejeka.\n\n4. Wangufwila, twakwenda\nHamuwika mu jila,\nNdo mwilu mangutwala,\nKachi mungumukaula.\n\n5. Chilamwina, tambula\nMbunge yami ya yena,\nYena wangufwilile,\nHanga ngukapwe mwané.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 45,
+    "numero": 45,
+    "titulo_pt": "Umwe chimwangi",
+    "texto_pt": "1. Umwe chimwangi\nWayile kusuku\nNgwenyi, Ngufupe\nUpeme wa hashi.\nHiluka, hiluka,\nKanda ushimbula,\nZambi matambula\nYena chimwangi.\n\n2. Mbongo ni yuma\nWamwangine nwamwa\nNdako ya shili\nWakawile pundu.\n\n3. Homa ha ngulu\nWafupile kulia\nHaze wanyongene\nKuli tato.\n\n4. Ngwenyi, Mala!\nNgunapiasuka chinji,\nChocho milonga\nYalumbama naye.\n\n5. Ngwenyi Nguhiluke\nKuli akwetu,\nNgukalipwise\nKapinji ka tata.\n\n6. Muze tato\nWamumwene kaneza\nWamutambwile\nKanawa kanawa.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 46,
+    "numero": 46,
+    "titulo_pt": "Ivwenu akwetu, sango lietu",
+    "texto_pt": "1. Ivwenu akwetu, sango lietu,\nKu kufwa twatwamine.\nWejile umwe, Mukwa uhenya,\nMukutufwila eswe.\nIya watulamwinyine?\n— Yesu K'Listu Iye Mwene.\nNgwe kuchi mba?\n— Watufwila.\nKulihi ali?\n— Chamwenemwene\nMwilu nikuhakwila.\n\n2. Angelo kenu atusele,\nChipwe yoze walutwe.\nHa kulusu mwe Mwana Zambi\nHali yetu wafwile.\n\n3. Mutá kuli mwe Chilamwina,\nNikushikisa yeswe?\nUtambule ukonekeno\nNi kuhwima cha mbunge.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 47,
+    "numero": 47,
+    "titulo_pt": "Ha kunyonga kufwa cha Yesu",
+    "texto_pt": "1. Ha kunyonga kufwa cha Yesu\nChize amwene há kulusu;\nChakoka kulilelesa,\nKulichichimieka kenu.\n\n2. Ni chize mungulisamba,\nKufwa cha K'Listu, Zambi yami;\nYilelu yangupemena,\nMungwecha ku manyinga jenyi.\n\n3. Ku mutwe, moko ni molu,\nA kumusulumiokena,\nMujimba ngenu, chipupu,\nCha vumbi, chinge ni lamba.\n\n4. Ya hashi yeswe kachi te\nYa yami, ya kulambula,\nMulambu hindu ukepe,\nKuuchi kamuhashila.\n\n5. Kuzanga chenyi chinene,\nChangutamba kulisela\nNi mbunge ni mwono weswe,\nKapinji kenyi wa miaka.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 48,
+    "numero": 48,
+    "titulo_pt": "Yenu akwetu, tweyenu",
+    "texto_pt": "1. Yenu akwetu, tweyenu\nKuli Mwene Yesu;\nFulielenu lie Sango,\nLie lia Mwene wetu.\nTweyenu, tweyenu,\nKuli Mwene Yesu;\nFulielenu ni mbunge\nKuli Mwene Yesu.\n\n2. Yesu watufwilile,\nMukutulamwina\nKu shili ni satana,\nLamba ni utenu\n\n3. Mwene makawahisa\nMweswe matayiza,\nNyi mbunge makunjika,\nKuli Chilamwina.\n\n4. Yesu kakulamwina,\nAkwa shili wika,\nKu milonga ya mbunge\nMwene maatomesa.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 49,
+    "numero": 49,
+    "titulo_pt": "Mwene, ngunakuwayila",
+    "texto_pt": "1. Mwene, ngunakuwayila,\nSe wangufwilile;\nMu mbunge yami nanyonga\nLamba lia Kavwale.\nNgwiwuluke Ngesemane,\nLuyinda ungunyongese,\nNgwiwuluke kuzanga che\nKuze ku kavwale.\n\n2. Nakutala ku fuka lie,\nKushimo haliapwa;\nNgusenye, ngukulambule.\nSe vumbi lia Yena.\n\n3. Ngupwe ni mbunge yipema,\nYa kukaula pundu,\nChipwe manguhungumiona,\nMunguwaha hindu.\n\n4. Mwene, kuzanga cha yena\nChikangushinjeke,\nKutwala ni kwambujola\nLiji lia kavwale.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 50,
+    "numero": 50,
+    "titulo_pt": "Usele ye ola, shimwinya kanji",
+    "texto_pt": "1. Usele ye ola, shimwinya kanji,\nUtwame ni Yesu, ukalie liji;\nLikate ni ana a Zambi eswe,\nUfupe uwape kuli Mwene we.\n\n2. Usele ye ola, mbila ya hashi;\nUshimbule shimbu kumeso jenyi;\nMba nikimutala mulifwa nenyi,\nAkwenu mamona kulifwa chenyi.\n\n3. Usele ye ola, akusongwele,\nAkutetekele matangwa eswe;\nKuwaha muwivwa ni lamba lieswe,\nHindu yekele, umufuliela.\n\n4. Usele ye ola, uhwime mbunge,\nAkakwononwese ku shimbi jeswe;\nKu fuji lia zango makutwalako,\nMukatela pundu milimo mwilu.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 51,
+    "numero": 51,
+    "titulo_pt": "Yesu wapombele mu fuka lienyi",
+    "texto_pt": "1. Yesu wapombele mu fuka lienyi,\nMachitata tangwa ahinduke.\nMwene wahindukile,\nNikukumba akwa kole eswe.\nWahwishile tachi ja milima pwi\nMu lie pangu Mwene wanjililile\nNi mwono; kanasambe!\nKristu washindukile!\n\n2. Lie fuka afungile chamokomoko,\nYinyingi ha liwe, ya uhuka wo.\n\n3. Kufwa chahonene kuzuka Mwene,\nJila Mwene wami wapulile.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 52,
+    "numero": 52,
+    "titulo_pt": "Mu wenyi kwenda ndo ha milundu",
+    "texto_pt": "1. Mu wenyi kwenda ndo ha milundu,\nNi mu mihwahwa, hindu pangu;\nKlistu mayaya hamwe ni yami,\nNguli ni yenu, ngwenyi Yesu.\nUhenya kwilu, uhenya kwilu,\nZalisa mbunge yami, Mwane;\nAleluya! nguye nikwimba,\nK'listu niwami, Vulie!Vulie!\n\n2. Chipwe milima yeza kufuka,\nMwe Chilamwina mangukwasa.\nIye lie Pangu kulichi kahwa,\nHamwe ni yami kumayaya\n\n3. Pangu lipema lia kutemwina\nKu shimbo jami ndo ku mahio;\nMungunukaula hehi, Kafunga,\nVulie kumwaha ha ulamwino.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 53,
+    "numero": 53,
+    "titulo_pt": "Mbunge yami, panjika",
+    "texto_pt": "1. Mbunge yami, panjika\nKuli mwe Chilmwina;\nKanakuhula ngwenyi,\nMba unanguzange nyi?\nFunge nakutuswili,\nMweji nakuwukile;\nWatoka nawanyine,\nMeso nalawishile.\n\n2. Pwo mahichika mwana?\nE, mahasa, Yami ka;\nChichi kukwehukako,\nNdo mwilu munjilamo.\n\n3. Zango liami liahiana,\nKulichi Kwalumuka;\nLiakumba yuma yeswe,\nZango lia miaka yeswe,\n\n4. Ku songo lia jila ye,\nMwilu mu uhenya pe;\nMukatwama ni Yami,\nMba unanguzange, nyi?",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 54,
+    "numero": 54,
+    "titulo_pt": "Ngulweze longeso lia Yesu",
+    "texto_pt": "1. Ngulweze longeso lia Yesu,\nNgulweze vumbi lia K'listu\nNgumone mwe Chilamwina,\nZango lienyi, yangufwila.\nLongeso lia Yesu,\nLongeso lia Yesu,\nNgumone mwe Chilamwina,\nZango lienyi, yangufwila.\n\n2. Longeso lia Yesu ngulweze,\nNgunyingikise kawape,\nSpilitu apwe longeshi,\nAlweze yuma ya Mwene.\n\n3. Longeso lia Yesu ku liji\nNgulishimwinye ni Mwene\nNi kwivwa liji lienyi pe,\nLikolo, mba ngulizuke.\n\n4. Longeso lia Yesu ha ngunja,\nUpite mwilu wahiana,\nLongeso lia wanangana.\nMeza kwiza ni uhenya,",
+    "coro": "Longeso lia Yesu,\nLongeso lia Yesu,\nNgumone mwe Chilamwina,\nZango lienyi, yangufwila.",
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 55,
+    "numero": 55,
+    "titulo_pt": "Ku kuzanga cha mwe Tata",
+    "texto_pt": "1. Ku kuzanga cha mwe Tata\nMutuwaha,\nVumbi lienyi se chawana,\nTunawaha\nNi manyinga hatuwuka,\nMba ni vumbi twakuyuka,\nKwoko lienyi liatufuka,\nMutuwaha\n\n2. Chipwe ndusu mu luyinda\nMutuwaha,\nSe ulamwino upema,\nTunawaha.\nNi chiseke tujamine,\nNi mihuko yinji twime,\nNi kutwama muli Mwene,\nMutuwaha.\n\n3. Tunatalatala Mwene,\nMutuwaha,\nMba nikufuliela twimbe,\nTunawaha.\nChe kuzanga chenyi kwivwa,\nNi yipema matuhoka,\nChipwe mwono, Chipwe kufwa,\nMutuwaha.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 56,
+    "numero": 56,
+    "titulo_pt": "Kusuku kanatwama mu milima",
+    "texto_pt": "1. Kusuku kanatwama mu milima,\nAkwa kutoka anji mu shili;\nMba iya maya ni kwaambulwila\nSango lia Yesu lia vumbi lienyi?\n\"Chiyulo cheswe cha Yami,\nChiyulo cheswe cha Yami,\nYenu nwambujole lie\nSango Lipema\nMba hamwe ni yenu nguli\"\n\n2. Talenu, se mapito anji awashi,\nAkwa kufuliela, njilenumo;\nTwalenu kweswe Maliji a\nZambi,\nMukwatusula ku malenge jo.\n\n3. Chinenu kufwa, Zambi\nkatambieka,\nChinenu kufwa,\ntwambulwile eswe;\nYesu wafwile\nmukutulamwina,\nMwono wa ku miaka\ntwambujole.\n\n4. Lipupwisenu, tukamone\ntangwa,\nMuze mavungu eswe\nmakemba;\nMakahetama ni\nkumulemesa,\nMwe Mwanangana, ngwo,\nAleluya!",
+    "coro": "\"Chiyulo cheswe cha Yami,\nChiyulo cheswe cha Yami,\nYenu nwambujole lie\nSango Lipema\nMba hamwe ni yenu nguli\"",
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 57,
+    "numero": 57,
+    "titulo_pt": "Hatangwa lize ashihile Yesu",
+    "texto_pt": "1. Hatangwa lize ashihile Yesu,\nChifuchi cheswe chalayile pwi,\nHa tangwa lize Yesu hahinduka\nPangu hilieza ku yifuchi yeswe\nWahililenu, Tuwahililenu,\nTusakwilenu Mwene hakumba\nkufwa.\n\n2. Mapwo ayile nikutala fuka,\nKamuwanyine, hanatuhukamo,\nYahindukamo fuka yilimuhona,\nKufwa wachikumbile ni mwono.\n\n3. Akwa kulila, kanda nunenganyana,\nMukwa uhindukilo halumwesa mwono\nTumaji eswe yamutala meso,\nMwene yakumba ni uhindukilo.",
+    "coro": "Wahililenu, Tuwahililenu,\nTusakwilenu Mwene hakumba\nkufwa.",
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 58,
+    "numero": 58,
+    "titulo_pt": "Kuli Yesu hiunayi kupema?",
+    "texto_pt": "1. Kuli Yesu hiunayi kupema?\nKu manyinga unapeme, nyi?\nKuli Mwene wafuliela haliapwa?\nKu manyinga unapeme, nyi?\nWapema, wapema,\nKu manyinga a Mwana-Panga?\nNi mazalo je apwa atoma to?\nKu manyinga unapeme, nyi?\n\n2. Ni ku lumbu lienyi kuwakwenda nyi?\nKu manyinga unapeme, nyi?\nUnahwini muli mwe Chilamwina?\nKu manyinga unapeme, nyi?\n\n3. Nyi Sandungi meza mukasamba, nyi?\nKu manyinga unapeme, nyi?\nMbunge muyipema ku meso jenyi?\nKu manyinga unapeme, nyi?\n\n4. Zulako yipuzu ya luchisa we\nWa ku mbunge, mba mukapema;\nYesu kanakangana kulamwina,\nNi manyinga mwopwa mupema.",
+    "coro": "Wapema, wapema,\nKu manyinga a Mwana-Panga?\nNi mazalo je apwa atoma to?\nKu manyinga unapeme, nyi?",
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 59,
+    "numero": 59,
+    "titulo_pt": "Chizechene, nguneza te",
+    "texto_pt": "1. Chizechene, nguneza te,\nKuli Yeus K'Listu Mwene,\nSe wangulakenya, ngwize,\nYena Mwana-panga wa\nZambi\n\n2. Chizechene, chashimbwile,\nMukulitomesa mbunge;\nAnguswile manyinga je,\nYena Mwana-panga wa\nZambi.\n\n3. Chizechene, ngutambule,\nNgutomese, ngusambise,\nMumu nafuliela wate,\nYena Mwana-panga wa\nZambi.\n\n4. Chizechene, haliapwila,\nKuli Yena, Mwana-panga\nYami nalitumbikila,\nYena Mwana-panga wa\nZambi.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  },
+  {
+    "id": 60,
+    "numero": 60,
+    "titulo_pt": "Muze manga mungumona lamba",
+    "texto_pt": "1. Muze manga mungumona lamba\nMugushinginyeka kwiza che.\nHaliapwa kumeza nawa,\nKwiza chenyi hichakundama;\nChichi kunenganyana,\nMwene kumangwijila.\n\n2. Kwali mwe Kasendo mupema,\nKechi kangu hichika.\n\n3. Yuma yeswe munguhichikayo,\nHanga ngukaule Yesu.",
+    "coro": null,
+    "categoria": "TUANUKE"
+  }
+]

@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "numero": 1,
+    "titulo_pt": "O Nzanbi a vu nunkembela",
+    "texto_pt": "1. O Nzanbi a vu nunkembela,\nA ndong'ezulu, wantu a nza,\nTutonda Se yoMwana mpe\nYe vuminu kiavelela.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 2,
+    "numero": 2,
+    "titulo_pt": "Tukembela Nge",
+    "texto_pt": "1. Tukembela Nge,\nE Nzambi o se,\nMuna Yisu wafwa,\nWafuluka, mpe.\n\n2. Tukembela Nge,\nMuna mwand'aku mpe,\nWatusongel'o Mvuluzi\nA wantu a nza.\n\n3. Tukembela Nge\nMuna nzol'aku mpe,\nWatuvava, watukula,\nWatusongesela.",
+    "coro": "Aleluya! Nkembo i waku;\nAleluya! Ámen!\nAleluya! Nkembo i waku;\nUtufulul'owau.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 3,
+    "numero": 3,
+    "titulo_pt": "Enza in'ak'e bu",
+    "texto_pt": "1. Enza in'ak'e bu,\nTombe kivwididi,\nYo zowa mpe;\nE Nzame utuwa,\nKonso kukondele\nE nsangu zaku, awa,\nMbula kwakia\n\n2. E Mwan'a Nzambi wa!\nSe tadi ova nza,\nWantu se fwa;\nKatutul'e tombe kiau,\nTemes' e ngindu zau,\nYovo omu ntima miau,\nMbula Kwakia.\n\n3. E Mwand'avelela,\nSe utulongisa,\nTwabak'o zayi.\nOva nz'amvimba mpe,\nMu nsi zawonsono,\nVo tombe kina vo,\nMbula Kwakia.\n\n4. E ntatu avelela\nNzambi a ndungidi,\nZola yo zayi,\nTuma e nsangu wau\nYakuna nsuk'a nza,\nWantu awonsono\nBankundanga,",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 4,
+    "numero": 4,
+    "titulo_pt": "Nvuluzi numkembelelanga kaka",
+    "texto_pt": "1. Nvuluzi numkembelelanga kaka,\nYeno i makangu mandi;\nYambula twamvana nvimba\nEki tuna kiau.\n\n2. Weto Nvuluzi tuntonda\nKadi utukasakese,\nYandi kaka yi vuvu kieto\nMuna vita yayi.\n\n3. Bunda kaka Yisu evuvu,\nInkwa nkenda yo luvuluzu;\nNani olenda kunuvaula\nMuna Nvuluzi.\n\n4. Toma kutulund'e Mfumu,\nNge tutadila yo fiauka,\nYaku ntangwa tusinga kwenda\nKuna yaku nsi,\n\n5. Kuna tuzolele kala,\nMuna Fwaniswa kiaku;\nIna ilembi zayakana\nTusinga kala yau.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 5,
+    "numero": 5,
+    "titulo_pt": "Nge Nzambi ampungu",
+    "texto_pt": "1. Nge Nzambi ampungu,\nwavelela beni,\nTukuyimbidila\nnkung'awankembo.\nNgeye u Nkwa nkenda,\nZamba a ngolo zingi,\nEse, yo Mwana,\nyoMuand'avelela.\n\n2. Aya bena koko\nbekukundang'aka;\nOku luse luaku\nbekukembela;\nAmbasi yo wantu\nbekuvuminanga;\nNgeye i Nzambi\nansigi kilu.\n\n3. Nge Mfumu Nzambi\nwalungilamwawonso;\nKana vo kw'asumuki\nolemi moneka;\nNge i Nzambi ansongi,\nosundidi awonso;\nNge mosi kaka\ni Nzambi avelela.\n\n4. Nge Nzambi ampungu\na walakazi wingi;\nE vangwa yaku nkutu mpe\nyiyau ikukembela.\nNgeye u Kwa nkanka,\nNzambi a ngolo zingi,\nEse, yo Mwana, yo\nMwand'avelela.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 6,
+    "numero": 6,
+    "titulo_pt": "Kwa Nzambi tata wa nkembo",
+    "texto_pt": "1. Kwa Nzambi tata wa nkembo\nuzolange Nsi,\nMwanandi wa fwila\nmuku ma kieto.\nMunkenda kasonga kwa' sumu\nki ambi,\nWa yangule kielo kia zulu.\n\n2. Ensangu zambote,\nza Yisu Klistu.\nWa ntonda fwila ma\nSumu meto,\nE ntalu kafuta\nya menga mandi,\nMakukwa kwa eto\ntwa suku ka ôbi.\n\n3. Nwa kwikila yandi,\nyo zola yandi.\nMu nkanda wa Nzambi\neto tanganga mo,\nWiza kwa yandi\nku kwikilanga\nVelelesa ntima\nWa mona Nzambi",
+    "coro": "Kiese wau, kiese wau,\nNwiza Kembelanga,\nKwa Yisu uludi,\nKwa Yisu nkundi'eto.\nKwa Nzambi tata wa Nkembo\nuzolange Nsi,\nWa tu tumi ni Yisu ka fwila yeto.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 7,
+    "numero": 7,
+    "titulo_pt": "O Nfumu'eto okembelwa",
+    "texto_pt": "1. O Nfumu'eto okembelwa\nKwa wantu awonsono,\nKintinu kiezulu keyalanga,\nKayala, yala, yala yal'oza nza mpe.\n\n2. Asumuki tunkembela,\nOweto Mvuluzi,\nImoyo katuvevwela:\nKayala, yala, yala yakwayele mvu.\n\n3. Owantu awonso ova nza\nNukwama kukembela,\nWa nkutu- bandu a Nzambi o Se,\nKayala, yala, yala Yakwayele mvu.\n\n4. Ambasi nutusadisa\nYo yeno aveledi,\nO Yisu, ofwene kembelwa,\nYo yala, yala, yokwayele mvu.\n\n5. O Nzambi utulungisa\nMu vu ki'aveledi,\nTwakwama kund'o Nvuluzi,\nKayala, yala, yala, yakwayele Nvu.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 8,
+    "numero": 8,
+    "titulo_pt": "O Nzambi Mpungu bu tuyindulanga",
+    "texto_pt": "1. O Nzambi Mpungu bu\ntuyindulanga\nMavanga, maukutusilanga,\nTumweni vo ukutubanzilanga\nMu kutuvana yi tuvingila.\n\n2. O Mfumu eto, bu tutoma tala\nBilekwa biena mu kayengele,\nBitatasana ye bisalasana\nZazonso ntangu zi biavangulwa.\n\n3. Tumweni kweto ntangu ya kuzulu\nYibutukanga nsuka miamionso\nMu kutuyotisa, mu kutukiesa,\nMu menisa zinkununu zazo.\n\n4. Na tadi zulu, bu diakidi duma,\nYe mbandanu, bu zeti tendana,\nYe mvula, bu zipasumuka beni,\nYe mpezomo, bu zeti vezima.\n\n5. Ye mbatu mbatu, bu tuwilu nuni,\nZisasulanga ndinga mu minti\nMu zitisanga mvangi au Nzambi,\nTubambulwanga, vo twayimbila.\n\n6. Ye mboki, bu tukukibanzilanga,\nTumweni, vo tuameni vangulwa\nMu toma luta yonso yena vava,\nMu fwanana ye Se diavanga nza",
+    "coro": "O Mfumu, bika tuakuzitisa,\nKusambila mu kiedika!\n\nTubanza, bika tuakunzitisa,\nKusambila mu kiedika.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 9,
+    "numero": 9,
+    "titulo_pt": "Natu yaku e nkumbu a Yisu",
+    "texto_pt": "1. Natu yaku e nkumbu a Yisu,\nOvo ntantu yizizietele.\nIkuyangidika kaka\nKonso kun'okwendanga.\n\n2. Nat'e nkumbu a Yisu kaka\nMuna ntambu u nkwa bwa\nAvo umpukumuni uzieta,\nE vuvu kiaku nkumbu yayi.\n\n3. Ekwe nkumbu yayi ya Yisu,\nWete tumwenanga yo;\nYisu okututambulanga\nYeto mpe tunsanisa.\n\n4. Mu nkumbu yayi tufukamena\nVava ken'o Mvuluzi;\nNtinu a ntinu tukunyeka ma\nOva nza mwawonsono.",
+    "coro": "Ekwe nkumbu… In'o wete…\nVuvu kieto ova nza\nEkwe nkumbu… In'o wete\nYau nkutu isaniswa.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 10,
+    "numero": 10,
+    "titulo_pt": "E nzola katuzolele",
+    "texto_pt": "1. E nzola katuzolele\nO Yisu vana nti ambi,\nTwatoma kulwa muna bi,\nKe ivovakana ko.\n\n2. E mpasi zingi, ntantu mpe\nE mpwikw'a mpu a nsende mpe,\nTwakal'o moyo a mvu yamvu,\nKe ivovakana ko.\n\n3. Luvuvamu ngina luau\nO Nfumu ame wampana lo,\nE ntalu a menga mandi wau,\nKe ivovakana ko.\n\n4. E kiese ova kamfinama,\nE mpund'a ntima ngina yau:\nEvuvu kia monana,\nKe kivovakana ko.",
+    "coro": "E nzol'andi isuvidi,\nE nzol'andi isuvidi,\nE nzol'ina katuzolele\nKe ivovakana ko,",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 11,
+    "numero": 11,
+    "titulo_pt": "E zula yawonso yabukamw'o bi",
+    "texto_pt": "1. E zula yawonso yabukamw'o bi,\nO Ntemo a nza i Yisu!\nE mpuluza andi yakieses'e nza,\nE Ntemo a nza i Yisu!\n\n2. Oyeto mu Yisu twasukwilw'o bi,\nO Ntembo a nza i Yisu!\nNtemo tukiya vo vuvu twansia,\nA Ntemo a nza i Yisu!\n\n3. Oyeto mu tombe, mu fuku wa bi,\nO Ntemo a nza i Yisu!\nNutoma kumfinam'o kuma kwakia\nO Ntemo a nza i Yisu!\n\n4. Ku'zulu o mwini ke wina ko ko,\nO Ntemo a ezulu i Yisu!\nNvuluzi i ntemoyakwayele nvu;\nO Ntemo a nza i Yisu!",
+    "coro": "Wiza ku ntemo! Nge utemene;\nYisu o ntim'ame okiesese wo:\nMpofo yakala, monanga wau\nO Ntemo a nza i Yisu!",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 12,
+    "numero": 12,
+    "titulo_pt": "O Mpungu-Ngienda finama",
+    "texto_pt": "1. O Mpungu-Ngienda finama\nMakangu meto Yisu\nWayiza katuvuluza;\nNuwa e nding'a Yisu.\n\n2. Masumu meto malolokwa,\nMu nfwa kafwi'lo Yisu,\nLuvuvamu tuvwidi wau,\nMu ntantu kamono' Yisu.\n\n3. O Nvuluzi okenbelwa;\nTukwikil'omu Yisu;\nO wonga weto ukatuka,\nTuwidi ndinga Yisu\n\n4. Ambuta nuiza kutusadisa,\nTwakundidika Yisu;\nEsambu diandi yikama,\nTwasanisinaYisu.\n\n5. A yi nyana-nyana nwiza mpe,\nTwasakidila Yisu;\nEsambu diani yikama,\nTwayangidika Yisu\n\n6. Ku 'zulu vo tulueke ko,\nTuamonana yo Yisu;\nEvu ya mbasi tuwanako,\nTwayimbidilaYisu.",
+    "coro": "Nkunga ulutidi o wete,\nNkunga ulutidi o wete,\nNkunga ulutidi o wete,\nYisu, Nfumu Yisu.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 13,
+    "numero": 13,
+    "titulo_pt": "O wau tuzey'e nsangu ezi",
+    "texto_pt": "1. O wau tuzey'e nsangu ezi,\nYisu ovuluzang'enza;\nSamuna mwawonsono;\nYisu ovuluzang'e nza.\nMuna nsi zawonsono.\nKw'ana bena muna mbi,\nNdolo ateleka aka zo;\nYisu ovuluzang'e nza.\n\n2. Mwanganis'e nsangu ezi,\nYisu ovuluzang'e nza.\nAsumuki awonsono,\nYisu ovuluzang'e nza\nE nsi zambi kwikila,\nVutuka kwa Nvuluzi,\nOsia kunu kiesesa;\nYisu ovuluzang'e nza\n\n3. Muna zola kwandi wau,\nYisu ovuluzang'e nza;.\nMuna nkendazandi mpe\nYisu ovuluzang'e nza.\nMu lufwa lua eto wantu,\nMenga mandi mabunguka,\nDianu vo otulolokwa;\nYisu ovuluzang'e nza.\n\n4. Vuvu kingi tuna kiau,\nYisu ovuluzang'e nza:\nYambula twankembela,\nYisu ovuluzang'e nza\nNwiza wau minkwikisi,\nYo kuna ntemo a Nkûdi a nza\nLongi dia nfumu\nYisu ovuluzang'e nza.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 14,
+    "numero": 14,
+    "titulo_pt": "Ô wau nsamu wa Mfumu",
+    "texto_pt": "1. Ô wau nsamu wa Mfumu, Aleluya!\nMambu ma mbote ma Nzambi.\nYisu ovuluza ndonga, Aleluya!\nOlenda kutuvuluza.\n\n2. Nfuka zeto wa futazo, Aleluya!\nYandi Yisu futidi mu nti;\nMoyo wandi venewo, Aleluya!\nYeno kulu songa kwa Nzambi.\n\n3. Yandi kaidi kwa yeno, Aleluya!\nMoyo wa nvu ya nvu, kune zulu.\nTaleno kwa Yisu kaka, Aleluya!\nKwikilanga wau Nzambi'etu.\n\n4. Tonda wau nvuluzi, Aleluya!\nLanda mu ntambi zani;\nLu mwanga nesa ensangu\nzandi, Aleluya!\nNkembelanga nkudi'eto Yisu",
+    "coro": "Taleno ampangi owau,\nTaleno kwa Yisu owau,\nYandi vuluza asumuki etu, tonda,\nLanda oyo kuvuluza.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 15,
+    "numero": 15,
+    "titulo_pt": "O Nzambi'eto i tininu",
+    "texto_pt": "1. O Nzambi'eto i tininu\nO Ntanini ankaka'\nMu mbi zawonso sadisa\nKekutusadisanga.\nO Mbeni eto ambi\nOkutukondanga;\nE ngangu zandi zingi,\nY o umpolakanu wingi,\nWa ni okunsunda?\n\n2. E ngolo za eto wantu zike?\nSundwa tufwete sundwa:\nUmosi kak'olenda wo,\nUna kwa Se watumwa.\nNkumbu andi ozeye y'o?\nI Yisu Nvuluzi,\nWa Mwan'a Ntinu a vu:\nKesundakana ko.\nMu vita keza sunda.\n\n3. E nza ikutubangika\nMu kuma Nkadiampemba;\nO wonga ke umonwa ko,\nMu Yisu wa tusundila:\nE mbongo vo zisanzwa\nE nitu vo ivondwa;\nKe vena diambu ko:\nO Nzambi una kena;\nUnfumu wandi usikidi.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 16,
+    "numero": 16,
+    "titulo_pt": "O Yisu o nkembo sisidi",
+    "texto_pt": "1. O Yisu o nkembo sisidi\nVava kakulumuk'ova nza;\nWamon'empasi, kafwididi,\nMu vuluza eto asumuki.\n\n2. Etumbu kieto wabaka kio,\nE mfuka zetowafuta zo,\nEsumu dieto wafwila dio,\nMu Yandi ke mwina kuma ko.\n\n3. Ntantu ye nsoni wamona zo.\nKansi kasala zo tina ko:\nWalembwa kw'ezulu,\nwavondwa kwa nza,\nKimana oyeto twavuluzwa.\n\n4. E mbidi a kiese tuna kiau,\nE mpasi zandi zivwidi owau,\nMu ngolo zandi ofukang'o bi;\nNukembel'ambasi yo wantu ova nsi.",
+    "coro": "Edi dikumbwa kikilu,\nEdi dikumbwa mwawonsono;\nNtinu a'ntinu wayekolwa\nE kuma i yeto asumuki.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 17,
+    "numero": 17,
+    "titulo_pt": "Yisu Nge Makangu meto",
+    "texto_pt": "1. Yisu Nge Makangu meto\nNge okutuzolanga;\nNge wanat'e tumbu yeto,\nWau okutubanzanga.\nNge olend'o wete,\nNtantu olend'o katula;\nAvo se tunat'o mambu\nOku sambu tukwendanga.\n\n2. Yisu Nge Makangu meto,\nNge okutulundanga\nMuna mpukumunwa zeto\nNge okutusadisa;\nYisu Nkundi eto beni\nNgemba zingi kieleka!\nAvo se tunat'o mambu\nOku sambu tukwendanga.\n\n3. Yisu Nge Makangu meto,\nNgeye watuvuluza;\nWau twakala wantu ambi\nSumu dieto wakatula;\nWau mu ntima mieto,\nKiese okutuvananga;\nAvo se tunat'o mambu\nOku sambu tukwendanga.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 18,
+    "numero": 18,
+    "titulo_pt": "E Nzambi umfinika oko kwa Nge!",
+    "texto_pt": "1. E Nzambi umfinika oko kwa Nge!\nYisu unfilanga, wansadisa;\nNkunga yayimbila,\nNzambi yáfinama!\nE Nzambi unfinika oko kwa Nge!\n\n2. Wau nkangadilanga mu yayi nsi\nNsangu yasamuna za Nvuluzi;\nMu nzila nkwendela,\nNzambi, yáfinama!\nE Nzambi unfinika oko kwa Nge!\n\n3. Nfumu za yayi nsi sambula do!\nAnkak, eyaku fu baveza yo.\nYau bekunkadila:\nNzambi yáfinama!\nE nZambi unfinika oko kwa Nge!\n\n4. Avo yabangama, unsadisa\nYatoma kembela yo fiaukila.\nYisu unsimb'aka.\nNzambi yafinama!\nE Nzambi unfinika oko kwa Nge!\n\n5. E Nfumu unsonganga nzil'aku do!\nKu 'zulu ifilanga, kiavilwa yo.\nMbasi zandaulwila\nNzambi yafinama!\nE Nzambi unfinama oko kwa Nge!",
+    "coro": "Nkunga yayimbila,\nNzambi yáfinama!\nE Nzambi unfinika oko kwa Nge!",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 19,
+    "numero": 19,
+    "titulo_pt": "Entangwa kiese yayimpe",
+    "texto_pt": "1. Entangwa kiese yayimpe,\nO Yisu yandi Umpuluidi,\nKu kiese una ô ntima me,\nOmono wau yivavanga\n\n2. Wa lunga mpe ya muna nti,\nOYisu yandi Nfumu ame,\nUmbokela mu ndinga'ndi,\nYa zizila yo tina embi.\n\n3. Ya vunda wau kwa Nvuluzi,\nMadia ma zulu umpananga,\nWa nvundi sa ya kembela,\nInkubiki insadisi.",
+    "coro": "Kembela, kembela,\nOYisu owau unzolele,\nE Yisu undundanga sambila,\nYa ruikila ya sambanga.\nKembela, kembela,\nO Yisu wau unzolele.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 20,
+    "numero": 20,
+    "titulo_pt": "Ungudi'ame Yeve",
+    "texto_pt": "1. Ungudi'ame Yeve,\nYo kumpana ya wonsono'\nYoku nsongela enzila\nKuna moyo wa nvo ya nvo.\n\n2. Yandi kumpevola ntima\nNgiendela munlungu amb'u;\nMu nzila itwa kubikilwa,\nMulu zolo lwa Yisu.\n\n3. Kani mundimba wa lufwa,\nYisu wonga wa nkatula wo,\nMambu ma Nfumu eto Yisu\nMena muna ntima me.\n\n4. Ngeye ku kiadi kia meza,\nKwa wana twa mengana\nNgeye kumpana, kumpana luzolo,\nÔ ntima me wa yela.\n\n5. Mumbote zaku za swame embi,\nMbi za wonso za fukuka,\nNgienda ya kala yo Nzambi\nKuna Nsi ya velela.\n\n6. Nkenda za Nfumu eto Yisu,\nZi ku mpulula muna lu fwa;\nMoyo ikala kwa Yisu,\nKune zulu ivundila.\n\n7. Mambu ma tata Yave,\nNwiza twa di wilamo;\nTwa toma wa Mambu ma\nNzambi Mpungu\nTwa di yekola mene.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 21,
+    "numero": 21,
+    "titulo_pt": "Nani yandi zolele fwete sambila",
+    "texto_pt": "1. Nani yandi zolele fwete sambila\nLuvuluzu lwa nkenda nufwete\ntondalo;\nNga yeno tonda nulenda vuluka,\nAwei zolele kwiza owau?\n\n2. Nani yandi zolele fwete kwiza wau\nE kia ki ekielo kia yangunka,\nlenda kota wau;\nYandi Nfumu Yisu, zolele kotesa,\nWese zolele kwiza owau.\n\n3. Nani yandi zolele fwete landa wau\nYeno awonso nufwete kwiza mpe\nNani yandi zolele lenda kembela\nWese zolele kwiza owau.",
+    "coro": "Awei zolele, awei zolele,\nKani mbevo kaka yandi lenda wa;\nTata ye kune Zulu, tomene monanga\nAwei zolele, wiza owau.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 22,
+    "numero": 22,
+    "titulo_pt": "Ngwidi ndinga mbote",
+    "texto_pt": "1. Ngwidi ndinga mbote,\nYa Klisto nvuluzi\nIbokelanga asumu ki.\nNwiza nwa vuluka.\n\n2. Ma sumu mangina, mau.\nKilendi tanga ko;\nÔ menga maku ma itika,\nImau ma ku nsukula.\n\n3. Mu mpipa ya leka,\nÔ Yisu ute mwini;\nÔ Mwandaku wa velela,\nWa ndonga ôzaya nge.",
+    "coro": "Ikwiza Mfumu ame,\nIkwiza owaungina;\nMono mpe insumuki,\nNdinga ku Nfwete wa,",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 23,
+    "numero": 23,
+    "titulo_pt": "Wei fitakana kwa Yisu",
+    "texto_pt": "1. Wei fitakana kwa Yisu,\nE nkenda zaku mbuenezo;\nNga wangina yo mpasi za me,\nWantambula owau ngina\n\n2. Mu sela ngina ye ngolo nkatu,\nLuloloko lwaku umpana lo;\nWa fwa ekuma kunkula mono,\nWantambula owau ngina.\n\n3. Ôkani diambote diau,\nYengolo zame zilalanga mpe,\nWanvuluza mono munkenda zaku\nWantambula owau ngina.",
+    "coro": "Wantambula owau ngina,\nWantambula owau ngina,\nMono yambi kansi o Yise wa fwa,\nWantambula owau ngina,",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 24,
+    "numero": 24,
+    "titulo_pt": "Ma masolandi ma Yisu",
+    "texto_pt": "1. Ma masolandi ma Yisu,\nYeno akwikidi,\nNwa zangulanga edinga,\nNwa sunda mu vita.\nMu kati atwadimenga\nNuzizilanga kaka\nNulunda Ntumi a vita\nYandi i Nkubiki\n\n2. Ma soladi ma Yisu,\nMa yandi nwaninu;\nNwa vwate nvuatu miandi,\nNwa diata ku ngolo,\nNu kala mpe ye kasu,\nMuna lu sambulu,\nMu ntangwa mpuku muni,\nYandi nu zizila.\n\n3. Ma soladi ma Yisu,\nKu tambi ya ngolo;\nMu vite yai ya mpasi,\nOunu nsunda yo,\nÔ wau ya nvu ya nvu,\nTu nkembela, nsundi,\nTu nkembela Nzambi eto\nYo Klistu nvuluzi.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 25,
+    "numero": 25,
+    "titulo_pt": "O dia kwa moyo",
+    "texto_pt": "1. O dia kwa moyo,\ndo umbukwina,\nNze i va ndambu a mbu\nwakay'o dia;\nMu Nkand'Avelela\nomweswanga,\nMwamu ntim'ame mpe\nwayisolola.\n\n2. U dia kwa moyo\nNge ungindula,\nMu diambu diaku mpe\nunkûdila,\nMbula yad'owau,\nyazingila:\nYo kwikila diau\nwanzolanga.\n\n3. Tum'ake Vumisu\nkanduakila,\nMeso manziulwilu\nyamweswanga.\nNkand'Aku Avelela\nunfukwila:\nYàlan'e betela,\nyafwane mpa.\n\n4. Vo Ludi kiaku nwa,\nsambula kio,\nOmama mfwete vwa,\nkiaveza moko;\nBosi yavevolwa,\nwayi uvwa:\nWete wawonsono\nusoloka.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 26,
+    "numero": 26,
+    "titulo_pt": "Nzambi sambula e nsi yeto",
+    "texto_pt": "1. Nzambi sambula e nsi yeto\nUtu temona ntembo aku\nUtu wila wau Nzambi do\nUtu sambula, utu sambula.\n\n2. Sambula ayasi a nsi yeto\nUba temona ntemo aku\nUba vana ngolo mu salu yau\nUba, sambula, uba sambula\n\n3. Sambula zinguadi yo ma sé\nNdumba yo ma toko yau mpe\nAleke a skola zawonsono\nUba, sambula, uba sambula.",
+    "coro": "Wiza do! Wiza wiza\nWiza do! Wiza wiza\nSambula Nsi yeto Nzambi do\nYeto Nzambi do\nYeto Nzambi do",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 27,
+    "numero": 27,
+    "titulo_pt": "E Nfumu, mu tembwa kiampwena",
+    "texto_pt": "1. E Nfumu, mu tembwa kiampwena,\nTubukumukinanga,\nO mavuku mangolo mebeni\nMu mayangi malungidi,\nSe tadi, mavukumawonso\nE Nzanza melangana.\nE Nzanza se zala yo maza\nNangatu se fwa tufwa.\n\n2. E Nfumu mu mpasi za ntima\nTuvetamenanga wau,\nMu mpasi zawonso tumona,\nOzabuk'o vuluza!\nE nkuka za masumu meto\nE ntima zilangididi!\nTuvila!tuvila!E Nfumu!\nOzabuk'o lalula?\n\n3. E Nfumu, mu, diambu diaku,\nMu yanga mukedi e pi-pi;\nYo muna diaku,\nE ntima miavuvama.\nKadi wau o masumu meto\nOmene mo katula,\nDiau tuzolele kaka\nO toma kukembela",
+    "coro": "E tembwa kwa mono ilenvoka,\nKal'e pi-i!\nYovo e nsita za mavuku ma mbu,\nYovo za nkuya za wantu mpe,\nYa konzo nzanza nkalanga\nO maza ke malendi yo kula ko:\nYawonso kwa mono ilenvoka!\nKal'e pi-pi! Kal'e pi-pi!\nYawonso kwa mono ilenvoka:\nKal'epi-pi!",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 28,
+    "numero": 28,
+    "titulo_pt": "A wonso amona mpasi",
+    "texto_pt": "1. A wonso amona mpasi,\nMuna nzila yai ngina;\nAu kalendi mona mwini,\nKuna mpolo i Kwenda nga,\n\n2. A vova mambu mambote,\nMalutezo kwa mono;\nKansi Yisu unsadisi,\nYo ku ndembeleka mpe.\n\n3. Luzolo lwa me ngolo nkatu,\nMuma sumu ya senzama;\nMu lusadisu lwandi kaka,\nLwau mpe isundila",
+    "coro": "Mfumu Yisu unkanga lesa,\nWa iza kala kwa mono;\nMwamu nsi eyayi yampasi,\nMono kaka kilendiko.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 29,
+    "numero": 29,
+    "titulo_pt": "Tuvatanga e yana",
+    "texto_pt": "1. Tuvatanga e yana\nE mbongo kuna mpe;\nWa nani omenesa yo?\nI Nzambi Ampungu do!\nE mvula zau kulu\nZai i kanokesa\nObayisang'o mwini,\nOmenesang'o dia.\n\n2. E lekwa in'ova nza,\nKwa Nzambi itukanga;\nOviengesa'e mvuma,\nNtetembwa temesa.\nOdikilang'e nuni,\nYawonso osasanga,\nMusungula yeto\nKeluta van'o dia,\n\n3. Matondo, Es'eto Nzambi,\nMu yayi yowonsono,\nOkutuvanang'aka,\nYa moyo, vimpi mpe.\nSe tambul'ake Nzambi,\nMatondo meto wau;\nLukau lua ntima mieto\nYamuna nvu ya nvu.",
+    "coro": "O tukau twawonso,\nNzambi ovana to;\nTusiandam'o kuntondanga\nMu yayi Yawonsono.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 30,
+    "numero": 30,
+    "titulo_pt": "Empata-vat'a Betelem",
+    "texto_pt": "1. Empata-vat'a Betelem\nYa Yisu wa Nvuluzi,\nOfuku una kawutuka\nBayiza avungundi;\nBayiza teleka\nE ngiz'a ntetembwa\nYadingalele ova nzo\nIna kalekela.\n\n2. O Yisu, Mwan'a Maria,\nMu nlele kazingilu,\nMu dikilwa kia twelezi\nKwa ngw' andi kalekeso.\n'va nzanza kaka mbasi\nMu nkung'akembela,\nNkembo kwa Nzambi mu kaye\nLuvuvamu 'va nza.\n\n3. Y Yisu, Mwan'a Betelem,\nMu ntim'ame wiza do!\nMu waku nkuma katula\nBi wame wawonsono;\nYatanginina ngeye,\nYasadil'aka mpe,\nUnsadisa yalenvokela\nO Mwan'a Nzambi oSe.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 31,
+    "numero": 31,
+    "titulo_pt": "Ndonga yingi izidi kala",
+    "texto_pt": "1. Ndonga yingi izidi kala\nMuna vata dia Mbetelemi,\nAngudi ambuta azolele tala\nMwenesi Nzambi yau;\nNkembo kwa Nzambi kune Zulu\nLuvuvamu ya mu Nsi yai;\nLuzolokwau antu awonso,\nAu mbasi a imbila\n\n2. Au abundu au nkangu,\nLuvambu lwau lu tabukidi.\nÔ Mwenese wa tu kula\nNzambi nloloki.\nYeka odila yimbila onkunga,\nMatondo kwa Nzambi nvuluzi,\nÔ Yisu o kadia Mpemba wa lunga,\nKu ngolo zi sundidi,\n\n3. Wilakaka ndinga mbote\nNfumu Yisu vovele.\nYeka nsoni landa kwa mono,\nMono kubiki.\nNkembo kwa Nzambi tunkembela\nWau ke una nsuka ko,\nNfumu Yisu, Nfumu wa nkenda\nMu Mbetelemi ka utilwa.\n\n4. Vova muna Nsi yau wonso\nkwa Mindele\nYe ndombe mpe,\nÔ Yisu nkwa zola kwa sunda,\nMu vuluza a sumuki.\nWiza kaka Nfumu Yisu,\nKalendi diabulu nkutu ko.\nWiza ô moko mandi ma sanzuka.\nMu Mbetelemi ka utilwa.",
+    "coro": "Nwiza wa nsangu za mbote,\nNzambi ampungu nkembela;\nMfumu Yisu vuluzi wa ngolo\nMu Mbetelemi ka utilwa.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 32,
+    "numero": 32,
+    "titulo_pt": "Muna mpaka ya itwizi",
+    "texto_pt": "1. Muna mpaka ya itwizi,\nMuna mbanza ya Mbetelemi.\nKwei wa ndonga banza\nYisu lenda utuka\nMwana Nzambi nvuluzi\nMuna mpaka ka utilwa.\n\n2. Yani Nfumu Nsi za wonso,\nMwamu Nsi ka utilwa;\nYani ntinu, Mwana Nzambi,\nMuna mpaka kalekeswa\nMpasi zandi bakidi,\nKukala Nvuluzi.\n\n3. Muna vanga ô lutezo\nYani Yisu vwezele;\nÓ Madia ngwandia Yisu,\nNsiku wa Nzambi tondele.\nÔ ntimandi wa wonso,\nKwa yandi kavana wo.\n\n4. Tuzolanga wau mene,\nTuzai Yisu Nvuluzi\nEkuma yandi mwene mpasi\nFila eto muna nti,\nNkenda zandi songele,\nYo vana luvuluzu.\n\n5. Bosi tukota kuna Zulu,\nKutu mwena Nvuluzi;\nYandi Ntinu yandi nlenvo,\nYandi Mfumu kwa yele nvu,\nNzile Zulu yangudi,\nTwa kala kwa Nzambi.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 33,
+    "numero": 33,
+    "titulo_pt": "Minkwikizi nwiza",
+    "texto_pt": "1. Minkwikizi nwiza\nNwiza kembelanga;\nNukembela Klisto oweto Nvuluzi\nOyandi i Nzambi eto avelela.\n\n2. Vava twakedinge\nMuna umpukumuni\nO Yisu wayizidi ova nza yayi,\nKanwana yo Mbeni\nNgolo zandi akatwidi.\n\n3. Tukwikilang'aka\nMuna Yisu Klisto\nDianu twavuluzilwa muna mbi.\nE tumbu kieto Yisu watubakila.",
+    "coro": "Tukembel'aka Yisu\nYe nsi a ntima mieto\nOyandi i Nzambi ampungu\nWa Nvuluzi.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 34,
+    "numero": 34,
+    "titulo_pt": "Luvuvamu o fuku wau",
+    "texto_pt": "1. Luvuvamu o fuku wau,\nMuna ndombu aleko wau,\nMuna Mbetelemi kwa uilwa\nNtinu wa moyo wa Zulu ye Nsi,\nYisu invuluzi, Yisu invuluzi.\n\n2. Luvuvamu o fuku wau\nMuna kiana avungudi,\nAuidi mpungi ayimbila\nNkembo alukulu lwa nvo ya mvo\nNkudia'me nkudia mpe é é.\n\n3. Luvuvamu o fuku wau,\nVana mpolo ye temoka;\nTuka lu watiku lwa Nsi yai,\nHana mpo ya moneka\nNtangwa temisa é é.",
+    "coro": null,
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 35,
+    "numero": 35,
+    "titulo_pt": "Ya fwila muna nti",
+    "texto_pt": "1. Ya fwila muna nti\nKwa ngeye lenda vuluka,\nMoyo wame mpene wo ngeye\nÔlenda vuluka.\n\n2. Ya kele wau kwa ngeye\nMpasi zisundidi;\nYa wonso mono mpangidi\nKukala nvuluzi.\n\n3. Mu nti mbwene mpasi,\nKu vuluza ngeye.\nMoyo wa mpa ngina,\nWau mu ku vana wo.\n\n4. Mono ndete luvuluzu\nLwa nkembo we Zulu,\nIku loloka ma sumu\nMu luzolo lusundi di.",
+    "coro": "Ya fwa, ya fwa mu nti kwa nge,\nNki ovanga wau mpe?",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 36,
+    "numero": 36,
+    "titulo_pt": "Vana ndambu ekuluzu",
+    "texto_pt": "1. Vana ndambu ekuluzu,\nO menga, za kiamvimba;\nVana i yakazila;\nI vuvu kiame kina.\n\n2. Vana ndambu ekuluzu\nYamwen'esumu dia yiva;\nVa yamon'o Nkomami\nYe mpasi ezi kamona.\n\n3. O Mbeni vo undwakidi,\nSe ikunsongaYisu,\nNtoma mpe kunkamba vo,\nI nlandi ngani a Yisu.\n\n4. Kimbambamba y'ekuluzu,\nYa konso kuna nkwenda\nYavana nsinga viengeswa\nE kolow'ame ankembo.",
+    "coro": "Vana nti, vana nti,\nVana babilanga;\nVana ntoma vundila,\nYamu ntangw'a lufwa",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 37,
+    "numero": 37,
+    "titulo_pt": "Yisu kaka Nvuluzi",
+    "texto_pt": "1. Yisu kaka Nvuluzi, yani\nYisu kaka;\nYisu kaka i Nloloki, yani\nYisu kaka\n\n2. Vuvu kiame ova nza, yani\nYisu kaka;\nNvani a moyo a nvu ya nvu, yani\nYisu kaka.\n\n3. Nkundi oluta zolwanga, yani\nYisu kaka;\nYani I nzizidi, yani\nYisu kaka.\n\n4. Yani weto Nsundisi, yani\nYisu kaka;\nYani Yisu Nsundi a fwa, yani\nYisu kaka.",
+    "coro": "Ediame, kembela, omaka nveza mo;\nInkunga nsimba mpe.\n«Nkembo kwa Yisu kaka».",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 38,
+    "numero": 38,
+    "titulo_pt": "Mfumu Yisu muna nti yani",
+    "texto_pt": "1. Mfumu Yisu muna nti yani,\nKumpelesa wa nfwila mpe,\nYa velela muna menga owau,\nMenga ma Yisu.\n\n2. Zola kwa kwingi kanzolele,\nMu nkenda zandi wandoloka\nWau nvuluka muna\nntambu'alufwa,\nNkembo kwaYisu.\n\n3. Ya ntonda wau kwa nvuluzi,\nMa wete mandi kapangidi,\nNtondele kwingi munti ma me,\nNtondele Yisu.\n\n4. Yeno nwa kula kwa Nvuluzi,\nNdingany kaka nu fwete wa,\nNwa kazila embila nwa\nbokelwa,\nNwiza kweno wau",
+    "coro": "Nkembo kwa Yisu é é,\nNkembo kwa Yisu é é,\nYani i Nfumu wa mpulula,\nNkembo kwa Yisu.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 39,
+    "numero": 39,
+    "titulo_pt": "Klistu wafuluka o unu!",
+    "texto_pt": "1. Klistu wafuluka o unu!\nAleluya!\nI tumwene wete wingi;\nAleluya!\nWau kafwila mun nti,\nAleluya!\nYani kwandi Nkundi eto.\nAleluya!\n\n2. Nkunga mia kunkembelela\nAleluya!\nYisu tukunyimbidila,\nAleluya!\nWau kayiza ova nsi,\nAleluya!\nMu kuma ki'' asumuki.\nAleluya!\n\n3. E mpasi mpe ke zankatu ko,\nAleluya!\nWantu owau tuvulwizu;\nAleluya!\nKun'ezulu avatuka,\nAleluya!\nMbasi zikunkembelanga.\nAleluya!",
+    "coro": "Aleluya!",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 40,
+    "numero": 40,
+    "titulo_pt": "Mu nkal'azikilwa",
+    "texto_pt": "1. Mu nkal'azikilwa\nNvuluzi'ame;\nTalang'e nvunguka,\nYisu wa ntu.\n\n2. Nkatu banzikila,\nNvuluzi'ame;\nNkatu banyingila,\nYisu wa ntu.\n\n3. Kalembwa kwa lufwa,\nNvuluzi ame;\nMbindi I katolola,\nYisu wa ntu.",
+    "coro": "Kafuluka mu fwa!\nNsund'ampwena I kasundidi;\nSunda nkutu kafuluka mu fwa,\nKun'ezulu eyalanga y'aveledi!\nFuluka!.. Fuluka!..\nYisu wafuluka mu fwa.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 41,
+    "numero": 41,
+    "titulo_pt": "Yimbila tuyimbila",
+    "texto_pt": "1. Yimbila tuyimbila,\nMambu ma moyo mekumbwa;\nYisu olend'o vuluza,\nMambu ma moyo mekumbwa.\nYisu Mvuluzi eto,\nKatambul'e mpasi zeto.\n\n2. Yisu Nkundi eto ofwa,\nMuna masumu meto;\nNkenda zingi kesonganga,\nMu kuma kia yeto;\nYisu Mwana Nzambi,\nWatuzola beni.\n\n3. Omambu mama nutoma wa,\nMambu ma Yisu Klistu,\nYani olend'o vuluza Mambu\nAsumuki awonso\nYisu kwandi kaka,\nOlend'o vuluza wantu.\n\n4. Ovo yeto tukwikila\nMuna Yisu Klistu,\nYani olend'o loloka\nMambu meto mambi\nE Nzambi Tata,\nKu zulu utunata",
+    "coro": "Mambu mawete, mambu mambote,\nMambu ma moyo mekumbwa.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 42,
+    "numero": 42,
+    "titulo_pt": "Nzambi et'okutuyikama!",
+    "texto_pt": "1. Nzambi et'okutuyikama!\nKanusimba, kanufila\nMu luludiku luani;\nNzambi okala yeno wau\ntuvambana!\n\n2. Nzambi et'okunuyikama!\nMuna mave okunukonka\nKanuvan'o dia kweno!\nNzambi okala yeno\nwautuvambana!\n\n3. Nzambi et'okunuyikama!\nWavo sumbula numona,\nYovo vonza ikunuzieta;\nNzambi okala yeno\nwautuvambana!\n\n4. Nzambi et'okunuyikama!\nVo nuyel'okunu wuka,\nVo mu vimpi okunulunda;\nNzambi okala yeno\nwautuvambana!",
+    "coro": "Tusa wanana! Tusa wanana!\nNzo a Yisu ova tumona yo,\nTusa wanana! Tusa wanana!\nKun'ezulu ova tukwenda ko.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 43,
+    "numero": 43,
+    "titulo_pt": "Ki yangu kivi ekielo",
+    "texto_pt": "1. Ki yangu kivi ekielo\nA lonso alenda kota,\nEnkwa ma sumu mwelo wau;\nKota wa vulukampe.\n\n2. Kota nu Mwese wese ntu,\nNwa lombe nkenda Kwa Yisu.\nKoteno yenu nwa vuluka.\nNwa kala kwano kia mbote.\n\n3. Zangu kidi mene ôwau,\nKoteno yeno a wonso;\nNzambi usonge nkenda,\nNkenda za yani za zayingi\n\n4. E sunda muna mbi,\nWakala kune Zulu;\nWa kalo ko yo Nfumu aku,\nNzambi i ntinu waku.",
+    "coro": "Taleno enkenda za Yisu\nMwelo wa zulu uzunkidi.\nMono… mono ya kota ku Zulu.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 44,
+    "numero": 44,
+    "titulo_pt": "Vav'e mpungi a Nfumu itatula",
+    "texto_pt": "1. Vav'e mpungi a Nfumu itatula\nye nza ivempoka,\nVav'o kuma kusa kia kwayele nvu,\nVav'Aklisto kun'evundilu\nbemana kutama,\nVa belungwa isinga kala vana mpe\n\n2. Muna menemene una avo\nAklisto befuluka,\nVa bemon'o nkembo a\nlufuluku:\nAy'asolwa 'va bekota kaka\nmuna vundu kiau\nVa belungwa isinga kala vana mpe\n\n3. Ya mbula yasadil'ak'o Nfumu\nyaku mbaninu\nMoken'ak'esivi dia luvuluzu;\nVa kivwa e zingu kiaki, salu\nmpe kifokoka,\nVa belungwa isinga kala vana mpe",
+    "coro": "Vav'e nkumbu ziza bokwa\nVav'e nkumbu ziza bokwa\nVav'e nkumbu ziza bokwa\nVana ntambulwila ngina vana mpe",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 45,
+    "numero": 45,
+    "titulo_pt": "Aleke a yelusalemi",
+    "texto_pt": "1. Aleke a yelusalemi\nYisu bekunkembela;\nAleke mpe omu nsi yayi\nNkembo andi beyimbila.\n\n2. E nsangu zambote tulongwanga\nO zola kwa Yisu tumona ko;\nNkand'a Nzambi tutangana\nDianu tukukembela.\n\n3. A mase, a ngudi, a mpangi mpe,\nE ndinga zeno nuzangula:\nMvuluzi eto tunkembela.\nYavana ku 'zulu tumonana.",
+    "coro": "Wa! Wa! Wa!\nAleke beyimbilanga,\nAleluya kwa Nfumu au.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 46,
+    "numero": 46,
+    "titulo_pt": "Yisu utuzolele",
+    "texto_pt": "1. Yisu utuzolele,\nNkand'a Nzambi uvovele wo;\nYeto awonso tu alandi,\nOkutulundanga.\n\n2. Yisu utuzolele,\nYandi utufwididi,\nSumu dieto okatwidi,\nMwelo ezulu kaziwidi.\n\n3. Yisu utuzolele,\nYandi utulundidi,\nOvo tukuntondanga,\nKu nsi andi tukwendanga.",
+    "coro": "Yisu utuzolele,\nElo, utuzolele,\nYisu utuzolele,\nOyandi Nkundi eto.",
+    "categoria": "HINOS KIKONGO"
+  },
+  {
+    "id": 47,
+    "numero": 47,
+    "titulo_pt": "Kunang'e mbongo",
+    "texto_pt": "1. Kunang'e mbongo,\nYe mbongo ya nkenda,\nMene-mene mwini,\nOvo masika,\nVinganga e kundi,\nNsungi a salwa,\nTukemba ye kiese,\nNtete tuna miau!\n\n2. Vatange kiana,\nVetamanga kwingi;\nNvula yovo mwini,\nKe tutina ko;\nNsungi a salu,\nSalu kivwidi,\nTukemba ye kiese,\nNtete tuna miau!\n\n3. Nsangu za Yisu,\nO nvuluzi a wantu,\nMbongo a kuna muna\nNtima miau;\nOvo yau banlende\nKwikilang'e ludi,\nTukemba ye kiese,\nNtete tuna miau!",
+    "coro": "Ntete tuna miau!\nNtete tuna miau!\nTukemba ye kiese,\nNtete tuna miau!",
+    "categoria": "HINOS KIKONGO"
+  }
+]

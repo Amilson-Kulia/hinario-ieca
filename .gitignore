@@ -1,0 +1,28 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+
+# iOS
+ios/Flutter/.last_build_id
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ficheiros sensíveis
+.env
+*.jks
+*.keystore

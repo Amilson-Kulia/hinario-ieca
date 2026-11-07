@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "numero": "19",
+    "titulo": "SALMO 19",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Maúlu ma tumbula o fuma ia Nzambi; o mu dinga ni dinga mua d’idikiza o ufunu ua maku mé. Kizuua ki tangela o kizuua kia mukuá im’iii, o usuku u ijidisa ku usuku ua mukuá! Kibhuala kuzuela ku tunda bhu dimi, kana-bhu dizui di uivila mu dítui, maji o njimbu’iii-phe a ivisa mu ngongo ioso; o hundu iê ia jimbuluka muene katé ku maxokololo ma’xi."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "O kuzuela kuami kua dikanu, ni kubanza kuami kua muxima, ku kale kuoso kua ku ku uabhel’eie, u Jihova, u Nguzu iami, u Mukudi uami!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Maúlu Nzambi ua ma bhanga balaka ia dikumbi; Diene mu kutunda kuê, kifua muene na’iala u tunda mu xilu dia ubhanga; di sanguluka muene kala dizonda dia di fiiala kulenga dikanga dia mu xindi. U katuka bhu muxinda ua’xi ni diulu, u banda, hé u boloka, katé ku mbambe iê, tulé; kana-ku kima ki suamena o muanha ue."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "O kuzuela kuami kua dikanu, ni kubanza kuami kua muxima, ku kale kuoso kua ku ku uabhel’eie, u Jihova, u Nguzu iami, u Mukudi uami!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Ngonge ya Jihova ia di uabhela, i bhekela muthu muenhu uobhe; umbangi ua Jihova ua kidi, u ijidisa atobho. Ijila ia Jihova ia tetuluka, i bheka ngalasa ku muxima; kitumu kia Jihova kiazele, ki muikina o mesu."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "O kuzuela kuami kua dikanu, ni kubanza kuami kua muxima, ku kale kuoso kua ku ku uabhel’eie, u Jihova, u Nguzu iami, u Mukudi uami!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Uoma ua Nzambi ua ujitu, ua kenzuluka, ki u tena dingi kubhua-ku; o mabatuilu ma Jihova ma kidi, ma sokela, o mene moso ma iukila kumoxi. Maka mê kota mu kuta, o ulu ndenge né ulu uavulu ua fina; mu kutouala ue kota, o uiki ndenge, né uiki u zunzumuka ku kixila. Mene ma dimuna selevende ié, o kia kuata ku a aluka kubhanduluka kuê ku vula."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "O kuzuela kuami kua dikanu, ni kubanza kuami kua muxima, ku kale kuoso kua ku ku uabhel’eie, u Jihova, u Nguzu iami, u Mukudi uami!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Nanhi u tena ku di tongolola o isenga iê-muêne? Ngi loloke, Ngana, o ikuma ioso ia ngi jimbi eme-muène. Selevende ié, Ngana, mu fudise o kubhuma kua izala; o ima ia ku di zangeleka ki iende ni ku ngi tumina; phala ng’imane nzanza ni kulunga, mbé ki ngi kale ni kituxi kia dikota kokué."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "O kuzuela kuami kua dikanu, ni kubanza kuami kua muxima, ku kale kuoso kua ku ku uabhel’eie, u Jihova, u Nguzu iami, u Mukudi uami!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "numero": "24",
+    "titulo": "SALMO 24",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Ixi iangene ia Jihova ni jimbongo jê; mu ngongo mua mu tokala muene ni mundu uoso ua tungu-mu. Mukonda muene ua xikika o ixi mu’axaxi ka menha a kalunga; iu ua i kuatesa ni jingiji jezala menha."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Nanhi ua kà banda ku mulundu ua Jihova? Nanhi ua kèmana bhu kididi kiê kiangene?"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Uoso maku’ê a mu zele, o muxima uê uabhu ufusa; ua kambe kukaiela ulalu, ka xikina kuloka mu kunganala mukuá. Muenhú muene o muthu u tambula dibesá dia Jihova; a mu bhana ue kulúnga kuala Nzambi iê ia kibhamuenhu. Iú uene o muiji ua athu ene ku mu kenga muene; ene ene ni ku ku sota o pholo, eie u Nzambi ia Jakobo."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Zangukenu mítue mu mabhitu a kimbaka, o mielu iê iókulu-kulu i jikuke, muenexi uavu o kijingo phala a bokone."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Muenexi uavu o kijingo mukuahi?"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Jihova mukua nguzu, o kindanda; Jihova, o disonda ku ita. Zangukenu métue mu mabhitu a kimbaka, o mielu uê iókulu-kulu i jikulke, Muenexi uavu o kijingo phala o muene bokone."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Muenexi uavu o kijingo mukuahi?"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Jihova u tumina o ifuxi, muene o muenexi uavu o kijingo."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "numero": "46",
+    "titulo": "SALMO 46",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Nzambi dilengelu dietu, nguzu ietu, kota dia dikuatekesu dia zukama mu jiphaxi. Kienhiki, ki tu kala ni uoma, né-mbe oxi izamba, mba milundu iê i suetuka katé mu kaxi ka musanza ua kalunga. Né-mbe o menha mê ma fuluka, anga ma numina, mba milundu i tunguta ni kusuína kuê."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Jihova dia ifuxi tuala-né kumoxi; o Nzambi ia Jakobo kimbaka kietu."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Sai-ku ngiji o milômbo iê i tekela o mbanza ia Nzambi; kididi kiangene kia mabhata ma Sukè-ku. Nzambi iú bhobho, muene uala mu’axaxe kê, kididi kiê ka tena ku ki sendumuna; Nzambi u di meneka mu ku a kudila. Mutumbu edile ni ene bulukutu, o ilômbo ioso ia salumukine; maji muene uedi ngó u zuela, ixi ioso ia botomoka!"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Jihova dia ifuxi tuala-nê kumoxi; o Nzambi ia Jakobo kimbaka kietu."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Zenu mu di uane o ikalakalu ia Jihova! Mu tale o isunji ia bhange muene mu ngongo! Ita ua i sukika katé ku maxokolo a’xi; uta ua mufula ua u bukula, dionga ua di batula mu kaxi; o makalu a ita ua oha mu túbhia. Mu batama, phala mu k’ijiie kuma eme ngi Nzambi, eme-muène ngi jînga mu’axaxi ka matumbu; eme-muène ngi zangalala ue mu ngongo ioso."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Jihova dia ifuxi tuala-nê kumoxi; o Nzambi ia Jakobo kimbaka kietu."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "numero": "67",
+    "titulo": "SALMO 67",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Nzambi a tu lendukile, a tu bhane o dibesá, a bhangese pholo iê ku tu muikina; phala njila iê a’ijiie mu ngongo, ku jixi joso ejiie o ubhulukilu uê."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ifuxi ia athu a ku ximane, Ngana Nzambi; ifuxi ioso muene mu ngongo a ku ximane."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Ifuxi ia athu a ku ximane, Ngana Nzambi; ifuxi ioso muene mungongo a ku ximane. Akua jixi ioso a tane, a ku imbile ni ngalasa; kuma eie Ngana, hinu u fúndisa o ifuxi oso mu kidi kié, hé u tumina o jixi joso mu ngongo."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ifuxi ia athu a ku ximane, Ngana Nzambi; ifuxi ioso muene mungongo a ku ximane."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Phala o mavu ende ni kubhana dingi o idima iê; o Nzambi, Nzambi ietu muene, a tu bhane o kuzediua. Xi, Nzambi u tu bhana muene dibesá; mbé ene oso, katé ku maxokololo, a mu kale ni uoma."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ifuxi ia athu a ku ximane, Ngana Nzambi; ifuxi ioso muene mungongo a ku ximane."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "numero": "96",
+    "titulo": "SALMO 96",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Imbilenu Jihova muimbu uobhe; imbilenu Jihova enu mu jixi joso. Imbilenu Jihova, mu tumbudienu o dijina diê; tangenu o ubhulukilu uê kizuua ni kizuua."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tumbulenu o fuma iê mu’axaxi ka matumbu, o isuma iê tangenu-iu ku diembu dioso."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kuma Jihova munéne, ua tokala ku mu ximana kiavulu; muene a mu kuatela uoma, jinzambi jengi kana."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Mukonda o jinzambi já ifuxi ioio, iteka ngo; Jihova phe muene ua bhanga o diulu. Ni ujitu ni ungana a mu kala bhu pholo iê; ni nguzu ni kuuabha kuala mu kididi kiê kiangene."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Bhakulenu kua Jihova enu mu miji ia athu, bhakulenu kua Jihova o fuma ni nguzu. Bhakulenu kua Jihova o fuma ia tokala dijina diê; zenu ni maujitu, mu bhixile ni sata mu malumbu mê. Bhezenu Jihova mu kukemba kuazele kua uiukilu uê; mu kuatedienu uoma enu oso mua tungu mu ngongo."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tangenu-kiu ku matumbu muixi; Jihova ua hinge ungana uê. Muene ixi ua i kuatesa bhu kididi, ka tena ku i sendumuna; hádia muene u fundisa o mundu mu uiukilu uê."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Diulu di tane-ku, mu ngongo mu sanguluke! Kalunga ka diokole ni mabhuku mê moso! Ku mukáu ku kale ngalasa, ni ku idima iê ioso iala-ku! O mixi ioso ia matutu i kembe, Bhu pholo ia Jihova, kuma iú iza, iú iza mu fundisa o ngongo;"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "U fundisa o athu mu ngongo ni kuiuka, u tetuluila o mundu ni kidi kiê."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "numero": "100",
+    "titulo": "SALMO 100",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Tumbujukenu ni ngalasa kua Jihova, enu oso mua tungu mu ngongo. Jihova mu sedivilienu ni kutana, bhixilenu bhu pholo iê ni kuimba."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ijiienu-kiu, kuma Jihova muene Nzambi; muene ua tu bhanga, muene ua tu vu; etu tu mundu uê tua mu tokala, tu jimbudi jê, muene uala ku tu inga."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Bokuenenu bhu mabhitu mê ni kusakidila, mu tule mu malumbu mê ni mimbu ia kuximana; ximanenu ni ku tumbula o dijina diê."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Kuma Jihova muthu uambote; kulenduka kuê ki kuene kúbhua; o kukumbidila kuê ku xalela ku miji ioso."
+      }
+    ]
+  }
+]

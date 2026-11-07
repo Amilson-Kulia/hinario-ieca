@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "numero": "1",
+    "titulo": "MITAMBI",
+    "categoria": "Invocatórias",
+    "texto": "<b></b> Yehova a li mu tembele yeni ya ku lela; mavu ose a holoke ku meso eni. (Hav. 2:20)."
+  },
+  {
+    "id": 2,
+    "numero": "2",
+    "titulo": "MITAMBI",
+    "categoria": "Invocatórias",
+    "texto": "<b></b> Nja zolelele omo va nji lekele nguavo, tatiyenu ku ndzivo ya Yehova. Mua vusunga Yehova a li ku muhela ou; kuno ku ndzivo ya Njambi, kuno ku mbelo ya muilu. Tumbuilenu Yehova vumpahu vuze vua pande lizina lieni; Lemesenu Yehova na vizalo via ku lela. (Visamo 122:1; Njn.28:16-17; Vis.29:2)."
+  },
+  {
+    "id": 3,
+    "numero": "3",
+    "titulo": "MITAMBI",
+    "categoria": "Invocatórias",
+    "texto": "<b></b> Cinguezi, na cimene, na ha kati ka litangua, nji ka linienieta na ku vindzuoka; na ikeye a kevua lizi liange. Nji ka ku zumbangeya, Njambi yange, A Muangana; kaha nji ka sangaziala lizina liove ku miaka yose ya ya-ye. (Vis 55:17; 141:1)."
+  },
+  {
+    "id": 4,
+    "numero": "4",
+    "titulo": "MITAMBI",
+    "categoria": "Invocatórias",
+    "texto": "<b></b> Njambi ikeye Sipilitu; kaha vaze va mu lemesa va pande ku mu lemesa mu vimbembesi na mu vusunga. Mezi a kanua kange na visinganieka via mutima uange vi viuke ku meso ove, a Yehova, livue liange, na Nkuli yange. (Yoano 4:24; Visam. 19:14)."
+  },
+  {
+    "id": 5,
+    "numero": "5",
+    "titulo": "YA TSIMBU YAKULAVOKA",
+    "categoria": "Do Advento",
+    "texto": "<b></b> Muomu Muangana ivene a ka suluka muilu, na mutambi, na lizi lia kangelo ua kama, na luneta lua Njambi: kaha vatsi va muli Yesu va ka livanga ku sanguka. Talenu, eza na maselua; na meso ose a ka mu mona, na vaze va mu tuvile; na miyati yose ya mavu i ka lila mbimbiamitue omo ikeye. Mukemuo vene, Ame. (1 Tes 4:16; Ku-sol 1:7)."
+  },
+  {
+    "id": 6,
+    "numero": "6",
+    "titulo": "YA TSIMBU YAKULAVOKA",
+    "categoria": "Do Advento",
+    "texto": "<b></b> Kaha ci ka pua ngecize ku litangua olio, va ka sika luneta lua kama; kaha va keza vaze va hiangele ku nonga mu cifuti ca Asilia, na vaze va va na sekula ku cifuti ca Ingito; kaha vaka lemesa Yehova ku muncinda uze ua ku lela ku Yelusalema. (Isaya 27:13)."
+  },
+  {
+    "id": 7,
+    "numero": "7",
+    "titulo": "UA NATALE",
+    "categoria": "Do Natal",
+    "texto": "<b></b> Vunoni omo tsimbu ya puilemo, Njambi wa tumine Muaneni ua ku semuua ku mpuevo, ua ku semuua ku mezi a lisiko, ngecize a kule vaze va kele ku mezi a lisiko, linga etu tu tambule ku-pua ca vana. (Ngal. 4:4,5)."
+  },
+  {
+    "id": 8,
+    "numero": "8",
+    "titulo": "UA PASKUA",
+    "categoria": "Da Páscoa",
+    "texto": "<b></b> Va handekele, nguavo, Muangana cili vene na sanguka, na lisololuele kuli Simone. Muomu nga tua tsiliela ngecize Yesu ua tsile kaha ua sangukile naua, ngecize vene vaze naua va na kosa tulo va ku-tsa muli Yesu, Njambi a ka va neha hamo neni. (Luka 24:34; 1 Tes 4:14)."
+  },
+  {
+    "id": 9,
+    "numero": "9",
+    "titulo": "UA PENDEKOSTE",
+    "categoria": "Do Pentecostes",
+    "texto": "<b></b> Kaha ku ka linga ku nima yevi, nji ka muania Sipilitu uange ha tsitu yose; kaha vana venu va vamala nava vampuevo va ka ambulula vupolofeto, vivendzi venu va ka lota zindzozi, vakuendze va ka mona vimona: kaha naua hali vangamba va vamala na hali ava va vampuevo nji ka muania Sipilitu uange ku matangua aze. (Yoele 2:28,29)."
+  }
+]

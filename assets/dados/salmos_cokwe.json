@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "numero": "19",
+    "titulo": "MIASO 19",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Lilu liasolola uhenya wa Zambi; yuma yeswe ya kwilu ya kusolola utotombo wenji! Tangwa liakusolola yuma ku tangwa liakwo, ufuku wakwambulula yuma ku ufuku ukwo. Kutushikwivwa kuhanjika cho, chibwe zumgu kutushi kulivwa; hindu liji lio twakulivwa hashi heswe, sango jo jakuheta ndoo ku songo lia hashi."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Maliji jami ni manyonga jami, yikabeme ku meso je. Aa Mwene Zambi, chiswamo chami kanda chilamwiina chami."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Zambi hanatungila tangwa zuwo kwilu. Kuliakutuhuka chichamene mu zuwo lialio ngwe sandungi; kulili ngwe mutu yoze unazomboka ni chiseke. Kuliakuvumbukila ku songo lia lilu, kuliakunjilila ku songo likwo. Chakuhi nichimwe chize chakuswama ku lutemo walio."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Maliji jami ni manyonga jami, yikabeme ku meso je. Aa Mwene Zambi, chiswamo chami kanda chilamwiina chami."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Shimbi ja Mwene Zambi jili jibema, kujakuhuzulula mbunge. Shindakenyo ya Muene Zambi yili yamwenemwene, kuyakukanyamisa yizuzuke. Longeso lia Mwene Zambi lili libema, ni waze akulifunga kaakuwahilila. Maliji jenyi a shimbi kaali a chijila, kaakutemuna meso."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Maliji jami ni manyonga jami, yikabeme ku meso je. Aa Mwene Zambi, chiswamo chami kanda chilamwiina chami."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kulemesa Mwene Zambi chili chibema, kuchakulinduluka ndoo ku miaka yeswe. Ubatwilo wa Mwene Zambi kuwalita, kuuli wa ululi matangwa eswe. Ngunazange shimbi ja Zambi kuhiana oru yibema, jinahiana kuyema wuchi. Kujakungwaha mana, yami kavumbi ke, wakungukundulula mumu nakujifunga."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Maliji jami ni manyonga jami, yikabeme ku meso je. Aa Mwene Zambi, chiswamo chami kanda chilamwiina chami."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Niumwe mahasa kunyingika yibi yenyi mwene; Mwene Zambi ngulamwine kama ku yibi yize chanyingikine! Ngufunge kama, ku yibi yize ngunambe kulinga; ngukwase, kanda yinguzeyesa, mba ngubwe mungunu, kuvulumuna ka."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Maliji jami ni manyonga jami, yikabeme ku meso je. Aa Mwene Zambi, chiswamo chami kanda chilamwiina chami."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "numero": "24",
+    "titulo": "MIASO 24",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Hashi ni yeswe yize yiliho yili ya mbala ya Mwene Zambi; hashi ni eswe waze atwama ho kaali nienyi. Iye watangile he hashi ni kalunga lwiji."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Iya mahasa kukanduka ha mulundu wa Mwene Zambi? Iya mahasa kunjila mu zuwo lienyi lia chijila?"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Shina yoze uli ni mbunge yimuwika ni yi tanga ya ululi, yoze keshi kukombelela mahamba, yoze keshi kulishinga ni mahuza. Mwene Zambi manuwahisa ni kumulamwina, Zambi mamusambisa kanawa. Chanacho abwa atu waze akwiza kuli Zambi, waze akwiza ku meso ja Zambi ya Yakoba."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Azululenu yajilo ya ku chipanga azululenu ku yikolo yikulu, mba mwanangana munene manjila mo."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Mwe mwanangana munene iya?"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Mwene Zambi mukwa ndundo, Mwene Zambi mukwa kukumba. Azululenu yajilo ya chipanga azululenu ku yi kolo yikulu mba mwanangana munene anjile mo."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Mwene mwanangana munene iya?"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Mwene Zambi Mukwa Ndundo Jeswe, iye mwe Mwanangana!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "numero": "46",
+    "titulo": "MIASO 46",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Zambi kali uchinyino wetu ni tachi jetu, kanalulika matangwa eswe ni kutukwasa muze twakumona lamba. Ha chino kutuchi kwivwa woma, chibwe mavu nyike, chibwe milundu yilimbile mu kalunga lwiji chibwe tulunga lwiji maabinda ni kututumuna fulufulu, chibwe milundu muyinyika."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Mwene mukwa Ndundo Jeswe kali hamwe ni yetu; Zambi ya Yakoba kali uchinyino wetu!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kukuli umwe lwiji yoze wakuwahisa akwa limbo lia Zambi, akwa zuwo lia chijila lia Zambi Mukwa Mwilu Mwahiana. Zambi kali mu limbo, atu keechi kulionona; ha chichamene kumeza ni kwakwasa. Akwa mavungu kaanevu woma, mawanangana kaananyiki, Zambi kanakulunguza, hashi hanasangunuka."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Mwene mukwa Ndundo Jeswe kali hamwe ni yetu; Zambi ya Yakoba kali uchinyino wetu!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tweyenu numone yuma yize alingile, yuma ya kulishimwoka yize alingile hano hashi! Kakuholesa jita hashi heswe, kakumakwona mata, kakubatwola makunga, kakwochacha kebwe! Kanambe ngwenyi: “Litwaminenu kumbunda, nyingikenu ngwenu, yami nguli Zambi; nakuyula mavungu, nakuyula akwa hashi eswe.”"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Mwene Zambi Mukwa Ndundo Jeswe kali hamwe ni yetu, Zambi ya Yakoba kali uchinyino wetu!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "numero": "67",
+    "titulo": "MIASO 67",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Zambi tuwile kama keke, tuwahise, tu tale kama ni utu we, hanga akwa hashi anyingike chize unapale, hanga mavungu eswe anyingike ulamwino we."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aa Zambi, mavungu akuhalise, mavungu eswe akuhalise!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Mavungu awahilile, embe ni chiseke, mumu yena wakubatwila atu ni ululi, yena wakusongwela mavungu eswe."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aa Zambi, mavungu akuhalise, mavungu eswe akuhalise!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Mavu heemisa mihuko, Zambi, Zambi yetu, hatukwasa. Zambi hatuwahisa; atu eswe a ku yifuchi yeswe amulemese."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aa Zambi, mavungu akuhalise, mavungu eswe akuhalise!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "numero": "96",
+    "titulo": "MIASO 96",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Mwimbilenu Mwene Zambi mwaso waha! Mwimbilenu Mwene Zambi miaso, muchichimiekenu! Matangwa eswe ambujolenu sango jibema ngwenu, hatulamwina!"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Lumbununenu uhenya wenyi kuli mavungu, ni yitanga yenyi ya kukomwesa."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Mwene Zambi kali muinene, atu chaatamba kumuchichimieka kuhiana; chaatamba kumulemesa kuhiana mazambi akwo eswe."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Mazambi ja mavungu akwo kaali lume mahamba, alioze Mwene Zambi mwe watangile lilu. Mwene Zambi kali ni uhenya ni ulamba; ndundo ni ubeme yili mu zuwo lienyi."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Yenu akwa hashi eswe, fumanyisenu Mwene Zambi, fumanyisenu uhenya wenyi, ni ndundo jenyi! Fumanyisenu jina lia Mwene Zambi; nehenu milambu yenu mu zuwo lienyi. Wayilenu Zambi Munangi muze masoloka. Akwa hashi heswe chikimenu ku meso jenyi!"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ambulwilenu mavungu eswe ngwenu: “Mwene Zambi mwe mwanangana! Hanakolesa hashi, kuhahashile kunyika; makabatwila atu eswe ni ululi.”"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Lilu ni hashi wahililenu! Kalunga lwiji ni yeswe yize yilimo kololokenu! Minda ni yeswe yize yilimo wahililenu! Mitondo yeswe ya mu mishitu kololokenu ni uwahililo ku meso ja Mwene Zambi, mumu kaneza ni hashi."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Akwa hashi eswe kumakaayula, ni umwenemwene ni ululi."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "numero": "100",
+    "titulo": "MIASO 100",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Yenu akwa hashi heswe, mwimbilenu Mwene Zambi! Muwayilenu ni uwahililo imbenu miaso ya chiseke ku meso jenyi!"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tayizenu ngwenu, Mwene mwe Zambi! Mwe watutangile, tuli nienyi; tuili atu jenyi, tuli mapanga jenyi."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tunjilenu mu zuwo lienyi ni kusakwilila, mu yiize ya zuwo lienyi ni kuchichimieka. Musakwililenu, fumanyisenu jina lienyi."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Mwene Zambi kali mubema, zango lienyi kulishi kuhwa; umwenemwene wenyi wakulinduluka ndoo ku miaka yeswe."
+      }
+    ]
+  }
+]

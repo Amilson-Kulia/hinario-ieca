@@ -1,0 +1,147 @@
+{
+  "mes": "Novembro",
+  "ano": 2026,
+  "tema_mensal": null,
+  "introducao_mensal": null,
+  "observacao": "O PDF do Lecionário 2026 não apresenta tema mensal nem introdução para Novembro. O conteúdo de Novembro no PDF é composto por: (1) continuação do tema de Outubro — o Domingo da Escola Bíblica (1/11); (2) a Semana de 2 a 8 de Novembro, com o tema 'A URGÊNCIA DE PREGAR O EVANGELHO'; (3) Datas Importantes (pág. 194). As páginas 201 a 231 estão em branco no PDF (sem conteúdo).",
+  "datas_importantes": [
+    {
+      "data": "1/11",
+      "evento": "Domingo da comemoração da Escola Bíblica"
+    },
+    {
+      "data": "9 a 15/11",
+      "evento": "Semana comemorativa da implantação da IEC em Angola"
+    },
+    {
+      "data": "11/11",
+      "evento": "Dia da IECA - 146 anos desde 1880"
+    },
+    {
+      "data": "11/11",
+      "evento": "Feriado Nacional (Dia da Independência)"
+    },
+    {
+      "data": "15/11",
+      "evento": "Comemoração do Dia da IECA, 146 anos desde 1880 e recolha da 2ª Fase do Fundo da Missão Global"
+    },
+    {
+      "data": "29/11",
+      "evento": "Primeiro Domingo de Advento"
+    }
+  ],
+  "semanas": [
+    {
+      "periodo": "1 de Novembro de 2026",
+      "tema_semanal": "O SENHOR DONO DA MISSÃO CONTINUA A CHAMAR CEIFEIROS",
+      "evento_especial": "Domingo comemorativo da Escola Bíblica",
+      "introducao_semanal": null,
+      "dias": [
+        {
+          "data": "2026-11-01",
+          "evento": "Domingo comemorativo da Escola Bíblica",
+          "texto_biblico": null,
+          "textos_biblicos": [
+            "Salmos 96:1-4",
+            "I Coríntios 9:16-23",
+            "S. Mateus 9:85-38"
+          ],
+          "tema": null,
+          "tema_central": "Quem responderá o chamado do Senhor?",
+          "reflexao": "O Senhor Jesus vê e entende a situação que o texto do evangelho narra. Pouco depois, Ele comissiona os doze discípulos e os envia para pregar (S. Mateus 10:1,5). A situação continua a mesma até hoje. A seara continua grande, há muitos e variados campos para a pregação da Boa Nova. A busca por obreiros continua, por isso o Senhor dono da seara continua a chamar ceifeiros que respondam como Isaías: \"Eis-me aqui, envia-me...\". Ceifeiros aptos são aqueles que assumem esta obrigação com consciência como esteve Paulo, ao exclamar: \"Porque, se anuncio o evangelho, não tenho de que me gloriar, pois me é imposta essa obrigação; e ai de mim, se não anunciar o evangelho!\" (I Coríntios 9:16) O chamado é direccionado a membros que querem servir ao Senhor de todo o seu coração, mente e força. O serviço não se limita a missões de longa distância. Cada membro da igreja é encorajado a ser um exemplo de boa conduta em sua comunidade, com desejo de compartilhar a fé, ensinar, ou praticar o amor ao próximo. Estes são sinais de um chamado missionário.",
+          "liturgia": {
+            "hinos": ["5 Português", "Hino de consagração 221 Português", "162 Português"],
+            "salmo": "96",
+            "leituras_biblicas": [
+              "Salmos 96:1-4",
+              "Coríntios 9:16-23",
+              "S. Mateus 9:85-38"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "periodo": "2 a 8 de Novembro de 2026",
+      "tema_semanal": "A URGÊNCIA DE PREGAR O EVANGELHO",
+      "evento_especial": null,
+      "introducao_semanal": null,
+      "dias": [
+        {
+          "data": "2026-11-02",
+          "evento": null,
+          "texto_biblico": "Romanos 10:11-15",
+          "textos_biblicos": ["Romanos 10:11-15"],
+          "tema": "Como pregarão se não forem enviados?",
+          "tema_central": null,
+          "reflexao": "Ninguém na vida assume um cargo sem lhe ser confiado. Antes que os discípulos começassem o ministério da pregação, primeiro foram instruídos e depois enviados para o efeito. Assim como cada serviço por mais humilde que seja, tem regras, na realização do projecto de acção, a Igreja como Instituição Divina, tem as suas regras para cumprir a ordem de Deus. É a Igreja que confia responsabilidades de ensinar. O apóstolo Paulo afirma que é necessário que os pregadores sejam enviados pela Igreja depois de [texto truncado no PDF original]",
+          "liturgia": null
+        },
+        {
+          "data": "2026-11-03",
+          "evento": null,
+          "texto_biblico": "S. Mateus 28:19-20",
+          "textos_biblicos": ["S. Mateus 28:19-20"],
+          "tema": "Pregai o Evangelho por todo mundo",
+          "tema_central": null,
+          "reflexao": "O Ide, é uma ordem divina para todos que crêem em Jesus como Salvador, e em Deus como Criador do mundo e de tudo que existe. Sejam quais posições que ocupamos socialmente, a verdade devem ser ditas, o ser humano deve cumprir o mandato de quem é seu superior.",
+          "liturgia": null
+        },
+        {
+          "data": "2026-11-04",
+          "evento": null,
+          "texto_biblico": "Eclesiastes 5:10",
+          "textos_biblicos": ["Eclesiastes 5:10"],
+          "tema": "O amor ao dinheiro, dificulta a vocação do enviado",
+          "tema_central": null,
+          "reflexao": "Quem ama o dinheiro se torna um escravo dele, nunca esta feliz com o que tem. Os bens materiais são necessários para a nossa subsistência e não para completar o vazio que o mundo produz; este vazio só pode ser preenchido por um amor verdadeiro que vem de Cristo Jesus.",
+          "liturgia": null
+        },
+        {
+          "data": "2026-11-05",
+          "evento": null,
+          "texto_biblico": "Actos 16:9-10",
+          "textos_biblicos": ["Actos 16:9-10"],
+          "tema": "Paulo foi chamado para anunciar o Evangelho",
+          "tema_central": null,
+          "reflexao": "Neste texto, Paulo teve uma visão em que um varão da Macedónia pede ajuda, ao que levou o apóstolo a seguir para Macedónia. Vejamos a sequência de Paulo: 1- Paulo faz o primeiro contacto com um grupo de mulheres e um delas creu e se converteu ao evangelho. Lídia era uma vendedora de púrpura da cidade de Tiatira (Actos: 16:14). 2- Depois que saiu da casa de Lídia foi para um lugar de oração quando no caminho saiu ao seu encontro uma jovem possessa de um espírito maligno que dava grandes lucros aos seus senhores, porém, foi liberta deste espírito mau. Esta trajectória de Paulo revela que Deus tinha planos para salvar almas naquela cidade, razão pela qual ele teve aquela visão do varão, pedindo ajuda, pois, eram pessoas que precisavam de libertação e de ouvir a Palavra de Deus.",
+          "liturgia": null
+        },
+        {
+          "data": "2026-11-06",
+          "evento": null,
+          "texto_biblico": "Actos 1:8",
+          "textos_biblicos": ["Actos 1:8"],
+          "tema": "Ser testemunha do Senhor Jesus é um imperativo categórico",
+          "tema_central": null,
+          "reflexao": "O Senhor Jesus nos chama para sermos suas testemunhas. Mas, que é uma testemunha? Testemunha é uma pessoa que viu algum acontecimento e é solicitada para relatá-lo. O Senhor Jesus [texto truncado no PDF original] que sejamos testemunhas do que Ele fez, e faz por nós e em nós.",
+          "liturgia": null
+        },
+        {
+          "data": "2026-11-07",
+          "evento": null,
+          "texto_biblico": "Hebreus 4:12",
+          "textos_biblicos": ["Hebreus 4:12"],
+          "tema": "O Evangelho é vivo e eficaz",
+          "tema_central": null,
+          "reflexao": "O Evangelho é vivo e eficaz, por ser uma mensagem dinâmica transformadora, não apenas um texto antigo. É vivo porque tem poder inspirador e relevância para todas as épocas, e é eficaz porque produz resultados, transformando vidas, corrigindo e ensinando e consolidando. Essa eficácia se manifesta ao agir profundamente no interior das pessoas, discernindo e transformando pensamentos e intenções.",
+          "liturgia": null
+        },
+        {
+          "data": "2026-11-08",
+          "evento": null,
+          "texto_biblico": null,
+          "textos_biblicos": [
+            "Salmos 22:30",
+            "II Coríntios 9:10",
+            "S. Mateus 13:14"
+          ],
+          "tema": null,
+          "tema_central": "O evangelho é a semente por espalhar",
+          "reflexao": "Jesus contou frequentemente por parábolas, histórias sobre acontecimentos do dia-a-dia que ele usava para ilustrar verdades espirituais. Uma das mais importantes destas parábolas é aquela registada em S. Mateus 13:1-23, S. Marcos 4:1-20 e S. Lucas 8:1-15. Esta história fala de um semeador que lançou sementes e vários lugares com diferentes resultados, dependendo do tipo de solo. O evangelho é a semente para espalhar, pois, é a mensagem de Deus que deve ser propagada por todos os cristãos, e cada pessoa representa um tipo de solo que determina se a semente germinará ou não. A responsabilidade dos fiéis é apenas espalhar semente; o crescimento e os frutos são obras de Deus. A tarefa de espalhar o evangelho compete aos fiéis é espalhar a semente, ser a pressão de controlar os resultados, pois, o trabalho de fazer semente crescer e dar frutos pertence a Deus.",
+          "liturgia": null
+        }
+      ]
+    }
+  ]
+}

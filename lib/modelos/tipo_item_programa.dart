@@ -1,0 +1,17 @@
+enum TipoItemPrograma {
+  fixo,
+  hino,
+  invocatoria,
+  litania,
+  salmo,
+  leituraBiblica,
+  coral,
+  oracao,
+  louvor,
+  anuncio,
+  oferta,
+  santaCeia,
+  momentoMissionario,
+  testemunho,
+  personalizado,
+}

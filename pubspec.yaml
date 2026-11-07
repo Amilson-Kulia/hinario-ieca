@@ -1,0 +1,122 @@
+name: hinario_ieca
+description: "Aplicativo IECA."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Armazenamento local
+  shared_preferences: ^2.5.3
+  share_plus: ^11.0.0
+
+  # Abertura de fontes externas
+  url_launcher: ^6.3.2
+
+  pdf: ^3.11.3
+  printing: ^5.14.2
+
+  # Notificações locais
+  flutter_local_notifications: ^22.3.0
+
+  # Fuso horário utilizado pelas notificações
+  timezone: ^0.11.1
+
+  # Obtém o fuso horário do dispositivo
+  flutter_timezone: ^5.1.0
+
+  # Ícones Cupertino
+  cupertino_icons: ^1.0.8
+
+  xml: ^6.6.1
+  intl: ^0.20.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Regras de qualidade do código
+  flutter_lints: ^6.0.0
+
+  # Ícones do aplicativo
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logoieca.png
+    - assets/images/icone.png
+    - assets/images/criador.png
+    - assets/dados/categorias_hinos.json
+    - assets/dados/invocatorias.json
+    - assets/dados/litanias.json
+    - assets/dados/salmos.json
+    - assets/dados/salmos_umbundo.json
+    - assets/dados/salmos_nganguela.json
+    - assets/dados/salmos_kimbundo.json
+    - assets/dados/credo.json
+    - assets/dados/oracao.json
+    - assets/dados/por-almeida.usfx.xml
+    - assets/dados/hinos_umbundo.json
+    - assets/dados/hinos_kimbundo.json
+    - assets/dados/hinos_nganguela.json
+    - assets/dados/invocatorias_umbundo.json
+    - assets/dados/invocatorias_nganguela.json
+    - assets/dados/litanias_umbundo.json
+    - assets/dados/litanias_kimbundo.json
+    - assets/dados/litanias_nganguela.json
+    - assets/fonts/NotoSans-Regular.ttf
+    - assets/fonts/NotoSans-Italic.ttf
+    - assets/dados/historia_ieca.json
+    - assets/dados/missoes_ieca.json
+    - assets/images/ieca/bunjei.jpeg
+    - assets/images/ieca/camundongo.png
+    - assets/images/ieca/chilesso.png
+    - assets/images/ieca/chilume.png
+    - assets/images/ieca/chissamba.png
+    - assets/images/ieca/dondi.png
+    - assets/images/ieca/elende.jpg
+    - assets/images/ieca/escola.jpg
+    - assets/images/ieca/kunge.jpg
+    - assets/images/ieca/oliveiras.jpg
+    - assets/images/ieca/salem.jpg
+    - assets/images/ieca/unidondi.jpeg
+    - assets/images/ieca/Academico.jpeg
+    - assets/images/ieca/pCangovi.jpg
+    - assets/images/ieca/pLuciano.jpeg
+    - assets/images/ieca/pLuciano.jpeg
+    - assets/dados/lecionario/janeiro.json
+    - assets/dados/lecionario/fevereiro.json
+    - assets/dados/lecionario/marco.json
+    - assets/dados/lecionario/abril.json
+    - assets/dados/lecionario/maio.json
+    - assets/dados/lecionario/junho.json
+    - assets/dados/lecionario/julho.json
+    - assets/dados/lecionario/agosto.json
+    - assets/dados/lecionario/setembro.json
+    - assets/dados/lecionario/outubro.json
+    - assets/dados/lecionario/novembro.json
+    - assets/dados/lecionario/dezembro.json
+    - assets/dados/hinos_cokwe.json
+    - assets/dados/litanias_cokwe.json
+    - assets/dados/salmos_cokwe.json
+    - assets/dados/hinos_fiote.json
+    - assets/dados/salmos_fiote.json
+    - assets/dados/litanias_fiote.json
+    - assets/dados/invocatorias_fiote.json
+    - assets/dados/hinos_kikongo.json
+    - assets/dados/hinos_kwanyama.json
+    - assets/dados/hinos_adicionais.json 
+    
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+
+  image_path: "assets/images/icone.png"

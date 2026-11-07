@@ -1,0 +1,247 @@
+{
+  "mes": "Dezembro",
+  "ano": 2026,
+  "tema_mensal": "Advento, Encarnação de Cristo e Esperança Gloriosa",
+  "introducao_mensal": "Dezembro é o tempo abençoado em que a Igreja contempla o mistério da Encarnação: o Verbo de Deus que Se fez carne e habitou entre nós. Ao longo deste mês de Advento e Natal, celebramos a Primeira Vinda de Cristo com alegria e gratidão, enquanto fortalecemos a fé e renovamos a esperança na Sua Segunda Vinda gloriosa. É um período de louvor, comunhão familiar, fraternidade e profunda adoração ao Rei que veio e voltará.",
+  "observacao": "O PDF do Lecionário 2026 não contém conteúdo para o mês de Dezembro. As páginas 201 a 231 estão em branco (sem text layer). O conteúdo deste mês foi mantido a partir da versão anterior do JSON, uma vez que não há texto no PDF para validar ou corrigir.",
+  "datas_importantes": [
+    { "data": "6/12", "evento": "2º Domingo do Advento" },
+    { "data": "13/12", "evento": "3º Domingo do Advento" },
+    { "data": "20/12", "evento": "4º Domingo do Advento" },
+    { "data": "24/12", "evento": "Vigília / Culto de Véspera de Natal" },
+    { "data": "25/12", "evento": "Dia de Natal (Nascimento do Salvador)" },
+    { "data": "27/12", "evento": "Domingo de Pós-Natal e Acção de Graças pelo Fim do Ano" },
+    { "data": "31/12", "evento": "Culto de Vigília de Fim de Ano (Passagem de Ano)" }
+  ],
+  "semanas": [
+    {
+      "periodo": "1 a 6 de Dezembro de 2026",
+      "tema_semanal": "A voz que clama no deserto: Arrependimento e preparação.",
+      "introducao_semanal": "Continuamos a jornada do Advento meditando no apelo dos profetas e de João Baptista para a preparação do coração diante da santidade de Deus.",
+      "dias": [
+        {
+          "data": "Terça-feira, 1 de Dezembro de 2026",
+          "texto_biblico": "Malaquias 3:1",
+          "tema": "O mensageiro da aliança.",
+          "reflexao": "O Senhor envia o Seu mensageiro para preparar o caminho, convidando-nos a purificar as nossas intenções e vidas para a Sua vinda."
+        },
+        {
+          "data": "Quarta-feira, 2 de Dezembro de 2026",
+          "texto_biblico": "S. Mateus 3:1-3",
+          "tema": "Arrependei-vos, porque é chegado o Reino dos Céus.",
+          "reflexao": "O verdadeiro sentido do Advento começa no arrependimento sincero e na transformação de atitudes."
+        },
+        {
+          "data": "Quinta-feira, 3 de Dezembro de 2026",
+          "texto_biblico": "Isaías 11:1-2",
+          "tema": "O Broto da raiz de Jessé.",
+          "reflexao": "Sobre o Messias repousará o Espírito do Senhor: Espírito de sabedoria, de entendimento, de conselho e de fortaleza."
+        },
+        {
+          "data": "Sexta-feira, 4 de Dezembro de 2026",
+          "texto_biblico": "Lucas 1:76-79",
+          "tema": "A aurora que nos visitou das alturas.",
+          "reflexao": "A vinda de Cristo traz luz aos que jazem nas trevas e guia os nossos pés pelo caminho da paz."
+        },
+        {
+          "data": "Sábado, 5 de Dezembro de 2026",
+          "texto_biblico": "Salmo 85:8-13",
+          "tema": "A misericórdia e a verdade se encontraram.",
+          "reflexao": "Na obra do Messias, a justiça e a paz se beijaram, trazendo a salvação e a bênção sobre a terra."
+        },
+        {
+          "data": "Domingo, 6 de Dezembro de 2026",
+          "evento": "2º Domingo do Advento",
+          "textos_biblicos": ["Isaías 11:1-10", "Romanos 15:4-13", "S. Mateus 3:1-12"],
+          "tema_central": "Preparando o caminho para o Rei da Paz.",
+          "reflexao": "Acendemos a segunda vela do Advento renovando a paz no nosso coração e na comunidade de fé.",
+          "liturgia": {
+            "hinos": ["105 Português", "108 Português", "112 Português"],
+            "salmo": "85",
+            "leituras_biblicas": ["Isaías 11:1-10", "Romanos 15:4-13", "S. Mateus 3:1-12"]
+          }
+        }
+      ]
+    },
+    {
+      "periodo": "7 a 13 de Dezembro de 2026",
+      "tema_semanal": "A alegria da promessa cumprida e o regozijo em Deus.",
+      "dias": [
+        {
+          "data": "Segunda-feira, 7 de Dezembro de 2026",
+          "texto_biblico": "Isaías 35:1-2",
+          "tema": "O deserto florescerá.",
+          "reflexao": "A presença do Senhor transforma lugares secos em jardins de alegria e restauração."
+        },
+        {
+          "data": "Terça-feira, 8 de Dezembro de 2026",
+          "texto_biblico": "S. Lucas 1:46-55",
+          "tema": "O Magnificat: A minha alma engrandece ao Senhor.",
+          "reflexao": "Com Maria, louvamos a Deus porque Ele atenta para a humildade dos Seus servos e cumpre a Sua misericórdia."
+        },
+        {
+          "data": "Quarta-feira, 9 de Dezembro de 2026",
+          "texto_biblico": "Filipenses 4:4-5",
+          "tema": "Alegrai-vos sempre no Senhor.",
+          "reflexao": "A alegria do Advento não depende de circunstâncias temporais, mas da certeza de que o Senhor está perto."
+        },
+        {
+          "data": "Quinta-feira, 10 de Dezembro de 2026",
+          "texto_biblico": "Miquéias 5:2",
+          "tema": "E tu, Belém Efrata...",
+          "reflexao": "Deus escolhe o que é pequeno e humilde no mundo para manifestar o Seu poder e a Sua glória salvadora."
+        },
+        {
+          "data": "Sexta-feira, 11 de Dezembro de 2026",
+          "texto_biblico": "S. Tiago 5:7-8",
+          "tema": "Sede pacientes até à vinda do Senhor.",
+          "reflexao": "Fortalecemos o nosso coração na esperança e na perseverança enquanto aguardamos o cumprimento total do Reino."
+        },
+        {
+          "data": "Sábado, 12 de Dezembro de 2026",
+          "texto_biblico": "Isaías 61:10",
+          "tema": "Regozijar-me-ei grandemente no Senhor.",
+          "reflexao": "O Senhor vestiu-nos com vestes de salvação e cobriu-nos com o manto de justiça."
+        },
+        {
+          "data": "Domingo, 13 de Dezembro de 2026",
+          "evento": "3º Domingo do Advento (Gaudete / Alegria)",
+          "textos_biblicos": ["Isaías 35:1-10", "S. Tiago 5:7-10", "S. Mateus 11:2-11"],
+          "tema_central": "Alegria inabalável pela proximidade da libertação.",
+          "reflexao": "Acendemos a terceira vela do Advento celebrando os sinais do Reino de Cristo que trazem vista aos cegos e esperança aos aflitos."
+        }
+      ]
+    },
+    {
+      "periodo": "14 a 20 de Dezembro de 2026",
+      "tema_semanal": "Emanuel: Deus connosco.",
+      "dias": [
+        {
+          "data": "Segunda-feira, 14 de Dezembro de 2026",
+          "texto_biblico": "Isaías 7:14",
+          "tema": "Eis que a virgem conceberá e dará à luz um filho.",
+          "reflexao": "A profecia messiânica aponta para o sinal divino que garante a presença de Deus no meio do Seu povo."
+        },
+        {
+          "data": "Terça-feira, 15 de Dezembro de 2026",
+          "texto_biblico": "S. Mateus 1:18-21",
+          "tema": "Chamarás o seu nome JESUS.",
+          "reflexao": "Jesus veio com a missão clara de salvar o Seu povo dos seus pecados, revelando o amor redentor do Pai."
+        },
+        {
+          "data": "Quarta-feira, 16 de Dezembro de 2026",
+          "texto_biblico": "S. Mateus 1:22-25",
+          "tema": "Emanuel, que traduzido é: Deus connosco.",
+          "reflexao": "Deus não nos deixou sós no nosso sofrimento; em Cristo, Ele habitou perto de nós para nos conduzir à vida."
+        },
+        {
+          "data": "Quinta-feira, 17 de Dezembro de 2026",
+          "texto_biblico": "S. Lucas 1:26-38",
+          "tema": "Eis aqui a serva do Senhor.",
+          "reflexao": "A resposta de obediência e fé à mensagem de Deus abre espaço para a manifestação dos milagres do Senhor."
+        },
+        {
+          "data": "Sexta-feira, 18 de Dezembro de 2026",
+          "texto_biblico": "S. Lucas 1:39-45",
+          "tema": "Bem-aventurada a que creu.",
+          "reflexao": "A fé nas promessas do Senhor gera comunhão, louvor e o cumprimento dos propósitos divinos."
+        },
+        {
+          "data": "Sábado, 19 de Dezembro de 2026",
+          "texto_biblico": "S. Lucas 1:67-75",
+          "tema": "O Senhor visitou e remiu o seu povo.",
+          "reflexao": "O cântico de Zacarias recorda a fidelidade de Deus à aliança feita com os nossos pais."
+        },
+        {
+          "data": "Domingo, 20 de Dezembro de 2026",
+          "evento": "4º Domingo do Advento",
+          "textos_biblicos": ["Isaías 7:10-16", "Romanos 1:1-7", "S. Mateus 1:18-25"],
+          "tema_central": "Emanuel: A certeza da presença de Deus entre nós.",
+          "reflexao": "Acendemos a quarta vela do Advento, preparando o nosso coração para acolher o Rei da Glória na véspera do Seu nascimento."
+        }
+      ]
+    },
+    {
+      "periodo": "21 a 27 de Dezembro de 2026",
+      "tema_semanal": "O nascimento do Redentor e a luz da salvação.",
+      "dias": [
+        {
+          "data": "Segunda-feira, 21 de Dezembro de 2026",
+          "texto_biblico": "S. João 1:1-5",
+          "tema": "No princípio era o Verbo.",
+          "reflexao": "A Luz verdadeira veio ao mundo e as trevas não prevaleceram contra ela."
+        },
+        {
+          "data": "Terça-feira, 22 de Dezembro de 2026",
+          "texto_biblico": "S. João 1:9-14",
+          "tema": "O Verbo se fez carne e habitou entre nós.",
+          "reflexao": "A Encarnação é a demonstração suprema do amor de Deus, oferecendo-nos a graça de sermos feitos Seus filhos."
+        },
+        {
+          "data": "Quarta-feira, 23 de Dezembro de 2026",
+          "texto_biblico": "Tito 2:11-14",
+          "tema": "A graça salvadora de Deus se manifestou.",
+          "reflexao": "O aparecimento de Cristo ensina-nos a renunciar à impiedade e a viver de forma sóbria, justa e pia."
+        },
+        {
+          "data": "Quinta-feira, 24 de Dezembro de 2026",
+          "evento": "Véspera de Natal / Culto de Vigília",
+          "texto_biblico": "Isaías 9:6-7",
+          "tema": "Um Menino nos nasceu, um Filho se nos deu.",
+          "reflexao": "Maravilhoso Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz — este é o Rei cujo nascimento celebramos com alegria."
+        },
+        {
+          "data": "Sexta-feira, 25 de Dezembro de 2026",
+          "evento": "Dia de Natal",
+          "texto_biblico": "S. Lucas 2:1-20",
+          "tema": "Glória a Deus nas alturas e paz na terra.",
+          "reflexao": "Proclamamos o nascimento do Salvador com o coro celestial e adoramos o Cristo nascido em Belém."
+        },
+        {
+          "data": "Sábado, 26 de Dezembro de 2026",
+          "texto_biblico": "S. Mateus 2:1-12",
+          "tema": "A adoração dos magos do Oriente.",
+          "reflexao": "Oferecemos os nossos melhores tesouros e a nossa vida inteira como tributo de adoração ao Rei Jesus."
+        },
+        {
+          "data": "Domingo, 27 de Dezembro de 2026",
+          "evento": "Domingo de Pós-Natal e Acção de Graças",
+          "textos_biblicos": ["Salmo 148", "Gálatas 4:4-7", "S. Lucas 2:22-40"],
+          "tema_central": "Filhos e herdeiros de Deus por meio de Cristo.",
+          "reflexao": "Quando chegou a plenitude dos tempos, Deus enviou o Seu Filho para que recebêssemos a adopção de filhos e clamássemos: Abba, Pai!"
+        }
+      ]
+    },
+    {
+      "periodo": "28 a 31 de Dezembro de 2026",
+      "tema_semanal": "Gratidão pelo ano findo e compromisso para o Ano Novo.",
+      "dias": [
+        {
+          "data": "Segunda-feira, 28 de Dezembro de 2026",
+          "texto_biblico": "1 Samuel 7:12",
+          "tema": "Ebenézer: Até aqui nos ajudou o Senhor.",
+          "reflexao": "Ao olhar para o ano que termina, erguemos o nosso altar de gratidão reconhecendo a mão sustentadora do Altíssimo."
+        },
+        {
+          "data": "Terça-feira, 29 de Dezembro de 2026",
+          "texto_biblico": "Lamentações 3:22-24",
+          "tema": "As misericórdias do Senhor renovam-se a cada manhã.",
+          "reflexao": "A fidelidade de Deus é a razão pela qual não fomos consumidos no meio das lutas do ano que passou."
+        },
+        {
+          "data": "Quarta-feira, 30 de Dezembro de 2026",
+          "texto_biblico": "Salmo 65:11",
+          "tema": "Coroas o ano com a tua bondade.",
+          "reflexao": "A generosidade divina cobre os nossos caminhos, sustentando-nos em todas as estações com graça e providência."
+        },
+        {
+          "data": "Quinta-feira, 31 de Dezembro de 2026",
+          "evento": "Vigília de Fim de Ano (Passagem de Ano)",
+          "texto_biblico": "Salmo 121:1-8 & Apocalipse 21:5",
+          "tema": "Eis que faço novas todas as coisas.",
+          "reflexao": "Entregamos o ano que finda e o ano que começa nas mãos de Deus, confiantes de que Ele guardará a nossa saída e a nossa entrada, desde agora e para sempre."
+        }
+      ]
+    }
+  ]
+}

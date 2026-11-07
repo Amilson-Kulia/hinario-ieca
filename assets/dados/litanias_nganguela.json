@@ -1,0 +1,556 @@
+[
+  {
+    "id": 1,
+    "titulo": "NOHA YA MU CIMO – KULANIA KULEMESA",
+    "subtitulo": "KULANIA KULEMESA",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Yehova a li mu tembele yeni ya ku lela: mavu ose a holoke ku meso eni. (Hav 2:20)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Nji hianga ku ivua vize vi a ka handeka Njambi Yehova, muomu a ka handeka ciyulo na vantu veni. (Vis 85:8)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Njambi ikeye vutinino vuetu na ngolo yetu, ku-kuasa ca mu hiehi mu kayando. (Vis 46:1)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ngoco vene ka tu kevua vuoma, cipue mavu a aluluka, vutuhu micinda i ndundumukila mu kati ka mema akalunga. (Vis 46:2)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Lavelela kuli Yehova, muomu kuli Yehova ku li ngozi, na kuli ikeye kua lana vunkuli. (Vis 130:7)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Nji tumamena Yehova muono uange u tumamena, na ku lizi lieni nja lavelela. (Vis 130:5)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Halesenu Yehova hamo nange, kaha tu zumbangeyenu lizina lieni mumo lika. (Vis 34:3)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Muomu ua kama Yehova, ua ku sangaziala cikumakuma. (Vis 96:4)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Yehova ikeye mukua cikeketima na kavumbi, ua livandeka ku nienga, kaha a lana ngozi. (Vis 103:8)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ke ku linga netu ngue ku vipi vietu, cipue ka tu lunguisile ngue ku milonga yetu. (Vis 103:10)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Muomu ngue melu a li helu cikuma lia mavu, ngecize mua neneha ngozi yeni kuli vaze va mu vuila vuoma. (Vis 103:11)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ngue omo ku-iza ca litangua ca litepa na ku-ya ca litangua, ku laako ngecize na tu sondoluela vivulumuna vietu. (Vis 103:12)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tsiliela Yehova na mutima uove uose, kati u zendamene ku mana ove ivene. (Vis 3:5)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Nji hilule, a Njambi, na ku tantekeya mutima uange: nji eseke, na ku tantekeya visinganieka viange, na ku mona nga ku i li njila ya ipi muli ange, kaha nji tuamene mu njila ize ka ye ku hua, ya ya-ye. (Vis 139:23-24)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Talenu cilemo ca ku hiana Tata na tu hieco, omo va tu tumbula vana va Njambi. (1 Yoano 3:1)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu na santsela kuli Njambi omo vuana vueni vukevuo ka vu tava ku vu tumbula. (II Kol 9:15)"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "NOHA YA MU CIVALI – YA KU LITAVELA",
+    "subtitulo": "YA KU LITAVELA",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Ivuilila, a kaniungi ua Isaleli, yove mukua ku tuamena Yosefe ngue vutanga; yove mukua ku tumama helu lia vaselumbini, tua ceke, ku meso a Efalimi na Mbenjamini na Manase, hindula zindzili ziove, kaha tuaya mu ku tu ohiela. (Vis 80:1,2)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka. (Vis 80:19)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Ua fumisile muti ua viniu ku Ingito: ua sekuile vakua vifuti, na ku u tombeka. Ua u viukisilile lumo, na mizi ya tokelekele, kaha ua sulisile cifuti. (Vis 80:8,9)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "A Njambi ua vivunga, talako fume muilu, kaha mona, na ku hinduisa muti ou. Na cimpindakati cize ci lia tombekele livoko liove lia cilio. (Vis 80:14,15)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tu vuileko ci keketima, a Njambi, ngue ku ngozi yove: ngue ku ku-lana ca vikeketima viove vivotsi zimangana vivulumuna vietu. Tanga muli etu mutima ua ku lela, a Njambi, kaha naua cimbembesi ca ku sungama mu kati ketu. (Vis 51:1,10)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tu tanese to ku vipi vietu, kaha tu lelese ku vupi vuetu. Kuli ove, kuli ove lika, tu na vulumuna, kaha tu na lingi evi via vipi ku meso ove, Mangana ove u sungame omo u handeka, kaha u viuke omo u sompesa. A Sukulu, asamesa milungu yetu; kaha kanua ketu ka ka solola visangala viove. Tu hiluisile ndzolela ya vuovole vuove; kaha tu kuatese na cimbembesi ca ku ononoka. Mutima ua ku pokoka na ku aluluka, ko u ka yengula, a Njambi. (Vis 51:2,4,15,12,17b)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Amba ni nga Njambi ua va hele vuana vumo lika netu naua, omo etu tua tsilielele Muangana Yesu Kilistu, ange-ndzo yangeya, linga nji vindike Njambi? Amba ni Njambi na fungila vakua vifuti ku aluluka ku uana muono. (Vilinga 11:17-18b)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kaha Sipilitu ikeye ua nji sikile, ku ya navo, na ku hangula cahi. Kaha omo nja sangumukile ku handeka, Sipilitu Santu ua uile ha vakevo, ngue mua na uile hali etu haze ha katete. Muomu vose ava, Sipilitu ua Njambi a li na ku va tuamena, vakevo vene vana va Njambi. (Vilinga 11:12,15; Loma 8:14)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kaha talenu, kangelo ua Muangana ua mene hamo neni, na ceke ca tuile mu hondo. Kaha kangelo ua mu lekele, ngueni, Lizitike kaha zala zinkaku ziove, zala kambilikiti kove, nji kave. (Vilinga 12:7,8)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Vunoni ngue omo ku litavasiano lieni, tu tavela melu a aha na mavu a aha, hakeho ha ka kala vuviuke. Kaha nja vuile lizi lia kama kama lia ku citumamo ca vuangana ku handeka, ngualio, Talenu, tembele ya Njambi i li hamo na vantu, kaha ikeye a ka tumama hamo navo, kaha va ka pua vantu veni, kaha Njambi ivene a ka kala hamo navo, a ka kala Njambi yavo. Kaha a ka hunda masozi ose kumeso avo na kutsa ka ci ka kala naua, muomu viuma via ku livanga vi na hiti. (II Pet 3:13; Ku-Solola 21:3,4)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu aluluise naua, a Yehova, Njambi ua vivunga; tuisa cihanga cove ceke, kaha tu kovoka."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "NOHA YA MU CITATU – YA KU PINGA VIEKA NA VIEKA",
+    "subtitulo": "YA KU PINGA VIEKA NA VIEKA",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Lengeyenu Yehova omo mu ku hasa ku mu uana, mu tambakianienu omo a li ha hiehi. Mukua vipi a seze njila yeni, na mukua vuhenge visinganieka vieni; kaha a hiluke kuli Yehova, kaha ikeye a ka mu ecela ku vipi cikumakuma. (Isaya 55:6,7)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Muomu Yehova ikeye ua viuka, ngozi yeni i kala ku miaka yose ya ya-ye, na vucili vueni ku mazimo ose. (Visamo 100:5)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Vutuhu vipi vienu via tili ngengu, vi ka vuka to ngue mema a ku konda; vutuhu via tili nge, vi ka himpuka ngue maka a mpanga. Vunoni nga tu endela mu mutana, ngue omo ikeye a li mu mutana, maninga a Yesu Muaneni a tu vukisa ku vipi viose. (Isaya 1:18; I Yoano 1:7)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Nga tu handeka, nguetu ka tuesi na vupi, tu ku lionga etu vavene, na vusunga vuahimo muli etu. Vunoni nga tu litavela vipi vietu, ikeye mukua cili na mukua vuviuke, a tu ecela vipi vietu. (I Yoano 1:8,9)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Uze a fuika ku vivulumuna vieni ka li ka vezika; vunoni uze a litavelavio na ku vi seza a ka tambula cikeketima. Tu litavelienu vipi vietu, muomu ua vezika uze va na mu ecela civulumuna ceni. (Visimo 28:13; 32:1)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Nja litavele vupi vuange kuli ove, na vipi viange ka nja vi suekele: nja handekele nguangue, nji ka litavela vivulumuna viange kuli Yehova, kaha ove ua nji ecelele ku-pihia ca vupi vuange. (Visamo 32:5)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Muomu mu a li ku handeka Yehova ngueni: nji tantekeya visinganieka vize vi nji ku singanieka kuli enu, ngueni Yehova, visinganieka via ciyulo, kati via vipi. Tu konkienu na ku eseka zinjila zietu, na ku hiluka naua kuli Yehova. Tu zundulienu mutima uetu hamo na mavoko etu kuli Njambi muilu. (Yelemiya 29:11; Vinien 3:40,41)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Nji vuileko cikeketima, a Njambi, ngue ku ngozi yove: ngue ku ku-lana ca vikeketima viove vivotsi zimangana vivulumuna viange. Tanga muli ange mutima ua ku lela, a Njambi; kaha haka naua cimbembesi ca ku sangama mu kati kange. Nji tuamene mu njila ize ka ye ku hua, ya ya-ye. (Visamo 51:1,10; 130:24b)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Uze ka tantekeyele vupi, ua mu puisile vupi omo yetu; linga etu tu pue vuviuke vua Njambi muli ikeye. Nenu naua ngecize vene litumbulienu ngecize ngue mu vatsi ku vupi, vunoni mu vakua muono kuli Njambi muli Kilistu Yesu. (II Kol 5:21; Loma 6:11)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Muli ikeye tu li na ku kuka na maninga eni, kuecela ca vivulumuna vietu, ngue ku vufuko vua kavumbi keni. (Efeso 1:7)"
+      },
+      {
+        "papel": "todos",
+        "texto": "Tu na santsela kuli Njambi omo vuana vueni vukevuo ka vu tava ku vu tumbula. (II Kol. 9:15)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "NOHA YA MU CIUANA – YA KU SANTSELA",
+    "subtitulo": "YA KU SANTSELA",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Tu santsienu kuli Njambi omo muana lisoluela kuli etu hakati ka viuma vingi a nambe na ku linga, vunoni sina omu muanambe netu na muana eni Yesu Kilistu ikeye Muovole uetu, kasi ikeye na tu lingila njila ya sunga na muono."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu na santsela kuli Njambi omo lia ngozi yeni ya yingi."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tu santsienu kuli Njambi omo tu li na mbangi munene mu mitima yetu ikeye Sipilitu Sandu, novu ikeye a ku manena mu mitima yetu vikuama via ku tu kula nomu a na tu muesa mana na ndzili."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu na santsela kuli Njambi omo lia ngozi yeni ya yingi."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tu santsienu kuli Njambi omo tu li na visoneka vieni via nganda vi na lingi ceke ca zingano zietu na ku iziva ku tantekeya viuma via ku tu kula nevi via muono ua ya-ye ka ue ku hua. Tu santsienu naua ngomu a tu katuila ava va tu soluela lizi lieni lia ku lela na ku tu soluela njila ya cili."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu na santsela kuli Njambi omo lia ngozi yeni ya yingi."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tu santsienu kuli Njambi omo na tu sana ku cikuama ceni ca ku lela, tu linge tunganda va lizi lieni. Tu santsienu omo ku vikuama viaco tuli na mpami ya ku kuasa cingi cihuti cetu Angola, na ku tsontsa naua hakati ketu vunene vua mbunga yeni."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu na santsela kuli Njambi omo lia ngozi yeni ya yingi."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Tu santsienu kuli Njambi ngomu ka tu sele ndzimba, vunoni ua tu sela cizilika ca tumbuka ca Yesu ngueni “Hamenu ku vihuti viose na ku longesa vandongesi nomu a li kuminya na ku tsontsa vu mpami ngueni tuli hamolika nenu na ku kotoka ca mavu”."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Tu na santsela kuli Njambi omo lia ngozi yeni ya yingi."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "NOHA YA MU CITANO – YA NATALE",
+    "subtitulo": "YA NATALE",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Vulamba vu ehenu kuli Muangana ua va miangana, ou ua tumine ku ovola vantu va li kuminya ku linga cizango ceni."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ku malimi ose va mu sangale nguavo: Aleluya Muangana ua Ciyulo."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Ikeye a ka pua ua kama, va ka mu luka Muana ua Mukua ku Hiana: kaha Muangana Njambi a ka mu hia citumamo ca vuangana ca ise Ndaviti: kaha a ka sika ndzivo ya Yakomba ku miaka yose ya ya-ye: na vuangana vueni ka vu ka hua. (Luka 1:32,33)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ku malimi ose va mu sangale nguavo: Aleluya Muangana ua Ciyulo."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Muomu lizi na limo liahi lia ku fuma kuli Njambi li ka zela ngolo. Kaha uze mukua ku tsiliela na vezika; muomu viuma vize via ku fuma kuli Muangana vi va na handeka neni, vi ka soloka. Muomu ikeye na tale ku vundende vua mukuamanda ueni: Muomu tala, fume hano mazimo ose va ka nji tumbula mukua ku vezika. Na cikeketima ceni ci kala ku mazimo na ku mazimo. (Luka 1:37,45,48,50)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ku malimi ose va mu sangale nguavo: Aleluya Muangana ua Ciyulo."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Muomu na kangelo muka na handeka lumo, ngueni, ove u Muanange, litangua lia lelo nja ku seme kaha naua, yange nji ka pua Ise kuli ikeye, neni a ka pua Muana kuli ange. Kaha omo a neha naua Muana ua ndala ha mavu, a handeka ngueni, na tungelo vose va Njambi va mu lemese. Cituamo cove ca vuangana, ove Njambi, ci kala-kala miaka na miaka ya ya-ye; na mbueti ya vuolole ikeyo mbueti ya vuangana vuove. Isaya ngueni, va ka mu luka lizina lieni: Mukua ku Komouesa, Mukua Zinguli, Njambi Mukua Ngolo, Ise ya Miaka yose, Muata ua Ciyulo. (Vahev 1:5,6; Isaya 9:6)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ku malimi ose va mu sangale nguavo: Aleluya Muangana ua Ciyulo."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Ngoco vene nji ka ku santsela, a Yehova, ha kati ka vifuti, kaha nji kemba visangala ku lizina liove. Vantu va ku sangaziale, a Njambi; vantu vose va ku sangaziale. Omo mu nji li na ku yoya, mavuli ose a ka nji tsikamena, na malimi ose a ka litava kuli Njambi. Mu nima yeni nja muene, kaha talenu, civunga ca kama, na umo uahi ua hasa ku va tanda, va ku vifuti viose, na miyati yose, na vantu vose na malimi ose, kaha va tambakana na lizi lia kama, nguavo, vuovole vu li kuli Njambi yetu. (Visamo 18:49; 67:5; Lom 14:11; Ku-sol 7:9,10)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ku malimi ose va mu sangale nguavo: Aleluya Muangana ua Ciyulo."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "NOHA YA SAMBANU – YA PASKUA",
+    "subtitulo": "YA PASKUA",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Vulamba ku Ise na ku Muana na ku Sipilitu Santu. Ngeci mua ha katete, lelo na ku miaka ya ya-ye."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Vunoni ku litangua lia ku livanga lia simano, te ku ci ku ca, vakevo vezile ku cihilo, va nehele vihemba vize vi va ka viukisile. Kaha va uanene livue va na li andumuna laza ku cihilo. (Luka 24:1,2)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kaha va fumine lusi ku cihilo, na vuoma na ndzolela ya kama, kaha talenu, Yesu ua liuanene navo, ngueni, Hindukenu! (Mat. 28:8,9)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Vunoni Maliya ua mene ku mbanza ya cihilo na ku lila: ngoco omo ua lilile, ua kotamene, ua talele mu cihilo. Ikeye ua va lekele, ngueni, va na ambata Muangana uange, kaha ka nji tantekeya kuze ku va na muhake. Omo ua handekele ngecize, ua alulukile, kaha wa muene Yesu na manako, kaha ka tantekeyele ngecize ikeye Yesu. Yesu ua handekele neni, ngueni, Mpuevo, vikandzo u ku lilila? Maliya ua alulukile, kaha ua handekele neni, ngueni, Mulongisi. (Yoano 20:11,13-15)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kaha talenu, litangua olio vene vavali vavo va ile ku limbo limo lia ku luka Emau. Kaha ca puile ngecize, omo va kele na kuana ku lileka na ku likandula zimpata, ivene Yesu ua va suenene, uendele mumo navo. (Luka 24:13,15)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Ngoco vene omo kua puile cinguezi litangua olio, omo va na patele ku mapito muze mu va kele vandongesi, omo vuoma vua va Yundeya, kaha Yesu uezile, ua mene ha kati kavo, kaha uahandekele navo, ngueni, Ciyulo ci kale nenu. Kaha omo na handekele ngecize, ua va lekesele mavoko eni na luhati lueni. (Yoano 20:19,20)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Simono Petulu ua handekele navo, ngueni, Nji ku ya mu ku ta vantsi. Va mu lekele, nguavo, Netu naua tu ku ya nove. Kaha vutsiki vuze na umo i va lavuile uahi. Vunoni omo litangua lia hiangele ku ca, Yesu ua mene ku mukulo ua cisali vunoni vandongesi ka va tantekeyele ngecize ikeye Yesu. Ngoco vene ndongesi uze ya lemene Yesu, ua lekele Petulu, ngueni, Ikeye Muangana. (Yoano 21:3,4,7,)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Nja kele muli Sipilitu ku litangua lia Muangana, kaha nja vuile ku nima yange lizi lia kama, ngue lia luneta; kaha nja alulukile ku mona lizi lize lia handekele nange, lia ku lifua na muana muntu, na zala vuzalo vua ku heta ku viliato, na lizitika muiva ua olu mu ntulo. Na mutue ueni na zinkambu zieni via vukile to ngue maka a mpanga a ku vuka, ngue mema a ku konda; na meso eni a lifuile na mulenge ua tuhia; na viliato vieni ngue vunengu vua ku tumuna, ngue va na vu lelesa mu lutengo; na lizi lieni ngue lizi lia mema a engi. Kaha omo nja mu muene, nja uile ku viliato vieni ngue mukua ku tsa. Kaha ikeye ua nji salekele livoko lieni ngue mukua ku tsa. Kaha ikeye ua nji salekele livoko lieni lia cilio, ngueni, kati u ivue vuoma; yange nji mukua ku livanga na mukua ku kotokela, na Mukua ku yoya; nja tsile, kaha tala, nji yoya ku miaka na miaka ya ya-ye, kaha nji li na masapi a ku ku-tsa na a ku Vukalo vua Vatsi. (Ku-Solola 1:10,12-15,17,18)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya Aleluya, Aleluya!"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "NOHA YA SAMBANU – YA PASKUA",
+    "subtitulo": "YA PASKUA",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Vulamba ku Ise na ku Muana na ku Sipilitu Santu. Ngeci mua ha katete, lelo na ku miaka ya ya-ye."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Vunoni ku litangua lia ku livanga lia simano, te ku ci ku ca, vakevo vezile ku cihilo, va nehele vihemba vize vi va ka viukisile. Kaha va uanene livue va na li andumuna laza ku cihilo. (Luka 24:1,2)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kaha va fumine lusi ku cihilo, na vuoma na ndzolela ya kama, kaha talenu, Yesu ua liuanene navo, ngueni, Hindukenu! (Mat. 28:8,9)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Vunoni Maliya ua mene ku mbanza ya cihilo na ku lila: ngoco omo ua lilile, ua kotamene, ua talele mu cihilo. Ikeye ua va lekele, ngueni, va na ambata Muangana uange, kaha ka nji tantekeya kuze ku va na muhake. Omo ua handekele ngecize, ua alulukile, kaha wa muene Yesu na manako, kaha ka tantekeyele ngecize ikeye Yesu. Yesu ua handekele neni, ngueni, Mpuevo, vikandzo u ku lilila? Maliya ua alulukile, kaha ua handekele neni, ngueni, Mulongisi. (Yoano 20:11,13-15)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Kaha talenu, litangua olio vene vavali vavo va ile ku limbo limo lia ku luka Emau. Kaha ca puile ngecize, omo va kele na kuana ku lileka na ku likandula zimpata, ivene Yesu ua va suenene, uendele mumo navo. (Luka 24:13,15)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Ngoco vene omo kua puile cinguezi litangua olio, omo va na patele ku mapito muze mu va kele vandongesi, omo vuoma vua va Yundeya, kaha Yesu uezile, ua mene ha kati kavo, kaha uahandekele navo, ngueni, Ciyulo ci kale nenu. Kaha omo na handekele ngecize, ua va lekesele mavoko eni na luhati lueni. (Yoano 20:19,20)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Simono Petulu ua handekele navo, ngueni, Nji ku ya mu ku ta vantsi. Va mu lekele, nguavo, Netu naua tu ku ya nove. Kaha vutsiki vuze na umo i va lavuile uahi. Vunoni omo litangua lia hiangele ku ca, Yesu ua mene ku mukulo ua cisali vunoni vandongesi ka va tantekeyele ngecize ikeye Yesu. Ngoco vene ndongesi uze ya lemene Yesu, ua lekele Petulu, ngueni, Ikeye Muangana. (Yoano 21:3,4,7,)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya!"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Nja kele muli Sipilitu ku litangua lia Muangana, kaha nja vuile ku nima yange lizi lia kama, ngue lia luneta; kaha nja alulukile ku mona lizi lize lia handekele nange, lia ku lifua na muana muntu, na zala vuzalo vua ku heta ku viliato, na lizitika muiva ua olu mu ntulo. Na mutue ueni na zinkambu zieni via vukile to ngue maka a mpanga a ku vuka, ngue mema a ku konda; na meso eni a lifuile na mulenge ua tuhia; na viliato vieni ngue vunengu vua ku tumuna, ngue va na vu lelesa mu lutengo; na lizi lieni ngue lizi lia mema a engi. Kaha omo nja mu muene, nja uile ku viliato vieni ngue mukua ku tsa. Kaha ikeye ua nji salekele livoko lieni ngue mukua ku tsa. Kaha ikeye ua nji salekele livoko lieni lia cilio, ngueni, kati u ivue vuoma; yange nji mukua ku livanga na mukua ku kotokela, na Mukua ku yoya; nja tsile, kaha tala, nji yoya ku miaka na miaka ya ya-ye, kaha nji li na masapi a ku ku-tsa na a ku Vukalo vua Vatsi. (Ku-Solola 1:10,12-15,17,18)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya Aleluya, Aleluya!"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "NOHA YA CITA – YA PASKUA",
+    "subtitulo": "YA PASKUA",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Nja kele muli Sipilitu ku litangua lia Muangana, kaha nja vuile ku nima yange lizi lia kama, ngue lia luneta; kaha nja alulukile ku mona lizi lize lia handekele nange, lia ku lifua na muana muntu, na zala vuzalo vua ku heta ku viliato, na lizitika muiva ua olu mu ntulo. Na mutue ueni na zinkambu zieni via vukile to ngue maka a mpanga a ku vuka, ngue mema a ku konda; na meso eni a lifuile na mulenge ua tuhia; na viliato vieni ngue vunengu vua ku tumuna, ngue va na vu lelesa mu lutengo; na lizi lieni ngue lizi lia mema a engi. Kaha omo nja mu muene, nja uile ku viliato vieni ngue mukua ku tsa. Kaha ikeye ua nji salekele livoko lieni ngue mukua ku tsa. Kaha ikeye ua nji salekele livoko lieni lia cilio, ngueni, kati u ivue vuoma; yange nji mukua ku livanga na mukua ku kotokela, na Mukua ku yoya; nja tsile, kaha tala, nji yoya ku miaka na miaka ya ya-ye, kaha nji li na masapi a ku ku-tsa na a ku Vukalo vua Vatsi. (Ku-Solola 1:10,12-15,17,18)"
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Aleluya Aleluya, Aleluya!"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "NOHA YA CITATU – YOPENDEKOSTE",
+    "subtitulo": "YOPENDEKOSTE",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "A Espiritu Usovoli, ove u Cime comuenyo locinyi, Ukuaku muisa oviali via Suku, Undembeleki, Uñolisi yovitima, haive Usongui wetu."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ndo tu yeve a Espiritu Sandu, loku tu kuatisa."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "A Espiritu wukulihiso lolondunge, wa tunda ku Isietu o kasi kilu, kuenda ku Yesu Omolahe, tu vanje lohenda loku tu songuila vocinyi cove, oco tu litepe lowelema, loku amamako oku kuatisa evi viove viocili."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ndo tu yeve a Espiritu Sandu, loku tu kuatisa."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "A Espiritu liocisola lohenda, ove wa ihiwile ca piãla ku Ñala Yesu Kristu, wa limolehisa pokati komuenyo wahe we lipua kilu lieve, kuenda alongiso ahe a longa kuenda kokufa kuahe kuoku tu yovola. Wa eca ulamba pokati kepinduko liahe. Tu yongola oku ku yuluila ovitima vietu."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ndo tu yeve a Espiritu Sandu, loku tu kuatisa."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "A Espititu ecaiwa lesanju kuvosi va lomba ku Suku Isietu, haive Ñala yetu Yesu Kristu a likuminya oku ku tuma kolondonge viahe, enju kokuetu, tumala letu, kuenda pokati kocali cove tu imule eviho liosi."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ndo tu yeve a Espiritu Sandu, loku tu kuatisa."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "A Espiritu Ukuonene, ndeci wa wila kekongelo kefetikilo, hu muisa vakuetuavo unene woku linga olombangi vionjovoli yetu, lepondolo lioku yula pokati kovitangi via lua, haico tu lombelavo ekongelo lia Kristu kulo ko Ngola, ko Afrika, lokolofeka viosi, oco kokualio kumolehe oku tua kuocinyi cove, kuenda unene wa Suku woku popela oluali luosi."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ndo tu yeve a Espiritu Sandu, loku tu kuatisa."
+      },
+      {
+        "papel": "dirigente",
+        "texto": "A Espiritu, ove ukuakupitiya evi via Cime cetu Yesu Kristu, ndo tu situluile olondaka viahe viosi, loku vi tumalisa ciwa vovitima vietu. Sunguluisa ovipango vietu, kuenda yelisa ovitima vietu, ha tu yuka ocali cove lomuenyo wove, oco tu ime epako lia lua, lina li tumbangiya onduko yove yi kola."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "Ndo tu yeve a Espiritu Sandu, loku tu kuatisa."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "NOHA YA MU CITA – LIETEKE LIA TETE LIULIMA WOKALIYE",
+    "subtitulo": "LIETEKE LIA TETE LIULIMA WOKALIYE",
+    "blocos": [
+      {
+        "papel": "dirigente",
+        "texto": "Eci oloneke viulima via tukuiwa viatela, keteke liatete kulima wokaliye tu litumbiki, kuenda tu lieci ku Yehova, oco a tu lekise esunga liahe eli lilaika oku tu tata, kuenda oku tu endisa ciwa vulima wokaliye a tuiha."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "(Tu sivaya Ñala yetu..., ocinimbu ca tete)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Poku enda kuetu vungende womuenyo wetu vulima ulo wokaliye, omo tua likuminya oku songuiwa londaka yahe, yu Muele Ñala Yesu hati, Ovitima viene ka vi ka tokotelue, koleli Suku Ñolelivo ame. Ocili mopia lene siti Ame ndinjila haime ndicili hame ndimuenyo. Lomue iya ku Tate te lame."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "(ocinimbu ca vali)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Etali eteke lia tete kulima. Umue wa kuliha ndomo ulaika oku kala? Te lika Yehova Suku. Omo liaco, liyelisi lohenda ya Yesu. Momo ukuesunga omola omuenyo omo liohenda yaye. Momo ekolelo olio ociseveto covina vilavokaiwa, halio ombangi yovina ka vi molaiha."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "(ocinimbu ca tatu)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Amala, akuenje, afeko, alume, akãi, akulu, lene amanu vosi, ka tu ka soli londaka lika pamue lelimi, te lovilinga kuenda locili. Nda tu ci linga, tu limbukiwa okuti tua tiamela kocili, kuenje tu tulila ovitima vietu kovaso aye, eci ovitima vietu vi tu veta ovelo. Momo Suku wa piãla, ovitima vietu vi sule kuenje eye wa kuliha cosi. A vakuacisola nda ovitima vietu ka vi tu veta evelo tu kala lutõi kovaso a Suku. Kuenje cosi tu pinga kokuahe tu ci tambula, momo tua pokola kovihandeleko viaye, loku linga ovina viu sanjuisa."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "(ocinimbu ca kuala)"
+      },
+      {
+        "papel": "dirigente",
+        "texto": "Ocihandeleko caye ceci okuti, tu kolela onduko y`Omolaye Yesu Kristu, loku lisola pokati ndeci a tu handeleka. Wosi o pokola kovindeleko via Suku, o kala wa Suku, kuenje Suku o kalavo lahe. Tua kuliha okuti eye o kasi vokuetu momo wa tu iha Espiritu liaye likola. Amen."
+      },
+      {
+        "papel": "congregacao",
+        "texto": "(ocinimbu ca talo)"
+      }
+    ]
+  }
+]
